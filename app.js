@@ -1,125 +1,119 @@
 
-let registros = [];
+let data = [];
+let filtros = {
+  periodo: '',
+  perspectiva: '',
+  sucursal: '',
+  oficial: ''
+};
 
-fetch('simulacion_kpis_banco_ejemplo.csv')
-  .then(response => response.text())
-  .then(data => {
-    const rows = data.trim().split('\n').slice(1);
-    registros = rows.map(row => {
-      const [mes, unidad, sucursal, perspectiva, indicador, valor, unidad_medida] = row.split(',');
-      return { mes, unidad, sucursal, perspectiva, indicador, valor: parseFloat(valor), unidad_medida };
-    });
-
-    inicializarFiltros();
-    actualizarDashboard();
+async function cargarDatos() {
+  const response = await fetch('simulacion_kpis_banco_ejemplo.csv');
+  const text = await response.text();
+  const rows = text.split('\n').slice(1);
+  data = rows.map(row => {
+    const [Mes, Unidad, Sucursal, Perspectiva, Indicador, Valor, UnidadMedida] = row.split(',');
+    return { Mes, Unidad, Sucursal, Perspectiva, Indicador, Valor: parseFloat(Valor), UnidadMedida };
   });
+  inicializarFiltros();
+  aplicarFiltros();
+}
 
 function inicializarFiltros() {
-  const unidades = [...new Set(registros.map(r => r.unidad))];
-  const sucursales = [...new Set(registros.map(r => r.sucursal))];
-  const meses = [...new Set(registros.map(r => r.mes))].sort();
+  const periodos = [...new Set(data.map(d => d.Mes))].sort();
+  const sucursales = [...new Set(data.map(d => d.Sucursal))].filter(s => s !== "Casa Matriz").sort();
+  const oficiales = [...new Set(data.map(d => d.Unidad))].filter(u => u !== "Procesamiento Comercial").sort();
 
-  const unidadSelect = document.getElementById("filtroUnidad");
-  unidades.forEach(u => {
-    const opt = document.createElement("option");
-    opt.value = u;
-    opt.textContent = u;
-    unidadSelect.appendChild(opt);
+  const filtroPeriodo = document.getElementById('filtroPeriodo');
+  const filtroSucursal = document.getElementById('filtroSucursal');
+  const filtroOficial = document.getElementById('filtroOficial');
+
+  periodos.forEach(p => filtroPeriodo.innerHTML += `<option value="${p}">${p}</option>`);
+  sucursales.forEach(s => filtroSucursal.innerHTML += `<option value="${s}">${s}</option>`);
+  oficiales.forEach(o => filtroOficial.innerHTML += `<option value="${o}">${o}</option>`);
+
+  filtroPeriodo.addEventListener('change', e => { filtros.periodo = e.target.value; aplicarFiltros(); });
+  filtroSucursal.addEventListener('change', e => {
+    filtros.sucursal = e.target.value;
+    actualizarOficiales(filtros.sucursal);
+    filtros.oficial = '';
+    aplicarFiltros();
   });
-
-  const sucursalSelect = document.getElementById("filtroSucursal");
-  sucursales.forEach(s => {
-    const opt = document.createElement("option");
-    opt.value = s;
-    opt.textContent = s;
-    sucursalSelect.appendChild(opt);
+  document.getElementById('filtroPerspectiva').addEventListener('change', e => {
+    filtros.perspectiva = e.target.value;
+    aplicarFiltros();
   });
-
-  const periodoSelect = document.getElementById("filtroPeriodo");
-  meses.forEach(m => {
-    const opt = document.createElement("option");
-    opt.value = m;
-    opt.textContent = m;
-    periodoSelect.appendChild(opt);
-  });
-
-  unidadSelect.onchange = actualizarDashboard;
-  sucursalSelect.onchange = actualizarDashboard;
-  document.getElementById("filtroPerspectiva").onchange = actualizarDashboard;
-  periodoSelect.onchange = actualizarDashboard;
-  document.getElementById("btnExportar").onclick = exportarTabla;
+  filtroOficial.addEventListener('change', e => { filtros.oficial = e.target.value; aplicarFiltros(); });
+  document.getElementById('btnExportar').addEventListener('click', exportarCSV);
 }
 
-function actualizarDashboard() {
-  const unidad = document.getElementById("filtroUnidad").value;
-  const sucursal = document.getElementById("filtroSucursal").value;
-  const perspectiva = document.getElementById("filtroPerspectiva").value;
-  const periodo = document.getElementById("filtroPeriodo").value;
+function actualizarOficiales(sucursalSeleccionada) {
+  const filtroOficial = document.getElementById('filtroOficial');
+  filtroOficial.innerHTML = '<option value="">Todos los oficiales</option>';
+  const oficialesFiltrados = [...new Set(data.filter(d => d.Sucursal === sucursalSeleccionada).map(d => d.Unidad))];
+  oficialesFiltrados.sort().forEach(o => {
+    filtroOficial.innerHTML += `<option value="${o}">${o}</option>`;
+  });
+}
 
-  const filtrados = registros.filter(r =>
-    (!unidad || r.unidad === unidad) &&
-    (!sucursal || r.sucursal === sucursal) &&
-    (!perspectiva || r.perspectiva === perspectiva) &&
-    (!periodo || r.mes === periodo)
+function aplicarFiltros() {
+  let filtrados = data.filter(d =>
+    (!filtros.periodo || d.Mes === filtros.periodo) &&
+    (!filtros.perspectiva || d.Perspectiva === filtros.perspectiva) &&
+    (!filtros.sucursal || d.Sucursal === filtros.sucursal) &&
+    (!filtros.oficial || d.Unidad === filtros.oficial)
   );
 
-  const resumen = { Eficiencia: [], Calidad: [], Experiencia: [] };
-  filtrados.forEach(f => resumen[f.perspectiva].push(f.valor));
-  document.getElementById("kpi-eficiencia").textContent = resumen.Eficiencia.length ? promedio(resumen.Eficiencia) : "--";
-  document.getElementById("kpi-calidad").textContent = resumen.Calidad.length ? promedio(resumen.Calidad) : "--";
-  document.getElementById("kpi-experiencia").textContent = resumen.Experiencia.length ? promedio(resumen.Experiencia) : "--";
-
-  actualizarTabla(filtrados);
-}
-
-function actualizarTabla(datos) {
-  const tbody = document.getElementById("tabla-kpis");
-  tbody.innerHTML = "";
-
-  const agrupados = {};
-  datos.forEach(d => {
-    if (!agrupados[d.perspectiva]) agrupados[d.perspectiva] = [];
-    agrupados[d.perspectiva].push(d);
+  const tabla = document.getElementById('tabla-kpis');
+  tabla.innerHTML = '';
+  filtrados.forEach(d => {
+    const color = d.Valor >= 85 ? '🟢' : d.Valor >= 70 ? '🟡' : '🔴';
+    tabla.innerHTML += `<tr>
+      <td class="border px-4 py-2">${d.Unidad}</td>
+      <td class="border px-4 py-2">${d.Sucursal}</td>
+      <td class="border px-4 py-2">${d.Indicador}</td>
+      <td class="border px-4 py-2">${d.Perspectiva}</td>
+      <td class="border px-4 py-2">${d.Valor}</td>
+      <td class="border px-4 py-2">${d.UnidadMedida}</td>
+      <td class="border px-4 py-2">${color}</td>
+    </tr>`;
   });
 
-  Object.keys(agrupados).forEach(persp => {
-    const head = document.createElement("tr");
-    head.innerHTML = `<td colspan="7" class="bg-gray-200 text-left font-bold px-4 py-2">${persp}</td>`;
-    tbody.appendChild(head);
+  const eficiencia = promedio(filtrados.filter(d => d.Perspectiva === "Eficiencia"));
+  const calidad = promedio(filtrados.filter(d => d.Perspectiva === "Calidad"));
+  const experiencia = promedio(filtrados.filter(d => d.Perspectiva === "Experiencia"));
+  document.getElementById('kpi-eficiencia').textContent = eficiencia ? eficiencia.toFixed(1) : '--';
+  document.getElementById('kpi-calidad').textContent = calidad ? calidad.toFixed(1) : '--';
+  document.getElementById('kpi-experiencia').textContent = experiencia ? experiencia.toFixed(1) : '--';
 
-    agrupados[persp].forEach(d => {
-      const row = document.createElement("tr");
-      const semaforo = d.valor >= 80 ? "🟢" : d.valor >= 60 ? "🟠" : "🔴";
-      row.innerHTML = `
-        <td>${d.unidad}</td>
-        <td>${d.sucursal}</td>
-        <td>${d.indicador}</td>
-        <td>${d.perspectiva}</td>
-        <td>${d.valor}</td>
-        <td>${d.unidad_medida}</td>
-        <td>${semaforo}</td>
-      `;
-      tbody.appendChild(row);
-    });
-  });
+  const casa = data.filter(d => d.Sucursal === "Casa Matriz");
+  document.getElementById("tabla-casa-matriz").innerHTML = '<table class="min-w-full text-sm"><thead><tr class="bg-blue-900 text-white"><th class="px-4 py-2">Indicador</th><th class="px-4 py-2">Perspectiva</th><th class="px-4 py-2">Valor</th><th class="px-4 py-2">Semáforo</th></tr></thead><tbody>' +
+    casa.map(d => `<tr class="text-center"><td class="border px-4 py-2">${d.Indicador}</td><td class="border px-4 py-2">${d.Perspectiva}</td><td class="border px-4 py-2">${d.Valor}</td><td class="border px-4 py-2">${d.Valor >= 85 ? '🟢' : d.Valor >= 70 ? '🟡' : '🔴'}</td></tr>`).join('') +
+    '</tbody></table>';
 }
 
 function promedio(arr) {
-  return (arr.reduce((a,b) => a+b,0)/arr.length).toFixed(1);
+  if (!arr.length) return null;
+  return arr.reduce((sum, d) => sum + d.Valor, 0) / arr.length;
 }
 
-function exportarTabla() {
-  const rows = [...document.querySelectorAll("#tabla-kpis tr")];
-  const csv = [["Unidad", "Sucursal", "Indicador", "Perspectiva", "Valor", "Unidad de Medida", "Semáforo"]];
-  rows.forEach(row => {
-    const cols = row.querySelectorAll("td");
-    if (cols.length === 7) {
-      csv.push([...cols].map(td => td.textContent));
-    }
+function exportarCSV() {
+  const header = "Unidad,Sucursal,Indicador,Perspectiva,Valor,Unidad de Medida\n";
+  const filas = [...document.querySelectorAll('#tabla-kpis tr')].map(tr => {
+    return [...tr.children].slice(0, 6).map(td => td.textContent).join(',');
   });
-  const csvContent = "data:text/csv;charset=utf-8," + csv.map(e => e.join(",")).join("\n");
-  const a = document.createElement("a");
-  a.href = csvContent;
-  a.download = "tabla_kpis_filtrada.csv";
+  const blob = new Blob([header + filas.join('\n')], { type: 'text/csv' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'kpis_filtrados.csv';
   a.click();
+  URL.revokeObjectURL(url);
 }
+
+function mostrarVista(seccion) {
+  document.getElementById('vistaSucursales').classList.toggle('hidden', seccion !== 'sucursales');
+  document.getElementById('vistaCasaMatriz').classList.toggle('hidden', seccion !== 'casaMatriz');
+}
+
+document.addEventListener('DOMContentLoaded', cargarDatos);

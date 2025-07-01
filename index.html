@@ -12,57 +12,63 @@
     <aside class="w-64 bg-blue-900 text-white p-6">
       <h1 class="text-xl font-bold mb-6">Banco Ejemplo</h1>
       <nav class="space-y-4">
-        <a href="#" class="block hover:bg-blue-800 p-2 rounded">Dashboard</a>
-        <a href="#" class="block hover:bg-blue-800 p-2 rounded">Configuración</a>
+        <a href="#" onclick="mostrarVista('sucursales')" class="block hover:bg-blue-800 p-2 rounded">Sucursales</a>
+        <a href="#" onclick="mostrarVista('casaMatriz')" class="block hover:bg-blue-800 p-2 rounded">Casa Matriz</a>
       </nav>
     </aside>
     <main class="flex-1 p-6 space-y-6">
-      <h2 class="text-2xl font-bold text-blue-900">KPIs por Unidad y Perspectiva</h2>
+      <div id="vistaSucursales">
+        <h2 class="text-2xl font-bold text-blue-900">KPIs por Sucursal y Oficial</h2>
+        <div class="flex flex-wrap gap-4 items-center">
+          <select id="filtroPeriodo" class="p-2 border rounded-md"><option value="">Todos los períodos</option></select>
+          <select id="filtroPerspectiva" class="p-2 border rounded-md">
+            <option value="">Todas las perspectivas</option>
+            <option value="Eficiencia">Eficiencia</option>
+            <option value="Calidad">Calidad</option>
+            <option value="Experiencia">Experiencia</option>
+          </select>
+          <select id="filtroSucursal" class="p-2 border rounded-md"><option value="">Todas las sucursales</option></select>
+          <select id="filtroOficial" class="p-2 border rounded-md"><option value="">Todos los oficiales</option></select>
+          <button id="btnExportar" class="ml-auto bg-green-600 text-white px-4 py-2 rounded hover:bg-green-700">Exportar CSV</button>
+        </div>
 
-      <div class="flex flex-wrap gap-4 items-center">
-        <select id="filtroUnidad" class="p-2 border rounded-md"><option value="">Todas las unidades</option></select>
-        <select id="filtroSucursal" class="p-2 border rounded-md"><option value="">Todas las sucursales</option></select>
-        <select id="filtroPerspectiva" class="p-2 border rounded-md">
-          <option value="">Todas las perspectivas</option>
-          <option value="Eficiencia">Eficiencia</option>
-          <option value="Calidad">Calidad</option>
-          <option value="Experiencia">Experiencia</option>
-        </select>
-        <select id="filtroPeriodo" class="p-2 border rounded-md"><option value="">Todos los meses</option></select>
-        <button id="btnExportar" class="ml-auto bg-green-600 text-white px-4 py-2 rounded hover:bg-green-700">Exportar CSV</button>
+        <div class="grid grid-cols-3 gap-6 mt-4">
+          <div class="bg-white p-4 rounded-xl shadow-md border-l-8 border-green-500">
+            <h3 class="text-lg font-semibold text-gray-600">Eficiencia</h3>
+            <p id="kpi-eficiencia" class="text-3xl font-bold text-green-700">--</p>
+          </div>
+          <div class="bg-white p-4 rounded-xl shadow-md border-l-8 border-yellow-500">
+            <h3 class="text-lg font-semibold text-gray-600">Calidad</h3>
+            <p id="kpi-calidad" class="text-3xl font-bold text-yellow-700">--</p>
+          </div>
+          <div class="bg-white p-4 rounded-xl shadow-md border-l-8 border-red-500">
+            <h3 class="text-lg font-semibold text-gray-600">Experiencia</h3>
+            <p id="kpi-experiencia" class="text-3xl font-bold text-red-700">--</p>
+          </div>
+        </div>
+
+        <div class="bg-white p-6 rounded-xl shadow-md mt-8 overflow-auto">
+          <h4 class="font-semibold mb-4">Detalle de Indicadores</h4>
+          <table class="min-w-full table-auto border-collapse text-sm">
+            <thead>
+              <tr class="bg-blue-900 text-white">
+                <th class="px-4 py-2">Unidad</th>
+                <th class="px-4 py-2">Sucursal</th>
+                <th class="px-4 py-2">Indicador</th>
+                <th class="px-4 py-2">Perspectiva</th>
+                <th class="px-4 py-2">Valor</th>
+                <th class="px-4 py-2">Unidad de Medida</th>
+                <th class="px-4 py-2">Semáforo</th>
+              </tr>
+            </thead>
+            <tbody id="tabla-kpis" class="text-center"></tbody>
+          </table>
+        </div>
       </div>
 
-      <div class="grid grid-cols-3 gap-6 mt-4">
-        <div class="bg-white p-4 rounded-xl shadow-md border-l-8 border-green-500">
-          <h3 class="text-lg font-semibold text-gray-600">Eficiencia</h3>
-          <p id="kpi-eficiencia" class="text-3xl font-bold text-green-700">--</p>
-        </div>
-        <div class="bg-white p-4 rounded-xl shadow-md border-l-8 border-yellow-500">
-          <h3 class="text-lg font-semibold text-gray-600">Calidad</h3>
-          <p id="kpi-calidad" class="text-3xl font-bold text-yellow-700">--</p>
-        </div>
-        <div class="bg-white p-4 rounded-xl shadow-md border-l-8 border-red-500">
-          <h3 class="text-lg font-semibold text-gray-600">Experiencia</h3>
-          <p id="kpi-experiencia" class="text-3xl font-bold text-red-700">--</p>
-        </div>
-      </div>
-
-      <div class="bg-white p-6 rounded-xl shadow-md mt-8 overflow-auto">
-        <h4 class="font-semibold mb-4">Detalle de Indicadores</h4>
-        <table class="min-w-full table-auto border-collapse text-sm">
-          <thead>
-            <tr class="bg-blue-900 text-white">
-              <th class="px-4 py-2">Unidad</th>
-              <th class="px-4 py-2">Sucursal</th>
-              <th class="px-4 py-2">Indicador</th>
-              <th class="px-4 py-2">Perspectiva</th>
-              <th class="px-4 py-2">Valor</th>
-              <th class="px-4 py-2">Unidad de Medida</th>
-              <th class="px-4 py-2">Semáforo</th>
-            </tr>
-          </thead>
-          <tbody id="tabla-kpis" class="text-center"></tbody>
-        </table>
+      <div id="vistaCasaMatriz" class="hidden">
+        <h2 class="text-2xl font-bold text-blue-900">KPIs – Casa Matriz (Procesamiento Comercial)</h2>
+        <div id="tabla-casa-matriz" class="bg-white p-6 mt-4 rounded-xl shadow-md overflow-auto"></div>
       </div>
     </main>
   </div>
