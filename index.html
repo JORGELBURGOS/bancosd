@@ -1,0 +1,125 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Dashboard Ejecutivo - Banco Ejemplo</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: #f0f2f5;
+      color: #333;
+    }
+    header {
+      background-color: #003366;
+      color: white;
+      padding: 20px;
+      text-align: center;
+      font-size: 24px;
+      font-weight: bold;
+    }
+    .container {
+      padding: 30px;
+      max-width: 1400px;
+      margin: auto;
+    }
+    .filters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      margin-bottom: 30px;
+    }
+    select, input {
+      padding: 10px;
+      font-size: 16px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      min-width: 250px;
+    }
+    .kpi-summary {
+      display: flex;
+      gap: 20px;
+      margin-top: 30px;
+      margin-bottom: 40px;
+    }
+    .kpi-card {
+      background: white;
+      border-left: 6px solid #007bff;
+      padding: 20px;
+      border-radius: 8px;
+      flex: 1;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    .kpi-card.green { border-left-color: #28a745; }
+    .kpi-card.orange { border-left-color: #ffc107; }
+    .kpi-card.red { border-left-color: #dc3545; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: white;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      margin-top: 20px;
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    th, td {
+      padding: 12px;
+      text-align: center;
+      border-bottom: 1px solid #eee;
+    }
+    th {
+      background-color: #003366;
+      color: white;
+      font-weight: bold;
+    }
+    .chart-container {
+      margin-top: 50px;
+      background: white;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+  <header>
+    Dashboard Ejecutivo de KPIs – Banco Ejemplo
+  </header>
+  <div class="container">
+    <div class="filters">
+      <input type="text" id="buscarSucursal" placeholder="Buscar Sucursal (nombre o número)">
+      <select id="unidad">
+        <option value="">Seleccionar Unidad</option>
+      </select>
+    </div>
+
+    <div class="kpi-summary" id="resumen-kpis"></div>
+
+    <div class="chart-container">
+      <canvas id="radarChart" height="300"></canvas>
+    </div>
+
+    <div class="chart-container">
+      <canvas id="barChart" height="500"></canvas>
+    </div>
+
+    <table id="tabla-kpis">
+      <thead>
+        <tr>
+          <th>Indicador</th>
+          <th>Perspectiva</th>
+          <th>Valor</th>
+          <th>Unidad de Medida</th>
+          <th>Semáforo</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
