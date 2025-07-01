@@ -1,658 +1,1972 @@
-Unidad,Sucursal,Perspectiva,Indicador,Valor,Unidad de Medida
-Oficial 001,Sucursal 01,Eficiencia,Tiempo de procesamiento,5.2,Horas
-Oficial 001,Sucursal 01,Eficiencia,Clientes atendidos por hora,88.44,Horas
-Oficial 001,Sucursal 01,Eficiencia,Tasa de errores,84.52,%
-Oficial 001,Sucursal 01,Calidad,Revisión manual necesaria,69.31,Horas
-Oficial 001,Sucursal 01,Calidad,Tasa de rechazo,54.68,%
-Oficial 001,Sucursal 01,Calidad,Cumplimiento de normativa,44.55,Horas
-Oficial 001,Sucursal 01,Experiencia,Satisfacción del cliente,2.31,Puntos
-Oficial 001,Sucursal 01,Experiencia,Tasa de reclamos,61.92,%
-Oficial 001,Sucursal 01,Experiencia,Tiempo de espera,10.9,Horas
-Oficial 002,Sucursal 01,Eficiencia,Tiempo de procesamiento,6.8,Horas
-Oficial 002,Sucursal 01,Eficiencia,Clientes atendidos por hora,22.74,Horas
-Oficial 002,Sucursal 01,Eficiencia,Tasa de errores,62.79,%
-Oficial 002,Sucursal 01,Calidad,Revisión manual necesaria,57.35,Horas
-Oficial 002,Sucursal 01,Calidad,Tasa de rechazo,54.8,%
-Oficial 002,Sucursal 01,Calidad,Cumplimiento de normativa,92.15,Horas
-Oficial 002,Sucursal 01,Experiencia,Satisfacción del cliente,4.4,Puntos
-Oficial 002,Sucursal 01,Experiencia,Tasa de reclamos,81.08,%
-Oficial 002,Sucursal 01,Experiencia,Tiempo de espera,6.0,Horas
-Oficial 003,Sucursal 01,Eficiencia,Tiempo de procesamiento,9.6,Horas
-Oficial 003,Sucursal 01,Eficiencia,Clientes atendidos por hora,62.63,Horas
-Oficial 003,Sucursal 01,Eficiencia,Tasa de errores,76.33,%
-Oficial 003,Sucursal 01,Calidad,Revisión manual necesaria,75.83,Horas
-Oficial 003,Sucursal 01,Calidad,Tasa de rechazo,77.93,%
-Oficial 003,Sucursal 01,Calidad,Cumplimiento de normativa,52.51,Horas
-Oficial 003,Sucursal 01,Experiencia,Satisfacción del cliente,4.35,Puntos
-Oficial 003,Sucursal 01,Experiencia,Tasa de reclamos,80.19,%
-Oficial 003,Sucursal 01,Experiencia,Tiempo de espera,8.4,Horas
-Oficial 004,Sucursal 02,Eficiencia,Tiempo de procesamiento,6.5,Horas
-Oficial 004,Sucursal 02,Eficiencia,Clientes atendidos por hora,18.17,Horas
-Oficial 004,Sucursal 02,Eficiencia,Tasa de errores,84.03,%
-Oficial 004,Sucursal 02,Calidad,Revisión manual necesaria,12.27,Horas
-Oficial 004,Sucursal 02,Calidad,Tasa de rechazo,82.67,%
-Oficial 004,Sucursal 02,Calidad,Cumplimiento de normativa,40.85,Horas
-Oficial 004,Sucursal 02,Experiencia,Satisfacción del cliente,4.22,Puntos
-Oficial 004,Sucursal 02,Experiencia,Tasa de reclamos,51.52,%
-Oficial 004,Sucursal 02,Experiencia,Tiempo de espera,10.6,Horas
-Oficial 005,Sucursal 02,Eficiencia,Tiempo de procesamiento,9.9,Horas
-Oficial 005,Sucursal 02,Eficiencia,Clientes atendidos por hora,1.26,Horas
-Oficial 005,Sucursal 02,Eficiencia,Tasa de errores,79.11,%
-Oficial 005,Sucursal 02,Calidad,Revisión manual necesaria,24.91,Horas
-Oficial 005,Sucursal 02,Calidad,Tasa de rechazo,66.31,%
-Oficial 005,Sucursal 02,Calidad,Cumplimiento de normativa,99.42,Horas
-Oficial 005,Sucursal 02,Experiencia,Satisfacción del cliente,1.71,Puntos
-Oficial 005,Sucursal 02,Experiencia,Tasa de reclamos,51.42,%
-Oficial 005,Sucursal 02,Experiencia,Tiempo de espera,9.3,Horas
-Oficial 006,Sucursal 02,Eficiencia,Tiempo de procesamiento,2.7,Horas
-Oficial 006,Sucursal 02,Eficiencia,Clientes atendidos por hora,91.29,Horas
-Oficial 006,Sucursal 02,Eficiencia,Tasa de errores,67.9,%
-Oficial 006,Sucursal 02,Calidad,Revisión manual necesaria,65.44,Horas
-Oficial 006,Sucursal 02,Calidad,Tasa de rechazo,57.93,%
-Oficial 006,Sucursal 02,Calidad,Cumplimiento de normativa,58.52,Horas
-Oficial 006,Sucursal 02,Experiencia,Satisfacción del cliente,1.14,Puntos
-Oficial 006,Sucursal 02,Experiencia,Tasa de reclamos,51.54,%
-Oficial 006,Sucursal 02,Experiencia,Tiempo de espera,6.5,Horas
-Oficial 007,Sucursal 03,Eficiencia,Tiempo de procesamiento,9.4,Horas
-Oficial 007,Sucursal 03,Eficiencia,Clientes atendidos por hora,84.24,Horas
-Oficial 007,Sucursal 03,Eficiencia,Tasa de errores,99.61,%
-Oficial 007,Sucursal 03,Calidad,Revisión manual necesaria,79.73,Horas
-Oficial 007,Sucursal 03,Calidad,Tasa de rechazo,58.25,%
-Oficial 007,Sucursal 03,Calidad,Cumplimiento de normativa,32.06,Horas
-Oficial 007,Sucursal 03,Experiencia,Satisfacción del cliente,2.43,Puntos
-Oficial 007,Sucursal 03,Experiencia,Tasa de reclamos,78.53,%
-Oficial 007,Sucursal 03,Experiencia,Tiempo de espera,9.9,Horas
-Oficial 008,Sucursal 03,Eficiencia,Tiempo de procesamiento,9.1,Horas
-Oficial 008,Sucursal 03,Eficiencia,Clientes atendidos por hora,95.81,Horas
-Oficial 008,Sucursal 03,Eficiencia,Tasa de errores,76.7,%
-Oficial 008,Sucursal 03,Calidad,Revisión manual necesaria,83.01,Horas
-Oficial 008,Sucursal 03,Calidad,Tasa de rechazo,91.69,%
-Oficial 008,Sucursal 03,Calidad,Cumplimiento de normativa,57.9,Horas
-Oficial 008,Sucursal 03,Experiencia,Satisfacción del cliente,2.03,Puntos
-Oficial 008,Sucursal 03,Experiencia,Tasa de reclamos,57.1,%
-Oficial 008,Sucursal 03,Experiencia,Tiempo de espera,11.2,Horas
-Oficial 009,Sucursal 03,Eficiencia,Tiempo de procesamiento,2.8,Horas
-Oficial 009,Sucursal 03,Eficiencia,Clientes atendidos por hora,29.22,Horas
-Oficial 009,Sucursal 03,Eficiencia,Tasa de errores,53.71,%
-Oficial 009,Sucursal 03,Calidad,Revisión manual necesaria,79.31,Horas
-Oficial 009,Sucursal 03,Calidad,Tasa de rechazo,88.08,%
-Oficial 009,Sucursal 03,Calidad,Cumplimiento de normativa,72.57,Horas
-Oficial 009,Sucursal 03,Experiencia,Satisfacción del cliente,3.15,Puntos
-Oficial 009,Sucursal 03,Experiencia,Tasa de reclamos,97.69,%
-Oficial 009,Sucursal 03,Experiencia,Tiempo de espera,3.5,Horas
-Oficial 010,Sucursal 04,Eficiencia,Tiempo de procesamiento,2.4,Horas
-Oficial 010,Sucursal 04,Eficiencia,Clientes atendidos por hora,57.67,Horas
-Oficial 010,Sucursal 04,Eficiencia,Tasa de errores,50.9,%
-Oficial 010,Sucursal 04,Calidad,Revisión manual necesaria,92.8,Horas
-Oficial 010,Sucursal 04,Calidad,Tasa de rechazo,53.02,%
-Oficial 010,Sucursal 04,Calidad,Cumplimiento de normativa,49.11,Horas
-Oficial 010,Sucursal 04,Experiencia,Satisfacción del cliente,1.58,Puntos
-Oficial 010,Sucursal 04,Experiencia,Tasa de reclamos,99.32,%
-Oficial 010,Sucursal 04,Experiencia,Tiempo de espera,4.9,Horas
-Oficial 011,Sucursal 04,Eficiencia,Tiempo de procesamiento,4.6,Horas
-Oficial 011,Sucursal 04,Eficiencia,Clientes atendidos por hora,22.18,Horas
-Oficial 011,Sucursal 04,Eficiencia,Tasa de errores,78.61,%
-Oficial 011,Sucursal 04,Calidad,Revisión manual necesaria,22.16,Horas
-Oficial 011,Sucursal 04,Calidad,Tasa de rechazo,73.18,%
-Oficial 011,Sucursal 04,Calidad,Cumplimiento de normativa,98.31,Horas
-Oficial 011,Sucursal 04,Experiencia,Satisfacción del cliente,4.25,Puntos
-Oficial 011,Sucursal 04,Experiencia,Tasa de reclamos,94.46,%
-Oficial 011,Sucursal 04,Experiencia,Tiempo de espera,7.0,Horas
-Oficial 012,Sucursal 04,Eficiencia,Tiempo de procesamiento,10.3,Horas
-Oficial 012,Sucursal 04,Eficiencia,Clientes atendidos por hora,91.28,Horas
-Oficial 012,Sucursal 04,Eficiencia,Tasa de errores,63.26,%
-Oficial 012,Sucursal 04,Calidad,Revisión manual necesaria,82.21,Horas
-Oficial 012,Sucursal 04,Calidad,Tasa de rechazo,83.99,%
-Oficial 012,Sucursal 04,Calidad,Cumplimiento de normativa,48.6,Horas
-Oficial 012,Sucursal 04,Experiencia,Satisfacción del cliente,1.47,Puntos
-Oficial 012,Sucursal 04,Experiencia,Tasa de reclamos,79.15,%
-Oficial 012,Sucursal 04,Experiencia,Tiempo de espera,4.0,Horas
-Oficial 013,Sucursal 05,Eficiencia,Tiempo de procesamiento,2.9,Horas
-Oficial 013,Sucursal 05,Eficiencia,Clientes atendidos por hora,1.28,Horas
-Oficial 013,Sucursal 05,Eficiencia,Tasa de errores,92.36,%
-Oficial 013,Sucursal 05,Calidad,Revisión manual necesaria,66.45,Horas
-Oficial 013,Sucursal 05,Calidad,Tasa de rechazo,90.27,%
-Oficial 013,Sucursal 05,Calidad,Cumplimiento de normativa,13.49,Horas
-Oficial 013,Sucursal 05,Experiencia,Satisfacción del cliente,4.55,Puntos
-Oficial 013,Sucursal 05,Experiencia,Tasa de reclamos,79.59,%
-Oficial 013,Sucursal 05,Experiencia,Tiempo de espera,3.0,Horas
-Oficial 014,Sucursal 05,Eficiencia,Tiempo de procesamiento,6.0,Horas
-Oficial 014,Sucursal 05,Eficiencia,Clientes atendidos por hora,63.63,Horas
-Oficial 014,Sucursal 05,Eficiencia,Tasa de errores,99.24,%
-Oficial 014,Sucursal 05,Calidad,Revisión manual necesaria,40.51,Horas
-Oficial 014,Sucursal 05,Calidad,Tasa de rechazo,92.45,%
-Oficial 014,Sucursal 05,Calidad,Cumplimiento de normativa,33.98,Horas
-Oficial 014,Sucursal 05,Experiencia,Satisfacción del cliente,4.27,Puntos
-Oficial 014,Sucursal 05,Experiencia,Tasa de reclamos,98.57,%
-Oficial 014,Sucursal 05,Experiencia,Tiempo de espera,3.6,Horas
-Oficial 015,Sucursal 05,Eficiencia,Tiempo de procesamiento,2.1,Horas
-Oficial 015,Sucursal 05,Eficiencia,Clientes atendidos por hora,55.05,Horas
-Oficial 015,Sucursal 05,Eficiencia,Tasa de errores,73.12,%
-Oficial 015,Sucursal 05,Calidad,Revisión manual necesaria,32.52,Horas
-Oficial 015,Sucursal 05,Calidad,Tasa de rechazo,65.38,%
-Oficial 015,Sucursal 05,Calidad,Cumplimiento de normativa,73.7,Horas
-Oficial 015,Sucursal 05,Experiencia,Satisfacción del cliente,3.68,Puntos
-Oficial 015,Sucursal 05,Experiencia,Tasa de reclamos,65.76,%
-Oficial 015,Sucursal 05,Experiencia,Tiempo de espera,7.3,Horas
-Oficial 016,Sucursal 06,Eficiencia,Tiempo de procesamiento,2.5,Horas
-Oficial 016,Sucursal 06,Eficiencia,Clientes atendidos por hora,20.54,Horas
-Oficial 016,Sucursal 06,Eficiencia,Tasa de errores,73.75,%
-Oficial 016,Sucursal 06,Calidad,Revisión manual necesaria,43.0,Horas
-Oficial 016,Sucursal 06,Calidad,Tasa de rechazo,52.69,%
-Oficial 016,Sucursal 06,Calidad,Cumplimiento de normativa,30.37,Horas
-Oficial 016,Sucursal 06,Experiencia,Satisfacción del cliente,3.83,Puntos
-Oficial 016,Sucursal 06,Experiencia,Tasa de reclamos,51.32,%
-Oficial 016,Sucursal 06,Experiencia,Tiempo de espera,4.2,Horas
-Oficial 017,Sucursal 06,Eficiencia,Tiempo de procesamiento,10.1,Horas
-Oficial 017,Sucursal 06,Eficiencia,Clientes atendidos por hora,6.15,Horas
-Oficial 017,Sucursal 06,Eficiencia,Tasa de errores,83.06,%
-Oficial 017,Sucursal 06,Calidad,Revisión manual necesaria,29.9,Horas
-Oficial 017,Sucursal 06,Calidad,Tasa de rechazo,80.45,%
-Oficial 017,Sucursal 06,Calidad,Cumplimiento de normativa,30.94,Horas
-Oficial 017,Sucursal 06,Experiencia,Satisfacción del cliente,1.32,Puntos
-Oficial 017,Sucursal 06,Experiencia,Tasa de reclamos,71.23,%
-Oficial 017,Sucursal 06,Experiencia,Tiempo de espera,10.1,Horas
-Oficial 018,Sucursal 06,Eficiencia,Tiempo de procesamiento,4.8,Horas
-Oficial 018,Sucursal 06,Eficiencia,Clientes atendidos por hora,18.78,Horas
-Oficial 018,Sucursal 06,Eficiencia,Tasa de errores,71.67,%
-Oficial 018,Sucursal 06,Calidad,Revisión manual necesaria,24.13,Horas
-Oficial 018,Sucursal 06,Calidad,Tasa de rechazo,65.18,%
-Oficial 018,Sucursal 06,Calidad,Cumplimiento de normativa,74.7,Horas
-Oficial 018,Sucursal 06,Experiencia,Satisfacción del cliente,4.64,Puntos
-Oficial 018,Sucursal 06,Experiencia,Tasa de reclamos,88.29,%
-Oficial 018,Sucursal 06,Experiencia,Tiempo de espera,6.1,Horas
-Oficial 019,Sucursal 07,Eficiencia,Tiempo de procesamiento,1.1,Horas
-Oficial 019,Sucursal 07,Eficiencia,Clientes atendidos por hora,26.75,Horas
-Oficial 019,Sucursal 07,Eficiencia,Tasa de errores,73.76,%
-Oficial 019,Sucursal 07,Calidad,Revisión manual necesaria,10.61,Horas
-Oficial 019,Sucursal 07,Calidad,Tasa de rechazo,69.9,%
-Oficial 019,Sucursal 07,Calidad,Cumplimiento de normativa,13.27,Horas
-Oficial 019,Sucursal 07,Experiencia,Satisfacción del cliente,2.05,Puntos
-Oficial 019,Sucursal 07,Experiencia,Tasa de reclamos,96.78,%
-Oficial 019,Sucursal 07,Experiencia,Tiempo de espera,1.3,Horas
-Oficial 020,Sucursal 07,Eficiencia,Tiempo de procesamiento,7.5,Horas
-Oficial 020,Sucursal 07,Eficiencia,Clientes atendidos por hora,17.06,Horas
-Oficial 020,Sucursal 07,Eficiencia,Tasa de errores,56.85,%
-Oficial 020,Sucursal 07,Calidad,Revisión manual necesaria,2.3,Horas
-Oficial 020,Sucursal 07,Calidad,Tasa de rechazo,71.6,%
-Oficial 020,Sucursal 07,Calidad,Cumplimiento de normativa,12.44,Horas
-Oficial 020,Sucursal 07,Experiencia,Satisfacción del cliente,3.47,Puntos
-Oficial 020,Sucursal 07,Experiencia,Tasa de reclamos,73.61,%
-Oficial 020,Sucursal 07,Experiencia,Tiempo de espera,7.0,Horas
-Oficial 021,Sucursal 07,Eficiencia,Tiempo de procesamiento,11.4,Horas
-Oficial 021,Sucursal 07,Eficiencia,Clientes atendidos por hora,40.93,Horas
-Oficial 021,Sucursal 07,Eficiencia,Tasa de errores,73.83,%
-Oficial 021,Sucursal 07,Calidad,Revisión manual necesaria,41.77,Horas
-Oficial 021,Sucursal 07,Calidad,Tasa de rechazo,71.4,%
-Oficial 021,Sucursal 07,Calidad,Cumplimiento de normativa,79.08,Horas
-Oficial 021,Sucursal 07,Experiencia,Satisfacción del cliente,4.5,Puntos
-Oficial 021,Sucursal 07,Experiencia,Tasa de reclamos,59.58,%
-Oficial 021,Sucursal 07,Experiencia,Tiempo de espera,6.7,Horas
-Oficial 022,Sucursal 08,Eficiencia,Tiempo de procesamiento,10.6,Horas
-Oficial 022,Sucursal 08,Eficiencia,Clientes atendidos por hora,86.84,Horas
-Oficial 022,Sucursal 08,Eficiencia,Tasa de errores,78.49,%
-Oficial 022,Sucursal 08,Calidad,Revisión manual necesaria,4.03,Horas
-Oficial 022,Sucursal 08,Calidad,Tasa de rechazo,50.85,%
-Oficial 022,Sucursal 08,Calidad,Cumplimiento de normativa,18.21,Horas
-Oficial 022,Sucursal 08,Experiencia,Satisfacción del cliente,1.41,Puntos
-Oficial 022,Sucursal 08,Experiencia,Tasa de reclamos,61.39,%
-Oficial 022,Sucursal 08,Experiencia,Tiempo de espera,3.6,Horas
-Oficial 023,Sucursal 08,Eficiencia,Tiempo de procesamiento,2.3,Horas
-Oficial 023,Sucursal 08,Eficiencia,Clientes atendidos por hora,59.97,Horas
-Oficial 023,Sucursal 08,Eficiencia,Tasa de errores,86.54,%
-Oficial 023,Sucursal 08,Calidad,Revisión manual necesaria,11.23,Horas
-Oficial 023,Sucursal 08,Calidad,Tasa de rechazo,96.2,%
-Oficial 023,Sucursal 08,Calidad,Cumplimiento de normativa,90.04,Horas
-Oficial 023,Sucursal 08,Experiencia,Satisfacción del cliente,3.1,Puntos
-Oficial 023,Sucursal 08,Experiencia,Tasa de reclamos,87.22,%
-Oficial 023,Sucursal 08,Experiencia,Tiempo de espera,9.3,Horas
-Oficial 024,Sucursal 08,Eficiencia,Tiempo de procesamiento,9.7,Horas
-Oficial 024,Sucursal 08,Eficiencia,Clientes atendidos por hora,96.91,Horas
-Oficial 024,Sucursal 08,Eficiencia,Tasa de errores,98.66,%
-Oficial 024,Sucursal 08,Calidad,Revisión manual necesaria,3.27,Horas
-Oficial 024,Sucursal 08,Calidad,Tasa de rechazo,96.78,%
-Oficial 024,Sucursal 08,Calidad,Cumplimiento de normativa,43.89,Horas
-Oficial 024,Sucursal 08,Experiencia,Satisfacción del cliente,1.87,Puntos
-Oficial 024,Sucursal 08,Experiencia,Tasa de reclamos,78.33,%
-Oficial 024,Sucursal 08,Experiencia,Tiempo de espera,9.5,Horas
-Oficial 025,Sucursal 09,Eficiencia,Tiempo de procesamiento,10.0,Horas
-Oficial 025,Sucursal 09,Eficiencia,Clientes atendidos por hora,61.99,Horas
-Oficial 025,Sucursal 09,Eficiencia,Tasa de errores,72.3,%
-Oficial 025,Sucursal 09,Calidad,Revisión manual necesaria,60.44,Horas
-Oficial 025,Sucursal 09,Calidad,Tasa de rechazo,56.6,%
-Oficial 025,Sucursal 09,Calidad,Cumplimiento de normativa,2.44,Horas
-Oficial 025,Sucursal 09,Experiencia,Satisfacción del cliente,3.72,Puntos
-Oficial 025,Sucursal 09,Experiencia,Tasa de reclamos,67.49,%
-Oficial 025,Sucursal 09,Experiencia,Tiempo de espera,11.0,Horas
-Oficial 026,Sucursal 09,Eficiencia,Tiempo de procesamiento,4.3,Horas
-Oficial 026,Sucursal 09,Eficiencia,Clientes atendidos por hora,61.7,Horas
-Oficial 026,Sucursal 09,Eficiencia,Tasa de errores,91.37,%
-Oficial 026,Sucursal 09,Calidad,Revisión manual necesaria,22.95,Horas
-Oficial 026,Sucursal 09,Calidad,Tasa de rechazo,96.27,%
-Oficial 026,Sucursal 09,Calidad,Cumplimiento de normativa,17.24,Horas
-Oficial 026,Sucursal 09,Experiencia,Satisfacción del cliente,4.85,Puntos
-Oficial 026,Sucursal 09,Experiencia,Tasa de reclamos,74.8,%
-Oficial 026,Sucursal 09,Experiencia,Tiempo de espera,8.3,Horas
-Oficial 027,Sucursal 09,Eficiencia,Tiempo de procesamiento,3.1,Horas
-Oficial 027,Sucursal 09,Eficiencia,Clientes atendidos por hora,22.95,Horas
-Oficial 027,Sucursal 09,Eficiencia,Tasa de errores,57.91,%
-Oficial 027,Sucursal 09,Calidad,Revisión manual necesaria,31.63,Horas
-Oficial 027,Sucursal 09,Calidad,Tasa de rechazo,80.93,%
-Oficial 027,Sucursal 09,Calidad,Cumplimiento de normativa,13.82,Horas
-Oficial 027,Sucursal 09,Experiencia,Satisfacción del cliente,2.78,Puntos
-Oficial 027,Sucursal 09,Experiencia,Tasa de reclamos,55.74,%
-Oficial 027,Sucursal 09,Experiencia,Tiempo de espera,6.2,Horas
-Oficial 028,Sucursal 10,Eficiencia,Tiempo de procesamiento,5.5,Horas
-Oficial 028,Sucursal 10,Eficiencia,Clientes atendidos por hora,28.28,Horas
-Oficial 028,Sucursal 10,Eficiencia,Tasa de errores,78.97,%
-Oficial 028,Sucursal 10,Calidad,Revisión manual necesaria,57.0,Horas
-Oficial 028,Sucursal 10,Calidad,Tasa de rechazo,54.37,%
-Oficial 028,Sucursal 10,Calidad,Cumplimiento de normativa,21.28,Horas
-Oficial 028,Sucursal 10,Experiencia,Satisfacción del cliente,3.32,Puntos
-Oficial 028,Sucursal 10,Experiencia,Tasa de reclamos,55.26,%
-Oficial 028,Sucursal 10,Experiencia,Tiempo de espera,3.1,Horas
-Oficial 029,Sucursal 10,Eficiencia,Tiempo de procesamiento,7.1,Horas
-Oficial 029,Sucursal 10,Eficiencia,Clientes atendidos por hora,86.12,Horas
-Oficial 029,Sucursal 10,Eficiencia,Tasa de errores,59.14,%
-Oficial 029,Sucursal 10,Calidad,Revisión manual necesaria,70.18,Horas
-Oficial 029,Sucursal 10,Calidad,Tasa de rechazo,52.71,%
-Oficial 029,Sucursal 10,Calidad,Cumplimiento de normativa,82.62,Horas
-Oficial 029,Sucursal 10,Experiencia,Satisfacción del cliente,4.23,Puntos
-Oficial 029,Sucursal 10,Experiencia,Tasa de reclamos,64.8,%
-Oficial 029,Sucursal 10,Experiencia,Tiempo de espera,11.3,Horas
-Oficial 030,Sucursal 10,Eficiencia,Tiempo de procesamiento,1.0,Horas
-Oficial 030,Sucursal 10,Eficiencia,Clientes atendidos por hora,13.65,Horas
-Oficial 030,Sucursal 10,Eficiencia,Tasa de errores,87.62,%
-Oficial 030,Sucursal 10,Calidad,Revisión manual necesaria,83.03,Horas
-Oficial 030,Sucursal 10,Calidad,Tasa de rechazo,56.56,%
-Oficial 030,Sucursal 10,Calidad,Cumplimiento de normativa,46.23,Horas
-Oficial 030,Sucursal 10,Experiencia,Satisfacción del cliente,4.37,Puntos
-Oficial 030,Sucursal 10,Experiencia,Tasa de reclamos,95.96,%
-Oficial 030,Sucursal 10,Experiencia,Tiempo de espera,6.0,Horas
-Oficial 031,Sucursal 11,Eficiencia,Tiempo de procesamiento,5.9,Horas
-Oficial 031,Sucursal 11,Eficiencia,Clientes atendidos por hora,49.28,Horas
-Oficial 031,Sucursal 11,Eficiencia,Tasa de errores,62.84,%
-Oficial 031,Sucursal 11,Calidad,Revisión manual necesaria,94.81,Horas
-Oficial 031,Sucursal 11,Calidad,Tasa de rechazo,50.54,%
-Oficial 031,Sucursal 11,Calidad,Cumplimiento de normativa,37.83,Horas
-Oficial 031,Sucursal 11,Experiencia,Satisfacción del cliente,3.23,Puntos
-Oficial 031,Sucursal 11,Experiencia,Tasa de reclamos,90.7,%
-Oficial 031,Sucursal 11,Experiencia,Tiempo de espera,4.4,Horas
-Oficial 032,Sucursal 11,Eficiencia,Tiempo de procesamiento,2.3,Horas
-Oficial 032,Sucursal 11,Eficiencia,Clientes atendidos por hora,45.06,Horas
-Oficial 032,Sucursal 11,Eficiencia,Tasa de errores,71.48,%
-Oficial 032,Sucursal 11,Calidad,Revisión manual necesaria,7.12,Horas
-Oficial 032,Sucursal 11,Calidad,Tasa de rechazo,86.07,%
-Oficial 032,Sucursal 11,Calidad,Cumplimiento de normativa,45.62,Horas
-Oficial 032,Sucursal 11,Experiencia,Satisfacción del cliente,1.36,Puntos
-Oficial 032,Sucursal 11,Experiencia,Tasa de reclamos,65.05,%
-Oficial 032,Sucursal 11,Experiencia,Tiempo de espera,6.4,Horas
-Oficial 033,Sucursal 11,Eficiencia,Tiempo de procesamiento,5.4,Horas
-Oficial 033,Sucursal 11,Eficiencia,Clientes atendidos por hora,94.23,Horas
-Oficial 033,Sucursal 11,Eficiencia,Tasa de errores,62.23,%
-Oficial 033,Sucursal 11,Calidad,Revisión manual necesaria,27.65,Horas
-Oficial 033,Sucursal 11,Calidad,Tasa de rechazo,90.66,%
-Oficial 033,Sucursal 11,Calidad,Cumplimiento de normativa,17.12,Horas
-Oficial 033,Sucursal 11,Experiencia,Satisfacción del cliente,4.66,Puntos
-Oficial 033,Sucursal 11,Experiencia,Tasa de reclamos,63.38,%
-Oficial 033,Sucursal 11,Experiencia,Tiempo de espera,7.9,Horas
-Oficial 034,Sucursal 12,Eficiencia,Tiempo de procesamiento,9.3,Horas
-Oficial 034,Sucursal 12,Eficiencia,Clientes atendidos por hora,54.52,Horas
-Oficial 034,Sucursal 12,Eficiencia,Tasa de errores,56.66,%
-Oficial 034,Sucursal 12,Calidad,Revisión manual necesaria,76.89,Horas
-Oficial 034,Sucursal 12,Calidad,Tasa de rechazo,97.61,%
-Oficial 034,Sucursal 12,Calidad,Cumplimiento de normativa,38.59,Horas
-Oficial 034,Sucursal 12,Experiencia,Satisfacción del cliente,1.23,Puntos
-Oficial 034,Sucursal 12,Experiencia,Tasa de reclamos,98.13,%
-Oficial 034,Sucursal 12,Experiencia,Tiempo de espera,5.7,Horas
-Oficial 035,Sucursal 12,Eficiencia,Tiempo de procesamiento,11.0,Horas
-Oficial 035,Sucursal 12,Eficiencia,Clientes atendidos por hora,66.25,Horas
-Oficial 035,Sucursal 12,Eficiencia,Tasa de errores,87.46,%
-Oficial 035,Sucursal 12,Calidad,Revisión manual necesaria,79.5,Horas
-Oficial 035,Sucursal 12,Calidad,Tasa de rechazo,94.43,%
-Oficial 035,Sucursal 12,Calidad,Cumplimiento de normativa,60.42,Horas
-Oficial 035,Sucursal 12,Experiencia,Satisfacción del cliente,3.18,Puntos
-Oficial 035,Sucursal 12,Experiencia,Tasa de reclamos,77.72,%
-Oficial 035,Sucursal 12,Experiencia,Tiempo de espera,11.1,Horas
-Oficial 036,Sucursal 12,Eficiencia,Tiempo de procesamiento,3.7,Horas
-Oficial 036,Sucursal 12,Eficiencia,Clientes atendidos por hora,78.88,Horas
-Oficial 036,Sucursal 12,Eficiencia,Tasa de errores,89.59,%
-Oficial 036,Sucursal 12,Calidad,Revisión manual necesaria,33.44,Horas
-Oficial 036,Sucursal 12,Calidad,Tasa de rechazo,99.42,%
-Oficial 036,Sucursal 12,Calidad,Cumplimiento de normativa,58.19,Horas
-Oficial 036,Sucursal 12,Experiencia,Satisfacción del cliente,4.22,Puntos
-Oficial 036,Sucursal 12,Experiencia,Tasa de reclamos,97.71,%
-Oficial 036,Sucursal 12,Experiencia,Tiempo de espera,7.5,Horas
-Oficial 037,Sucursal 13,Eficiencia,Tiempo de procesamiento,2.2,Horas
-Oficial 037,Sucursal 13,Eficiencia,Clientes atendidos por hora,21.09,Horas
-Oficial 037,Sucursal 13,Eficiencia,Tasa de errores,58.34,%
-Oficial 037,Sucursal 13,Calidad,Revisión manual necesaria,35.15,Horas
-Oficial 037,Sucursal 13,Calidad,Tasa de rechazo,55.97,%
-Oficial 037,Sucursal 13,Calidad,Cumplimiento de normativa,22.36,Horas
-Oficial 037,Sucursal 13,Experiencia,Satisfacción del cliente,4.13,Puntos
-Oficial 037,Sucursal 13,Experiencia,Tasa de reclamos,68.02,%
-Oficial 037,Sucursal 13,Experiencia,Tiempo de espera,5.9,Horas
-Oficial 038,Sucursal 13,Eficiencia,Tiempo de procesamiento,3.4,Horas
-Oficial 038,Sucursal 13,Eficiencia,Clientes atendidos por hora,18.86,Horas
-Oficial 038,Sucursal 13,Eficiencia,Tasa de errores,61.5,%
-Oficial 038,Sucursal 13,Calidad,Revisión manual necesaria,21.0,Horas
-Oficial 038,Sucursal 13,Calidad,Tasa de rechazo,66.49,%
-Oficial 038,Sucursal 13,Calidad,Cumplimiento de normativa,23.92,Horas
-Oficial 038,Sucursal 13,Experiencia,Satisfacción del cliente,2.43,Puntos
-Oficial 038,Sucursal 13,Experiencia,Tasa de reclamos,53.13,%
-Oficial 038,Sucursal 13,Experiencia,Tiempo de espera,9.4,Horas
-Oficial 039,Sucursal 13,Eficiencia,Tiempo de procesamiento,9.1,Horas
-Oficial 039,Sucursal 13,Eficiencia,Clientes atendidos por hora,97.45,Horas
-Oficial 039,Sucursal 13,Eficiencia,Tasa de errores,65.03,%
-Oficial 039,Sucursal 13,Calidad,Revisión manual necesaria,87.62,Horas
-Oficial 039,Sucursal 13,Calidad,Tasa de rechazo,51.76,%
-Oficial 039,Sucursal 13,Calidad,Cumplimiento de normativa,96.78,Horas
-Oficial 039,Sucursal 13,Experiencia,Satisfacción del cliente,2.2,Puntos
-Oficial 039,Sucursal 13,Experiencia,Tasa de reclamos,52.13,%
-Oficial 039,Sucursal 13,Experiencia,Tiempo de espera,9.7,Horas
-Oficial 040,Sucursal 14,Eficiencia,Tiempo de procesamiento,3.5,Horas
-Oficial 040,Sucursal 14,Eficiencia,Clientes atendidos por hora,76.64,Horas
-Oficial 040,Sucursal 14,Eficiencia,Tasa de errores,55.99,%
-Oficial 040,Sucursal 14,Calidad,Revisión manual necesaria,40.39,Horas
-Oficial 040,Sucursal 14,Calidad,Tasa de rechazo,76.21,%
-Oficial 040,Sucursal 14,Calidad,Cumplimiento de normativa,99.46,Horas
-Oficial 040,Sucursal 14,Experiencia,Satisfacción del cliente,1.6,Puntos
-Oficial 040,Sucursal 14,Experiencia,Tasa de reclamos,91.99,%
-Oficial 040,Sucursal 14,Experiencia,Tiempo de espera,5.6,Horas
-Oficial 041,Sucursal 14,Eficiencia,Tiempo de procesamiento,5.9,Horas
-Oficial 041,Sucursal 14,Eficiencia,Clientes atendidos por hora,0.89,Horas
-Oficial 041,Sucursal 14,Eficiencia,Tasa de errores,91.35,%
-Oficial 041,Sucursal 14,Calidad,Revisión manual necesaria,21.8,Horas
-Oficial 041,Sucursal 14,Calidad,Tasa de rechazo,86.02,%
-Oficial 041,Sucursal 14,Calidad,Cumplimiento de normativa,24.19,Horas
-Oficial 041,Sucursal 14,Experiencia,Satisfacción del cliente,3.57,Puntos
-Oficial 041,Sucursal 14,Experiencia,Tasa de reclamos,67.09,%
-Oficial 041,Sucursal 14,Experiencia,Tiempo de espera,10.8,Horas
-Oficial 042,Sucursal 14,Eficiencia,Tiempo de procesamiento,6.4,Horas
-Oficial 042,Sucursal 14,Eficiencia,Clientes atendidos por hora,85.21,Horas
-Oficial 042,Sucursal 14,Eficiencia,Tasa de errores,82.45,%
-Oficial 042,Sucursal 14,Calidad,Revisión manual necesaria,32.68,Horas
-Oficial 042,Sucursal 14,Calidad,Tasa de rechazo,50.69,%
-Oficial 042,Sucursal 14,Calidad,Cumplimiento de normativa,77.79,Horas
-Oficial 042,Sucursal 14,Experiencia,Satisfacción del cliente,4.34,Puntos
-Oficial 042,Sucursal 14,Experiencia,Tasa de reclamos,54.12,%
-Oficial 042,Sucursal 14,Experiencia,Tiempo de espera,1.3,Horas
-Oficial 043,Sucursal 15,Eficiencia,Tiempo de procesamiento,4.6,Horas
-Oficial 043,Sucursal 15,Eficiencia,Clientes atendidos por hora,7.36,Horas
-Oficial 043,Sucursal 15,Eficiencia,Tasa de errores,80.1,%
-Oficial 043,Sucursal 15,Calidad,Revisión manual necesaria,43.62,Horas
-Oficial 043,Sucursal 15,Calidad,Tasa de rechazo,70.6,%
-Oficial 043,Sucursal 15,Calidad,Cumplimiento de normativa,36.79,Horas
-Oficial 043,Sucursal 15,Experiencia,Satisfacción del cliente,3.53,Puntos
-Oficial 043,Sucursal 15,Experiencia,Tasa de reclamos,82.41,%
-Oficial 043,Sucursal 15,Experiencia,Tiempo de espera,6.4,Horas
-Oficial 044,Sucursal 15,Eficiencia,Tiempo de procesamiento,3.0,Horas
-Oficial 044,Sucursal 15,Eficiencia,Clientes atendidos por hora,53.41,Horas
-Oficial 044,Sucursal 15,Eficiencia,Tasa de errores,64.33,%
-Oficial 044,Sucursal 15,Calidad,Revisión manual necesaria,3.32,Horas
-Oficial 044,Sucursal 15,Calidad,Tasa de rechazo,72.05,%
-Oficial 044,Sucursal 15,Calidad,Cumplimiento de normativa,8.38,Horas
-Oficial 044,Sucursal 15,Experiencia,Satisfacción del cliente,3.16,Puntos
-Oficial 044,Sucursal 15,Experiencia,Tasa de reclamos,72.7,%
-Oficial 044,Sucursal 15,Experiencia,Tiempo de espera,7.4,Horas
-Oficial 045,Sucursal 15,Eficiencia,Tiempo de procesamiento,11.5,Horas
-Oficial 045,Sucursal 15,Eficiencia,Clientes atendidos por hora,70.77,Horas
-Oficial 045,Sucursal 15,Eficiencia,Tasa de errores,63.26,%
-Oficial 045,Sucursal 15,Calidad,Revisión manual necesaria,60.57,Horas
-Oficial 045,Sucursal 15,Calidad,Tasa de rechazo,87.5,%
-Oficial 045,Sucursal 15,Calidad,Cumplimiento de normativa,50.21,Horas
-Oficial 045,Sucursal 15,Experiencia,Satisfacción del cliente,1.98,Puntos
-Oficial 045,Sucursal 15,Experiencia,Tasa de reclamos,50.6,%
-Oficial 045,Sucursal 15,Experiencia,Tiempo de espera,3.0,Horas
-Oficial 046,Sucursal 16,Eficiencia,Tiempo de procesamiento,1.5,Horas
-Oficial 046,Sucursal 16,Eficiencia,Clientes atendidos por hora,47.04,Horas
-Oficial 046,Sucursal 16,Eficiencia,Tasa de errores,77.72,%
-Oficial 046,Sucursal 16,Calidad,Revisión manual necesaria,89.14,Horas
-Oficial 046,Sucursal 16,Calidad,Tasa de rechazo,78.48,%
-Oficial 046,Sucursal 16,Calidad,Cumplimiento de normativa,2.36,Horas
-Oficial 046,Sucursal 16,Experiencia,Satisfacción del cliente,4.43,Puntos
-Oficial 046,Sucursal 16,Experiencia,Tasa de reclamos,98.89,%
-Oficial 046,Sucursal 16,Experiencia,Tiempo de espera,2.6,Horas
-Oficial 047,Sucursal 16,Eficiencia,Tiempo de procesamiento,2.3,Horas
-Oficial 047,Sucursal 16,Eficiencia,Clientes atendidos por hora,14.95,Horas
-Oficial 047,Sucursal 16,Eficiencia,Tasa de errores,68.36,%
-Oficial 047,Sucursal 16,Calidad,Revisión manual necesaria,0.78,Horas
-Oficial 047,Sucursal 16,Calidad,Tasa de rechazo,84.68,%
-Oficial 047,Sucursal 16,Calidad,Cumplimiento de normativa,74.63,Horas
-Oficial 047,Sucursal 16,Experiencia,Satisfacción del cliente,3.87,Puntos
-Oficial 047,Sucursal 16,Experiencia,Tasa de reclamos,51.55,%
-Oficial 047,Sucursal 16,Experiencia,Tiempo de espera,10.3,Horas
-Oficial 048,Sucursal 16,Eficiencia,Tiempo de procesamiento,9.2,Horas
-Oficial 048,Sucursal 16,Eficiencia,Clientes atendidos por hora,68.58,Horas
-Oficial 048,Sucursal 16,Eficiencia,Tasa de errores,66.27,%
-Oficial 048,Sucursal 16,Calidad,Revisión manual necesaria,87.79,Horas
-Oficial 048,Sucursal 16,Calidad,Tasa de rechazo,86.44,%
-Oficial 048,Sucursal 16,Calidad,Cumplimiento de normativa,57.56,Horas
-Oficial 048,Sucursal 16,Experiencia,Satisfacción del cliente,1.4,Puntos
-Oficial 048,Sucursal 16,Experiencia,Tasa de reclamos,89.44,%
-Oficial 048,Sucursal 16,Experiencia,Tiempo de espera,11.6,Horas
-Oficial 049,Sucursal 17,Eficiencia,Tiempo de procesamiento,1.4,Horas
-Oficial 049,Sucursal 17,Eficiencia,Clientes atendidos por hora,94.43,Horas
-Oficial 049,Sucursal 17,Eficiencia,Tasa de errores,56.9,%
-Oficial 049,Sucursal 17,Calidad,Revisión manual necesaria,72.51,Horas
-Oficial 049,Sucursal 17,Calidad,Tasa de rechazo,77.45,%
-Oficial 049,Sucursal 17,Calidad,Cumplimiento de normativa,32.44,Horas
-Oficial 049,Sucursal 17,Experiencia,Satisfacción del cliente,4.72,Puntos
-Oficial 049,Sucursal 17,Experiencia,Tasa de reclamos,85.98,%
-Oficial 049,Sucursal 17,Experiencia,Tiempo de espera,6.3,Horas
-Oficial 050,Sucursal 17,Eficiencia,Tiempo de procesamiento,4.1,Horas
-Oficial 050,Sucursal 17,Eficiencia,Clientes atendidos por hora,29.36,Horas
-Oficial 050,Sucursal 17,Eficiencia,Tasa de errores,77.52,%
-Oficial 050,Sucursal 17,Calidad,Revisión manual necesaria,41.85,Horas
-Oficial 050,Sucursal 17,Calidad,Tasa de rechazo,70.54,%
-Oficial 050,Sucursal 17,Calidad,Cumplimiento de normativa,55.09,Horas
-Oficial 050,Sucursal 17,Experiencia,Satisfacción del cliente,1.96,Puntos
-Oficial 050,Sucursal 17,Experiencia,Tasa de reclamos,66.82,%
-Oficial 050,Sucursal 17,Experiencia,Tiempo de espera,4.4,Horas
-Oficial 051,Sucursal 17,Eficiencia,Tiempo de procesamiento,6.3,Horas
-Oficial 051,Sucursal 17,Eficiencia,Clientes atendidos por hora,4.45,Horas
-Oficial 051,Sucursal 17,Eficiencia,Tasa de errores,87.67,%
-Oficial 051,Sucursal 17,Calidad,Revisión manual necesaria,55.26,Horas
-Oficial 051,Sucursal 17,Calidad,Tasa de rechazo,60.85,%
-Oficial 051,Sucursal 17,Calidad,Cumplimiento de normativa,88.36,Horas
-Oficial 051,Sucursal 17,Experiencia,Satisfacción del cliente,1.89,Puntos
-Oficial 051,Sucursal 17,Experiencia,Tasa de reclamos,69.6,%
-Oficial 051,Sucursal 17,Experiencia,Tiempo de espera,5.5,Horas
-Oficial 052,Sucursal 18,Eficiencia,Tiempo de procesamiento,2.9,Horas
-Oficial 052,Sucursal 18,Eficiencia,Clientes atendidos por hora,49.43,Horas
-Oficial 052,Sucursal 18,Eficiencia,Tasa de errores,98.77,%
-Oficial 052,Sucursal 18,Calidad,Revisión manual necesaria,38.27,Horas
-Oficial 052,Sucursal 18,Calidad,Tasa de rechazo,54.25,%
-Oficial 052,Sucursal 18,Calidad,Cumplimiento de normativa,85.12,Horas
-Oficial 052,Sucursal 18,Experiencia,Satisfacción del cliente,1.75,Puntos
-Oficial 052,Sucursal 18,Experiencia,Tasa de reclamos,71.06,%
-Oficial 052,Sucursal 18,Experiencia,Tiempo de espera,9.7,Horas
-Oficial 053,Sucursal 18,Eficiencia,Tiempo de procesamiento,4.2,Horas
-Oficial 053,Sucursal 18,Eficiencia,Clientes atendidos por hora,93.37,Horas
-Oficial 053,Sucursal 18,Eficiencia,Tasa de errores,89.44,%
-Oficial 053,Sucursal 18,Calidad,Revisión manual necesaria,37.88,Horas
-Oficial 053,Sucursal 18,Calidad,Tasa de rechazo,71.15,%
-Oficial 053,Sucursal 18,Calidad,Cumplimiento de normativa,1.62,Horas
-Oficial 053,Sucursal 18,Experiencia,Satisfacción del cliente,1.7,Puntos
-Oficial 053,Sucursal 18,Experiencia,Tasa de reclamos,61.23,%
-Oficial 053,Sucursal 18,Experiencia,Tiempo de espera,11.4,Horas
-Oficial 054,Sucursal 18,Eficiencia,Tiempo de procesamiento,6.1,Horas
-Oficial 054,Sucursal 18,Eficiencia,Clientes atendidos por hora,79.53,Horas
-Oficial 054,Sucursal 18,Eficiencia,Tasa de errores,67.41,%
-Oficial 054,Sucursal 18,Calidad,Revisión manual necesaria,36.94,Horas
-Oficial 054,Sucursal 18,Calidad,Tasa de rechazo,67.36,%
-Oficial 054,Sucursal 18,Calidad,Cumplimiento de normativa,7.76,Horas
-Oficial 054,Sucursal 18,Experiencia,Satisfacción del cliente,4.89,Puntos
-Oficial 054,Sucursal 18,Experiencia,Tasa de reclamos,72.26,%
-Oficial 054,Sucursal 18,Experiencia,Tiempo de espera,7.8,Horas
-Oficial 055,Sucursal 19,Eficiencia,Tiempo de procesamiento,9.8,Horas
-Oficial 055,Sucursal 19,Eficiencia,Clientes atendidos por hora,29.71,Horas
-Oficial 055,Sucursal 19,Eficiencia,Tasa de errores,67.93,%
-Oficial 055,Sucursal 19,Calidad,Revisión manual necesaria,9.36,Horas
-Oficial 055,Sucursal 19,Calidad,Tasa de rechazo,62.2,%
-Oficial 055,Sucursal 19,Calidad,Cumplimiento de normativa,24.26,Horas
-Oficial 055,Sucursal 19,Experiencia,Satisfacción del cliente,1.14,Puntos
-Oficial 055,Sucursal 19,Experiencia,Tasa de reclamos,58.33,%
-Oficial 055,Sucursal 19,Experiencia,Tiempo de espera,4.7,Horas
-Oficial 056,Sucursal 19,Eficiencia,Tiempo de procesamiento,1.4,Horas
-Oficial 056,Sucursal 19,Eficiencia,Clientes atendidos por hora,42.95,Horas
-Oficial 056,Sucursal 19,Eficiencia,Tasa de errores,93.45,%
-Oficial 056,Sucursal 19,Calidad,Revisión manual necesaria,50.44,Horas
-Oficial 056,Sucursal 19,Calidad,Tasa de rechazo,50.62,%
-Oficial 056,Sucursal 19,Calidad,Cumplimiento de normativa,17.75,Horas
-Oficial 056,Sucursal 19,Experiencia,Satisfacción del cliente,1.51,Puntos
-Oficial 056,Sucursal 19,Experiencia,Tasa de reclamos,82.6,%
-Oficial 056,Sucursal 19,Experiencia,Tiempo de espera,6.2,Horas
-Oficial 057,Sucursal 19,Eficiencia,Tiempo de procesamiento,1.3,Horas
-Oficial 057,Sucursal 19,Eficiencia,Clientes atendidos por hora,90.73,Horas
-Oficial 057,Sucursal 19,Eficiencia,Tasa de errores,65.53,%
-Oficial 057,Sucursal 19,Calidad,Revisión manual necesaria,34.04,Horas
-Oficial 057,Sucursal 19,Calidad,Tasa de rechazo,92.51,%
-Oficial 057,Sucursal 19,Calidad,Cumplimiento de normativa,45.36,Horas
-Oficial 057,Sucursal 19,Experiencia,Satisfacción del cliente,2.2,Puntos
-Oficial 057,Sucursal 19,Experiencia,Tasa de reclamos,78.68,%
-Oficial 057,Sucursal 19,Experiencia,Tiempo de espera,2.8,Horas
-Oficial 058,Sucursal 20,Eficiencia,Tiempo de procesamiento,5.7,Horas
-Oficial 058,Sucursal 20,Eficiencia,Clientes atendidos por hora,29.42,Horas
-Oficial 058,Sucursal 20,Eficiencia,Tasa de errores,52.35,%
-Oficial 058,Sucursal 20,Calidad,Revisión manual necesaria,50.43,Horas
-Oficial 058,Sucursal 20,Calidad,Tasa de rechazo,86.37,%
-Oficial 058,Sucursal 20,Calidad,Cumplimiento de normativa,99.86,Horas
-Oficial 058,Sucursal 20,Experiencia,Satisfacción del cliente,4.8,Puntos
-Oficial 058,Sucursal 20,Experiencia,Tasa de reclamos,94.79,%
-Oficial 058,Sucursal 20,Experiencia,Tiempo de espera,1.1,Horas
-Oficial 059,Sucursal 20,Eficiencia,Tiempo de procesamiento,2.7,Horas
-Oficial 059,Sucursal 20,Eficiencia,Clientes atendidos por hora,24.79,Horas
-Oficial 059,Sucursal 20,Eficiencia,Tasa de errores,79.88,%
-Oficial 059,Sucursal 20,Calidad,Revisión manual necesaria,84.11,Horas
-Oficial 059,Sucursal 20,Calidad,Tasa de rechazo,55.88,%
-Oficial 059,Sucursal 20,Calidad,Cumplimiento de normativa,58.21,Horas
-Oficial 059,Sucursal 20,Experiencia,Satisfacción del cliente,3.56,Puntos
-Oficial 059,Sucursal 20,Experiencia,Tasa de reclamos,68.2,%
-Oficial 059,Sucursal 20,Experiencia,Tiempo de espera,8.6,Horas
-Oficial 060,Sucursal 20,Eficiencia,Tiempo de procesamiento,3.6,Horas
-Oficial 060,Sucursal 20,Eficiencia,Clientes atendidos por hora,43.07,Horas
-Oficial 060,Sucursal 20,Eficiencia,Tasa de errores,56.39,%
-Oficial 060,Sucursal 20,Calidad,Revisión manual necesaria,4.25,Horas
-Oficial 060,Sucursal 20,Calidad,Tasa de rechazo,92.76,%
-Oficial 060,Sucursal 20,Calidad,Cumplimiento de normativa,99.27,Horas
-Oficial 060,Sucursal 20,Experiencia,Satisfacción del cliente,4.32,Puntos
-Oficial 060,Sucursal 20,Experiencia,Tasa de reclamos,55.55,%
-Oficial 060,Sucursal 20,Experiencia,Tiempo de espera,5.4,Horas
-Oficial 061,Sucursal 21,Eficiencia,Tiempo de procesamiento,10.6,Horas
-Oficial 061,Sucursal 21,Eficiencia,Clientes atendidos por hora,1.94,Horas
-Oficial 061,Sucursal 21,Eficiencia,Tasa de errores,68.54,%
-Oficial 061,Sucursal 21,Calidad,Revisión manual necesaria,59.75,Horas
-Oficial 061,Sucursal 21,Calidad,Tasa de rechazo,67.7,%
-Oficial 061,Sucursal 21,Calidad,Cumplimiento de normativa,45.67,Horas
-Oficial 061,Sucursal 21,Experiencia,Satisfacción del cliente,4.21,Puntos
-Oficial 061,Sucursal 21,Experiencia,Tasa de reclamos,72.23,%
-Oficial 061,Sucursal 21,Experiencia,Tiempo de espera,6.5,Horas
-Oficial 062,Sucursal 21,Eficiencia,Tiempo de procesamiento,10.8,Horas
-Oficial 062,Sucursal 21,Eficiencia,Clientes atendidos por hora,78.9,Horas
-Oficial 062,Sucursal 21,Eficiencia,Tasa de errores,88.12,%
-Oficial 062,Sucursal 21,Calidad,Revisión manual necesaria,0.88,Horas
-Oficial 062,Sucursal 21,Calidad,Tasa de rechazo,69.87,%
-Oficial 062,Sucursal 21,Calidad,Cumplimiento de normativa,62.27,Horas
-Oficial 062,Sucursal 21,Experiencia,Satisfacción del cliente,3.28,Puntos
-Oficial 062,Sucursal 21,Experiencia,Tasa de reclamos,78.52,%
-Oficial 062,Sucursal 21,Experiencia,Tiempo de espera,5.5,Horas
-Oficial 063,Sucursal 21,Eficiencia,Tiempo de procesamiento,9.9,Horas
-Oficial 063,Sucursal 21,Eficiencia,Clientes atendidos por hora,41.19,Horas
-Oficial 063,Sucursal 21,Eficiencia,Tasa de errores,92.56,%
-Oficial 063,Sucursal 21,Calidad,Revisión manual necesaria,34.39,Horas
-Oficial 063,Sucursal 21,Calidad,Tasa de rechazo,57.99,%
-Oficial 063,Sucursal 21,Calidad,Cumplimiento de normativa,21.53,Horas
-Oficial 063,Sucursal 21,Experiencia,Satisfacción del cliente,4.38,Puntos
-Oficial 063,Sucursal 21,Experiencia,Tasa de reclamos,96.72,%
-Oficial 063,Sucursal 21,Experiencia,Tiempo de espera,10.0,Horas
-Oficial 064,Sucursal 22,Eficiencia,Tiempo de procesamiento,9.6,Horas
-Oficial 064,Sucursal 22,Eficiencia,Clientes atendidos por hora,75.01,Horas
-Oficial 064,Sucursal 22,Eficiencia,Tasa de errores,78.16,%
-Oficial 064,Sucursal 22,Calidad,Revisión manual necesaria,80.83,Horas
-Oficial 064,Sucursal 22,Calidad,Tasa de rechazo,53.87,%
-Oficial 064,Sucursal 22,Calidad,Cumplimiento de normativa,91.25,Horas
-Oficial 064,Sucursal 22,Experiencia,Satisfacción del cliente,4.21,Puntos
-Oficial 064,Sucursal 22,Experiencia,Tasa de reclamos,75.53,%
-Oficial 064,Sucursal 22,Experiencia,Tiempo de espera,8.0,Horas
-Oficial 065,Sucursal 22,Eficiencia,Tiempo de procesamiento,2.7,Horas
-Oficial 065,Sucursal 22,Eficiencia,Clientes atendidos por hora,29.01,Horas
-Oficial 065,Sucursal 22,Eficiencia,Tasa de errores,54.58,%
-Oficial 065,Sucursal 22,Calidad,Revisión manual necesaria,36.88,Horas
-Oficial 065,Sucursal 22,Calidad,Tasa de rechazo,91.43,%
-Oficial 065,Sucursal 22,Calidad,Cumplimiento de normativa,61.94,Horas
-Oficial 065,Sucursal 22,Experiencia,Satisfacción del cliente,4.45,Puntos
-Oficial 065,Sucursal 22,Experiencia,Tasa de reclamos,84.97,%
-Oficial 065,Sucursal 22,Experiencia,Tiempo de espera,4.4,Horas
-Oficial 066,Sucursal 22,Eficiencia,Tiempo de procesamiento,6.6,Horas
-Oficial 066,Sucursal 22,Eficiencia,Clientes atendidos por hora,81.5,Horas
-Oficial 066,Sucursal 22,Eficiencia,Tasa de errores,79.52,%
-Oficial 066,Sucursal 22,Calidad,Revisión manual necesaria,42.8,Horas
-Oficial 066,Sucursal 22,Calidad,Tasa de rechazo,74.92,%
-Oficial 066,Sucursal 22,Calidad,Cumplimiento de normativa,2.14,Horas
-Oficial 066,Sucursal 22,Experiencia,Satisfacción del cliente,1.71,Puntos
-Oficial 066,Sucursal 22,Experiencia,Tasa de reclamos,52.24,%
-Oficial 066,Sucursal 22,Experiencia,Tiempo de espera,3.0,Horas
-Oficial 067,Sucursal 23,Eficiencia,Tiempo de procesamiento,9.6,Horas
-Oficial 067,Sucursal 23,Eficiencia,Clientes atendidos por hora,38.9,Horas
-Oficial 067,Sucursal 23,Eficiencia,Tasa de errores,57.56,%
-Oficial 067,Sucursal 23,Calidad,Revisión manual necesaria,92.41,Horas
-Oficial 067,Sucursal 23,Calidad,Tasa de rechazo,96.39,%
-Oficial 067,Sucursal 23,Calidad,Cumplimiento de normativa,66.92,Horas
-Oficial 067,Sucursal 23,Experiencia,Satisfacción del cliente,3.36,Puntos
-Oficial 067,Sucursal 23,Experiencia,Tasa de reclamos,52.36,%
-Oficial 067,Sucursal 23,Experiencia,Tiempo de espera,2.2,Horas
-Oficial 068,Sucursal 23,Eficiencia,Tiempo de procesamiento,2.9,Horas
-Oficial 068,Sucursal 23,Eficiencia,Clientes atendidos por hora,0.41,Horas
-Oficial 068,Sucursal 23,Eficiencia,Tasa de errores,79.49,%
-Oficial 068,Sucursal 23,Calidad,Revisión manual necesaria,5.38,Horas
-Oficial 068,Sucursal 23,Calidad,Tasa de rechazo,92.47,%
-Oficial 068,Sucursal 23,Calidad,Cumplimiento de normativa,18.67,Horas
-Oficial 068,Sucursal 23,Experiencia,Satisfacción del cliente,2.87,Puntos
-Oficial 068,Sucursal 23,Experiencia,Tasa de reclamos,82.34,%
-Oficial 068,Sucursal 23,Experiencia,Tiempo de espera,5.0,Horas
-Oficial 069,Sucursal 23,Eficiencia,Tiempo de procesamiento,1.9,Horas
-Oficial 069,Sucursal 23,Eficiencia,Clientes atendidos por hora,90.13,Horas
-Oficial 069,Sucursal 23,Eficiencia,Tasa de errores,58.16,%
-Oficial 069,Sucursal 23,Calidad,Revisión manual necesaria,22.24,Horas
-Oficial 069,Sucursal 23,Calidad,Tasa de rechazo,56.28,%
-Oficial 069,Sucursal 23,Calidad,Cumplimiento de normativa,53.64,Horas
-Oficial 069,Sucursal 23,Experiencia,Satisfacción del cliente,3.43,Puntos
-Oficial 069,Sucursal 23,Experiencia,Tasa de reclamos,77.66,%
-Oficial 069,Sucursal 23,Experiencia,Tiempo de espera,3.3,Horas
-Oficial 070,Sucursal 24,Eficiencia,Tiempo de procesamiento,1.4,Horas
-Oficial 070,Sucursal 24,Eficiencia,Clientes atendidos por hora,53.51,Horas
-Oficial 070,Sucursal 24,Eficiencia,Tasa de errores,72.49,%
-Oficial 070,Sucursal 24,Calidad,Revisión manual necesaria,19.58,Horas
-Oficial 070,Sucursal 24,Calidad,Tasa de rechazo,60.58,%
-Oficial 070,Sucursal 24,Calidad,Cumplimiento de normativa,33.76,Horas
-Oficial 070,Sucursal 24,Experiencia,Satisfacción del cliente,1.15,Puntos
-Oficial 070,Sucursal 24,Experiencia,Tasa de reclamos,91.57,%
-Oficial 070,Sucursal 24,Experiencia,Tiempo de espera,4.7,Horas
-Oficial 071,Sucursal 24,Eficiencia,Tiempo de procesamiento,9.6,Horas
-Oficial 071,Sucursal 24,Eficiencia,Clientes atendidos por hora,6.49,Horas
-Oficial 071,Sucursal 24,Eficiencia,Tasa de errores,88.92,%
-Oficial 071,Sucursal 24,Calidad,Revisión manual necesaria,37.51,Horas
-Oficial 071,Sucursal 24,Calidad,Tasa de rechazo,71.03,%
-Oficial 071,Sucursal 24,Calidad,Cumplimiento de normativa,29.46,Horas
-Oficial 071,Sucursal 24,Experiencia,Satisfacción del cliente,4.39,Puntos
-Oficial 071,Sucursal 24,Experiencia,Tasa de reclamos,64.38,%
-Oficial 071,Sucursal 24,Experiencia,Tiempo de espera,2.4,Horas
-Oficial 072,Sucursal 24,Eficiencia,Tiempo de procesamiento,3.9,Horas
-Oficial 072,Sucursal 24,Eficiencia,Clientes atendidos por hora,23.03,Horas
-Oficial 072,Sucursal 24,Eficiencia,Tasa de errores,54.16,%
-Oficial 072,Sucursal 24,Calidad,Revisión manual necesaria,88.51,Horas
-Oficial 072,Sucursal 24,Calidad,Tasa de rechazo,84.69,%
-Oficial 072,Sucursal 24,Calidad,Cumplimiento de normativa,63.94,Horas
-Oficial 072,Sucursal 24,Experiencia,Satisfacción del cliente,3.28,Puntos
-Oficial 072,Sucursal 24,Experiencia,Tasa de reclamos,76.59,%
-Oficial 072,Sucursal 24,Experiencia,Tiempo de espera,11.7,Horas
-Procesamiento Comercial,Casa Matriz,Eficiencia,Tiempo de procesamiento,83.37,Horas
-Procesamiento Comercial,Casa Matriz,Eficiencia,Clientes atendidos por hora,82.28,Horas
-Procesamiento Comercial,Casa Matriz,Eficiencia,Tasa de errores,91.97,%
-Procesamiento Comercial,Casa Matriz,Calidad,Revisión manual necesaria,70.03,Horas
-Procesamiento Comercial,Casa Matriz,Calidad,Tasa de rechazo,86.26,%
-Procesamiento Comercial,Casa Matriz,Calidad,Cumplimiento de normativa,63.06,Horas
-Procesamiento Comercial,Casa Matriz,Experiencia,Satisfacción del cliente,92.95,Puntos
-Procesamiento Comercial,Casa Matriz,Experiencia,Tasa de reclamos,87.65,%
-Procesamiento Comercial,Casa Matriz,Experiencia,Tiempo de espera,85.78,Horas
+Mes,Unidad,Sucursal,Perspectiva,Indicador,Valor,Unidad de Medida
+2024-03,Oficial 001,Sucursal 01,Eficiencia,Tiempo de procesamiento,84.75,Horas
+2024-03,Oficial 001,Sucursal 01,Eficiencia,Clientes atendidos por hora,83.51,Horas
+2024-03,Oficial 001,Sucursal 01,Eficiencia,Tasa de errores,65.08,%
+2024-03,Oficial 001,Sucursal 01,Calidad,Revisión manual necesaria,83.35,Horas
+2024-03,Oficial 001,Sucursal 01,Calidad,Tasa de rechazo,77.21,%
+2024-03,Oficial 001,Sucursal 01,Calidad,Cumplimiento de normativa,68.29,Horas
+2024-03,Oficial 001,Sucursal 01,Experiencia,Satisfacción del cliente,62.08,Puntos
+2024-03,Oficial 001,Sucursal 01,Experiencia,Tasa de reclamos,94.08,%
+2024-03,Oficial 001,Sucursal 01,Experiencia,Tiempo de espera,90.05,Horas
+2024-03,Oficial 002,Sucursal 01,Eficiencia,Tiempo de procesamiento,97.16,Horas
+2024-03,Oficial 002,Sucursal 01,Eficiencia,Clientes atendidos por hora,62.3,Horas
+2024-03,Oficial 002,Sucursal 01,Eficiencia,Tasa de errores,64.57,%
+2024-03,Oficial 002,Sucursal 01,Calidad,Revisión manual necesaria,75.97,Horas
+2024-03,Oficial 002,Sucursal 01,Calidad,Tasa de rechazo,68.5,%
+2024-03,Oficial 002,Sucursal 01,Calidad,Cumplimiento de normativa,98.59,Horas
+2024-03,Oficial 002,Sucursal 01,Experiencia,Satisfacción del cliente,81.23,Puntos
+2024-03,Oficial 002,Sucursal 01,Experiencia,Tasa de reclamos,89.19,%
+2024-03,Oficial 002,Sucursal 01,Experiencia,Tiempo de espera,79.61,Horas
+2024-03,Oficial 003,Sucursal 01,Eficiencia,Tiempo de procesamiento,62.0,Horas
+2024-03,Oficial 003,Sucursal 01,Eficiencia,Clientes atendidos por hora,66.45,Horas
+2024-03,Oficial 003,Sucursal 01,Eficiencia,Tasa de errores,97.43,%
+2024-03,Oficial 003,Sucursal 01,Calidad,Revisión manual necesaria,75.75,Horas
+2024-03,Oficial 003,Sucursal 01,Calidad,Tasa de rechazo,97.94,%
+2024-03,Oficial 003,Sucursal 01,Calidad,Cumplimiento de normativa,81.55,Horas
+2024-03,Oficial 003,Sucursal 01,Experiencia,Satisfacción del cliente,82.22,Puntos
+2024-03,Oficial 003,Sucursal 01,Experiencia,Tasa de reclamos,80.98,%
+2024-03,Oficial 003,Sucursal 01,Experiencia,Tiempo de espera,76.51,Horas
+2024-03,Oficial 004,Sucursal 02,Eficiencia,Tiempo de procesamiento,82.12,Horas
+2024-03,Oficial 004,Sucursal 02,Eficiencia,Clientes atendidos por hora,63.62,Horas
+2024-03,Oficial 004,Sucursal 02,Eficiencia,Tasa de errores,64.3,%
+2024-03,Oficial 004,Sucursal 02,Calidad,Revisión manual necesaria,80.58,Horas
+2024-03,Oficial 004,Sucursal 02,Calidad,Tasa de rechazo,76.17,%
+2024-03,Oficial 004,Sucursal 02,Calidad,Cumplimiento de normativa,66.0,Horas
+2024-03,Oficial 004,Sucursal 02,Experiencia,Satisfacción del cliente,86.54,Puntos
+2024-03,Oficial 004,Sucursal 02,Experiencia,Tasa de reclamos,73.92,%
+2024-03,Oficial 004,Sucursal 02,Experiencia,Tiempo de espera,76.05,Horas
+2024-03,Oficial 005,Sucursal 02,Eficiencia,Tiempo de procesamiento,79.99,Horas
+2024-03,Oficial 005,Sucursal 02,Eficiencia,Clientes atendidos por hora,75.78,Horas
+2024-03,Oficial 005,Sucursal 02,Eficiencia,Tasa de errores,86.89,%
+2024-03,Oficial 005,Sucursal 02,Calidad,Revisión manual necesaria,78.66,Horas
+2024-03,Oficial 005,Sucursal 02,Calidad,Tasa de rechazo,86.76,%
+2024-03,Oficial 005,Sucursal 02,Calidad,Cumplimiento de normativa,92.25,Horas
+2024-03,Oficial 005,Sucursal 02,Experiencia,Satisfacción del cliente,80.68,Puntos
+2024-03,Oficial 005,Sucursal 02,Experiencia,Tasa de reclamos,90.75,%
+2024-03,Oficial 005,Sucursal 02,Experiencia,Tiempo de espera,68.45,Horas
+2024-03,Oficial 006,Sucursal 02,Eficiencia,Tiempo de procesamiento,87.92,Horas
+2024-03,Oficial 006,Sucursal 02,Eficiencia,Clientes atendidos por hora,79.23,Horas
+2024-03,Oficial 006,Sucursal 02,Eficiencia,Tasa de errores,93.59,%
+2024-03,Oficial 006,Sucursal 02,Calidad,Revisión manual necesaria,69.42,Horas
+2024-03,Oficial 006,Sucursal 02,Calidad,Tasa de rechazo,72.37,%
+2024-03,Oficial 006,Sucursal 02,Calidad,Cumplimiento de normativa,68.32,Horas
+2024-03,Oficial 006,Sucursal 02,Experiencia,Satisfacción del cliente,66.66,Puntos
+2024-03,Oficial 006,Sucursal 02,Experiencia,Tasa de reclamos,91.12,%
+2024-03,Oficial 006,Sucursal 02,Experiencia,Tiempo de espera,82.0,Horas
+2024-03,Oficial 007,Sucursal 03,Eficiencia,Tiempo de procesamiento,73.74,Horas
+2024-03,Oficial 007,Sucursal 03,Eficiencia,Clientes atendidos por hora,89.92,Horas
+2024-03,Oficial 007,Sucursal 03,Eficiencia,Tasa de errores,98.94,%
+2024-03,Oficial 007,Sucursal 03,Calidad,Revisión manual necesaria,79.62,Horas
+2024-03,Oficial 007,Sucursal 03,Calidad,Tasa de rechazo,90.43,%
+2024-03,Oficial 007,Sucursal 03,Calidad,Cumplimiento de normativa,77.55,Horas
+2024-03,Oficial 007,Sucursal 03,Experiencia,Satisfacción del cliente,91.05,Puntos
+2024-03,Oficial 007,Sucursal 03,Experiencia,Tasa de reclamos,93.07,%
+2024-03,Oficial 007,Sucursal 03,Experiencia,Tiempo de espera,89.89,Horas
+2024-03,Oficial 008,Sucursal 03,Eficiencia,Tiempo de procesamiento,64.47,Horas
+2024-03,Oficial 008,Sucursal 03,Eficiencia,Clientes atendidos por hora,65.1,Horas
+2024-03,Oficial 008,Sucursal 03,Eficiencia,Tasa de errores,77.84,%
+2024-03,Oficial 008,Sucursal 03,Calidad,Revisión manual necesaria,95.94,Horas
+2024-03,Oficial 008,Sucursal 03,Calidad,Tasa de rechazo,63.95,%
+2024-03,Oficial 008,Sucursal 03,Calidad,Cumplimiento de normativa,62.3,Horas
+2024-03,Oficial 008,Sucursal 03,Experiencia,Satisfacción del cliente,62.41,Puntos
+2024-03,Oficial 008,Sucursal 03,Experiencia,Tasa de reclamos,72.7,%
+2024-03,Oficial 008,Sucursal 03,Experiencia,Tiempo de espera,77.01,Horas
+2024-03,Oficial 009,Sucursal 03,Eficiencia,Tiempo de procesamiento,62.74,Horas
+2024-03,Oficial 009,Sucursal 03,Eficiencia,Clientes atendidos por hora,82.11,Horas
+2024-03,Oficial 009,Sucursal 03,Eficiencia,Tasa de errores,74.04,%
+2024-03,Oficial 009,Sucursal 03,Calidad,Revisión manual necesaria,87.48,Horas
+2024-03,Oficial 009,Sucursal 03,Calidad,Tasa de rechazo,79.83,%
+2024-03,Oficial 009,Sucursal 03,Calidad,Cumplimiento de normativa,74.87,Horas
+2024-03,Oficial 009,Sucursal 03,Experiencia,Satisfacción del cliente,97.37,Puntos
+2024-03,Oficial 009,Sucursal 03,Experiencia,Tasa de reclamos,63.22,%
+2024-03,Oficial 009,Sucursal 03,Experiencia,Tiempo de espera,97.69,Horas
+2024-03,Oficial 010,Sucursal 04,Eficiencia,Tiempo de procesamiento,67.52,Horas
+2024-03,Oficial 010,Sucursal 04,Eficiencia,Clientes atendidos por hora,65.64,Horas
+2024-03,Oficial 010,Sucursal 04,Eficiencia,Tasa de errores,95.35,%
+2024-03,Oficial 010,Sucursal 04,Calidad,Revisión manual necesaria,79.53,Horas
+2024-03,Oficial 010,Sucursal 04,Calidad,Tasa de rechazo,77.63,%
+2024-03,Oficial 010,Sucursal 04,Calidad,Cumplimiento de normativa,89.77,Horas
+2024-03,Oficial 010,Sucursal 04,Experiencia,Satisfacción del cliente,84.84,Puntos
+2024-03,Oficial 010,Sucursal 04,Experiencia,Tasa de reclamos,81.87,%
+2024-03,Oficial 010,Sucursal 04,Experiencia,Tiempo de espera,89.63,Horas
+2024-03,Oficial 011,Sucursal 04,Eficiencia,Tiempo de procesamiento,96.14,Horas
+2024-03,Oficial 011,Sucursal 04,Eficiencia,Clientes atendidos por hora,89.11,Horas
+2024-03,Oficial 011,Sucursal 04,Eficiencia,Tasa de errores,63.76,%
+2024-03,Oficial 011,Sucursal 04,Calidad,Revisión manual necesaria,90.42,Horas
+2024-03,Oficial 011,Sucursal 04,Calidad,Tasa de rechazo,95.94,%
+2024-03,Oficial 011,Sucursal 04,Calidad,Cumplimiento de normativa,76.82,Horas
+2024-03,Oficial 011,Sucursal 04,Experiencia,Satisfacción del cliente,92.1,Puntos
+2024-03,Oficial 011,Sucursal 04,Experiencia,Tasa de reclamos,82.66,%
+2024-03,Oficial 011,Sucursal 04,Experiencia,Tiempo de espera,60.32,Horas
+2024-03,Oficial 012,Sucursal 04,Eficiencia,Tiempo de procesamiento,68.94,Horas
+2024-03,Oficial 012,Sucursal 04,Eficiencia,Clientes atendidos por hora,76.71,Horas
+2024-03,Oficial 012,Sucursal 04,Eficiencia,Tasa de errores,90.36,%
+2024-03,Oficial 012,Sucursal 04,Calidad,Revisión manual necesaria,70.9,Horas
+2024-03,Oficial 012,Sucursal 04,Calidad,Tasa de rechazo,95.23,%
+2024-03,Oficial 012,Sucursal 04,Calidad,Cumplimiento de normativa,76.82,Horas
+2024-03,Oficial 012,Sucursal 04,Experiencia,Satisfacción del cliente,95.52,Puntos
+2024-03,Oficial 012,Sucursal 04,Experiencia,Tasa de reclamos,88.99,%
+2024-03,Oficial 012,Sucursal 04,Experiencia,Tiempo de espera,63.17,Horas
+2024-03,Oficial 013,Sucursal 05,Eficiencia,Tiempo de procesamiento,82.27,Horas
+2024-03,Oficial 013,Sucursal 05,Eficiencia,Clientes atendidos por hora,91.57,Horas
+2024-03,Oficial 013,Sucursal 05,Eficiencia,Tasa de errores,76.35,%
+2024-03,Oficial 013,Sucursal 05,Calidad,Revisión manual necesaria,95.47,Horas
+2024-03,Oficial 013,Sucursal 05,Calidad,Tasa de rechazo,67.6,%
+2024-03,Oficial 013,Sucursal 05,Calidad,Cumplimiento de normativa,88.32,Horas
+2024-03,Oficial 013,Sucursal 05,Experiencia,Satisfacción del cliente,73.02,Puntos
+2024-03,Oficial 013,Sucursal 05,Experiencia,Tasa de reclamos,83.31,%
+2024-03,Oficial 013,Sucursal 05,Experiencia,Tiempo de espera,91.26,Horas
+2024-03,Oficial 014,Sucursal 05,Eficiencia,Tiempo de procesamiento,62.72,Horas
+2024-03,Oficial 014,Sucursal 05,Eficiencia,Clientes atendidos por hora,86.96,Horas
+2024-03,Oficial 014,Sucursal 05,Eficiencia,Tasa de errores,75.3,%
+2024-03,Oficial 014,Sucursal 05,Calidad,Revisión manual necesaria,67.0,Horas
+2024-03,Oficial 014,Sucursal 05,Calidad,Tasa de rechazo,97.12,%
+2024-03,Oficial 014,Sucursal 05,Calidad,Cumplimiento de normativa,95.7,Horas
+2024-03,Oficial 014,Sucursal 05,Experiencia,Satisfacción del cliente,67.15,Puntos
+2024-03,Oficial 014,Sucursal 05,Experiencia,Tasa de reclamos,78.25,%
+2024-03,Oficial 014,Sucursal 05,Experiencia,Tiempo de espera,67.07,Horas
+2024-03,Oficial 015,Sucursal 05,Eficiencia,Tiempo de procesamiento,60.37,Horas
+2024-03,Oficial 015,Sucursal 05,Eficiencia,Clientes atendidos por hora,71.17,Horas
+2024-03,Oficial 015,Sucursal 05,Eficiencia,Tasa de errores,86.4,%
+2024-03,Oficial 015,Sucursal 05,Calidad,Revisión manual necesaria,62.89,Horas
+2024-03,Oficial 015,Sucursal 05,Calidad,Tasa de rechazo,81.81,%
+2024-03,Oficial 015,Sucursal 05,Calidad,Cumplimiento de normativa,64.8,Horas
+2024-03,Oficial 015,Sucursal 05,Experiencia,Satisfacción del cliente,75.77,Puntos
+2024-03,Oficial 015,Sucursal 05,Experiencia,Tasa de reclamos,86.88,%
+2024-03,Oficial 015,Sucursal 05,Experiencia,Tiempo de espera,79.66,Horas
+2024-03,Oficial 016,Sucursal 06,Eficiencia,Tiempo de procesamiento,88.0,Horas
+2024-03,Oficial 016,Sucursal 06,Eficiencia,Clientes atendidos por hora,99.22,Horas
+2024-03,Oficial 016,Sucursal 06,Eficiencia,Tasa de errores,97.33,%
+2024-03,Oficial 016,Sucursal 06,Calidad,Revisión manual necesaria,88.49,Horas
+2024-03,Oficial 016,Sucursal 06,Calidad,Tasa de rechazo,71.73,%
+2024-03,Oficial 016,Sucursal 06,Calidad,Cumplimiento de normativa,84.43,Horas
+2024-03,Oficial 016,Sucursal 06,Experiencia,Satisfacción del cliente,84.52,Puntos
+2024-03,Oficial 016,Sucursal 06,Experiencia,Tasa de reclamos,86.48,%
+2024-03,Oficial 016,Sucursal 06,Experiencia,Tiempo de espera,79.65,Horas
+2024-03,Oficial 017,Sucursal 06,Eficiencia,Tiempo de procesamiento,82.55,Horas
+2024-03,Oficial 017,Sucursal 06,Eficiencia,Clientes atendidos por hora,77.91,Horas
+2024-03,Oficial 017,Sucursal 06,Eficiencia,Tasa de errores,95.43,%
+2024-03,Oficial 017,Sucursal 06,Calidad,Revisión manual necesaria,72.72,Horas
+2024-03,Oficial 017,Sucursal 06,Calidad,Tasa de rechazo,90.24,%
+2024-03,Oficial 017,Sucursal 06,Calidad,Cumplimiento de normativa,79.89,Horas
+2024-03,Oficial 017,Sucursal 06,Experiencia,Satisfacción del cliente,71.01,Puntos
+2024-03,Oficial 017,Sucursal 06,Experiencia,Tasa de reclamos,89.71,%
+2024-03,Oficial 017,Sucursal 06,Experiencia,Tiempo de espera,99.72,Horas
+2024-03,Oficial 018,Sucursal 06,Eficiencia,Tiempo de procesamiento,82.27,Horas
+2024-03,Oficial 018,Sucursal 06,Eficiencia,Clientes atendidos por hora,64.13,Horas
+2024-03,Oficial 018,Sucursal 06,Eficiencia,Tasa de errores,97.06,%
+2024-03,Oficial 018,Sucursal 06,Calidad,Revisión manual necesaria,71.68,Horas
+2024-03,Oficial 018,Sucursal 06,Calidad,Tasa de rechazo,92.78,%
+2024-03,Oficial 018,Sucursal 06,Calidad,Cumplimiento de normativa,62.88,Horas
+2024-03,Oficial 018,Sucursal 06,Experiencia,Satisfacción del cliente,98.9,Puntos
+2024-03,Oficial 018,Sucursal 06,Experiencia,Tasa de reclamos,77.69,%
+2024-03,Oficial 018,Sucursal 06,Experiencia,Tiempo de espera,93.41,Horas
+2024-03,Oficial 019,Sucursal 07,Eficiencia,Tiempo de procesamiento,71.23,Horas
+2024-03,Oficial 019,Sucursal 07,Eficiencia,Clientes atendidos por hora,76.35,Horas
+2024-03,Oficial 019,Sucursal 07,Eficiencia,Tasa de errores,63.17,%
+2024-03,Oficial 019,Sucursal 07,Calidad,Revisión manual necesaria,61.55,Horas
+2024-03,Oficial 019,Sucursal 07,Calidad,Tasa de rechazo,81.85,%
+2024-03,Oficial 019,Sucursal 07,Calidad,Cumplimiento de normativa,88.61,Horas
+2024-03,Oficial 019,Sucursal 07,Experiencia,Satisfacción del cliente,71.33,Puntos
+2024-03,Oficial 019,Sucursal 07,Experiencia,Tasa de reclamos,70.85,%
+2024-03,Oficial 019,Sucursal 07,Experiencia,Tiempo de espera,91.63,Horas
+2024-03,Oficial 020,Sucursal 07,Eficiencia,Tiempo de procesamiento,62.23,Horas
+2024-03,Oficial 020,Sucursal 07,Eficiencia,Clientes atendidos por hora,77.16,Horas
+2024-03,Oficial 020,Sucursal 07,Eficiencia,Tasa de errores,66.57,%
+2024-03,Oficial 020,Sucursal 07,Calidad,Revisión manual necesaria,81.71,Horas
+2024-03,Oficial 020,Sucursal 07,Calidad,Tasa de rechazo,96.34,%
+2024-03,Oficial 020,Sucursal 07,Calidad,Cumplimiento de normativa,67.76,Horas
+2024-03,Oficial 020,Sucursal 07,Experiencia,Satisfacción del cliente,70.38,Puntos
+2024-03,Oficial 020,Sucursal 07,Experiencia,Tasa de reclamos,80.01,%
+2024-03,Oficial 020,Sucursal 07,Experiencia,Tiempo de espera,88.09,Horas
+2024-03,Oficial 021,Sucursal 07,Eficiencia,Tiempo de procesamiento,81.06,Horas
+2024-03,Oficial 021,Sucursal 07,Eficiencia,Clientes atendidos por hora,79.48,Horas
+2024-03,Oficial 021,Sucursal 07,Eficiencia,Tasa de errores,60.98,%
+2024-03,Oficial 021,Sucursal 07,Calidad,Revisión manual necesaria,98.08,Horas
+2024-03,Oficial 021,Sucursal 07,Calidad,Tasa de rechazo,61.94,%
+2024-03,Oficial 021,Sucursal 07,Calidad,Cumplimiento de normativa,95.75,Horas
+2024-03,Oficial 021,Sucursal 07,Experiencia,Satisfacción del cliente,67.52,Puntos
+2024-03,Oficial 021,Sucursal 07,Experiencia,Tasa de reclamos,80.89,%
+2024-03,Oficial 021,Sucursal 07,Experiencia,Tiempo de espera,61.09,Horas
+2024-03,Oficial 022,Sucursal 08,Eficiencia,Tiempo de procesamiento,63.87,Horas
+2024-03,Oficial 022,Sucursal 08,Eficiencia,Clientes atendidos por hora,93.64,Horas
+2024-03,Oficial 022,Sucursal 08,Eficiencia,Tasa de errores,90.6,%
+2024-03,Oficial 022,Sucursal 08,Calidad,Revisión manual necesaria,61.72,Horas
+2024-03,Oficial 022,Sucursal 08,Calidad,Tasa de rechazo,72.89,%
+2024-03,Oficial 022,Sucursal 08,Calidad,Cumplimiento de normativa,98.12,Horas
+2024-03,Oficial 022,Sucursal 08,Experiencia,Satisfacción del cliente,92.76,Puntos
+2024-03,Oficial 022,Sucursal 08,Experiencia,Tasa de reclamos,60.47,%
+2024-03,Oficial 022,Sucursal 08,Experiencia,Tiempo de espera,62.38,Horas
+2024-03,Oficial 023,Sucursal 08,Eficiencia,Tiempo de procesamiento,63.18,Horas
+2024-03,Oficial 023,Sucursal 08,Eficiencia,Clientes atendidos por hora,73.93,Horas
+2024-03,Oficial 023,Sucursal 08,Eficiencia,Tasa de errores,99.51,%
+2024-03,Oficial 023,Sucursal 08,Calidad,Revisión manual necesaria,99.05,Horas
+2024-03,Oficial 023,Sucursal 08,Calidad,Tasa de rechazo,62.26,%
+2024-03,Oficial 023,Sucursal 08,Calidad,Cumplimiento de normativa,98.19,Horas
+2024-03,Oficial 023,Sucursal 08,Experiencia,Satisfacción del cliente,91.17,Puntos
+2024-03,Oficial 023,Sucursal 08,Experiencia,Tasa de reclamos,84.66,%
+2024-03,Oficial 023,Sucursal 08,Experiencia,Tiempo de espera,81.55,Horas
+2024-03,Oficial 024,Sucursal 08,Eficiencia,Tiempo de procesamiento,76.12,Horas
+2024-03,Oficial 024,Sucursal 08,Eficiencia,Clientes atendidos por hora,73.36,Horas
+2024-03,Oficial 024,Sucursal 08,Eficiencia,Tasa de errores,88.3,%
+2024-03,Oficial 024,Sucursal 08,Calidad,Revisión manual necesaria,97.89,Horas
+2024-03,Oficial 024,Sucursal 08,Calidad,Tasa de rechazo,80.29,%
+2024-03,Oficial 024,Sucursal 08,Calidad,Cumplimiento de normativa,81.01,Horas
+2024-03,Oficial 024,Sucursal 08,Experiencia,Satisfacción del cliente,93.37,Puntos
+2024-03,Oficial 024,Sucursal 08,Experiencia,Tasa de reclamos,99.42,%
+2024-03,Oficial 024,Sucursal 08,Experiencia,Tiempo de espera,80.18,Horas
+2024-03,Oficial 025,Sucursal 09,Eficiencia,Tiempo de procesamiento,86.24,Horas
+2024-03,Oficial 025,Sucursal 09,Eficiencia,Clientes atendidos por hora,69.63,Horas
+2024-03,Oficial 025,Sucursal 09,Eficiencia,Tasa de errores,79.91,%
+2024-03,Oficial 025,Sucursal 09,Calidad,Revisión manual necesaria,79.9,Horas
+2024-03,Oficial 025,Sucursal 09,Calidad,Tasa de rechazo,69.31,%
+2024-03,Oficial 025,Sucursal 09,Calidad,Cumplimiento de normativa,85.62,Horas
+2024-03,Oficial 025,Sucursal 09,Experiencia,Satisfacción del cliente,98.54,Puntos
+2024-03,Oficial 025,Sucursal 09,Experiencia,Tasa de reclamos,92.92,%
+2024-03,Oficial 025,Sucursal 09,Experiencia,Tiempo de espera,72.66,Horas
+2024-03,Oficial 026,Sucursal 09,Eficiencia,Tiempo de procesamiento,72.42,Horas
+2024-03,Oficial 026,Sucursal 09,Eficiencia,Clientes atendidos por hora,70.95,Horas
+2024-03,Oficial 026,Sucursal 09,Eficiencia,Tasa de errores,88.38,%
+2024-03,Oficial 026,Sucursal 09,Calidad,Revisión manual necesaria,68.16,Horas
+2024-03,Oficial 026,Sucursal 09,Calidad,Tasa de rechazo,65.08,%
+2024-03,Oficial 026,Sucursal 09,Calidad,Cumplimiento de normativa,70.54,Horas
+2024-03,Oficial 026,Sucursal 09,Experiencia,Satisfacción del cliente,74.22,Puntos
+2024-03,Oficial 026,Sucursal 09,Experiencia,Tasa de reclamos,72.01,%
+2024-03,Oficial 026,Sucursal 09,Experiencia,Tiempo de espera,65.58,Horas
+2024-03,Oficial 027,Sucursal 09,Eficiencia,Tiempo de procesamiento,67.38,Horas
+2024-03,Oficial 027,Sucursal 09,Eficiencia,Clientes atendidos por hora,63.33,Horas
+2024-03,Oficial 027,Sucursal 09,Eficiencia,Tasa de errores,70.53,%
+2024-03,Oficial 027,Sucursal 09,Calidad,Revisión manual necesaria,76.9,Horas
+2024-03,Oficial 027,Sucursal 09,Calidad,Tasa de rechazo,70.35,%
+2024-03,Oficial 027,Sucursal 09,Calidad,Cumplimiento de normativa,73.79,Horas
+2024-03,Oficial 027,Sucursal 09,Experiencia,Satisfacción del cliente,63.15,Puntos
+2024-03,Oficial 027,Sucursal 09,Experiencia,Tasa de reclamos,67.44,%
+2024-03,Oficial 027,Sucursal 09,Experiencia,Tiempo de espera,80.5,Horas
+2024-03,Oficial 028,Sucursal 10,Eficiencia,Tiempo de procesamiento,99.87,Horas
+2024-03,Oficial 028,Sucursal 10,Eficiencia,Clientes atendidos por hora,64.05,Horas
+2024-03,Oficial 028,Sucursal 10,Eficiencia,Tasa de errores,90.78,%
+2024-03,Oficial 028,Sucursal 10,Calidad,Revisión manual necesaria,96.69,Horas
+2024-03,Oficial 028,Sucursal 10,Calidad,Tasa de rechazo,80.97,%
+2024-03,Oficial 028,Sucursal 10,Calidad,Cumplimiento de normativa,95.97,Horas
+2024-03,Oficial 028,Sucursal 10,Experiencia,Satisfacción del cliente,84.71,Puntos
+2024-03,Oficial 028,Sucursal 10,Experiencia,Tasa de reclamos,86.78,%
+2024-03,Oficial 028,Sucursal 10,Experiencia,Tiempo de espera,96.59,Horas
+2024-03,Oficial 029,Sucursal 10,Eficiencia,Tiempo de procesamiento,98.9,Horas
+2024-03,Oficial 029,Sucursal 10,Eficiencia,Clientes atendidos por hora,98.77,Horas
+2024-03,Oficial 029,Sucursal 10,Eficiencia,Tasa de errores,90.64,%
+2024-03,Oficial 029,Sucursal 10,Calidad,Revisión manual necesaria,69.06,Horas
+2024-03,Oficial 029,Sucursal 10,Calidad,Tasa de rechazo,62.86,%
+2024-03,Oficial 029,Sucursal 10,Calidad,Cumplimiento de normativa,71.26,Horas
+2024-03,Oficial 029,Sucursal 10,Experiencia,Satisfacción del cliente,67.68,Puntos
+2024-03,Oficial 029,Sucursal 10,Experiencia,Tasa de reclamos,90.72,%
+2024-03,Oficial 029,Sucursal 10,Experiencia,Tiempo de espera,78.95,Horas
+2024-03,Oficial 030,Sucursal 10,Eficiencia,Tiempo de procesamiento,69.33,Horas
+2024-03,Oficial 030,Sucursal 10,Eficiencia,Clientes atendidos por hora,81.3,Horas
+2024-03,Oficial 030,Sucursal 10,Eficiencia,Tasa de errores,95.28,%
+2024-03,Oficial 030,Sucursal 10,Calidad,Revisión manual necesaria,73.32,Horas
+2024-03,Oficial 030,Sucursal 10,Calidad,Tasa de rechazo,95.62,%
+2024-03,Oficial 030,Sucursal 10,Calidad,Cumplimiento de normativa,95.57,Horas
+2024-03,Oficial 030,Sucursal 10,Experiencia,Satisfacción del cliente,68.95,Puntos
+2024-03,Oficial 030,Sucursal 10,Experiencia,Tasa de reclamos,89.8,%
+2024-03,Oficial 030,Sucursal 10,Experiencia,Tiempo de espera,64.22,Horas
+2024-03,Oficial 031,Sucursal 11,Eficiencia,Tiempo de procesamiento,77.49,Horas
+2024-03,Oficial 031,Sucursal 11,Eficiencia,Clientes atendidos por hora,90.57,Horas
+2024-03,Oficial 031,Sucursal 11,Eficiencia,Tasa de errores,67.05,%
+2024-03,Oficial 031,Sucursal 11,Calidad,Revisión manual necesaria,90.73,Horas
+2024-03,Oficial 031,Sucursal 11,Calidad,Tasa de rechazo,88.87,%
+2024-03,Oficial 031,Sucursal 11,Calidad,Cumplimiento de normativa,71.17,Horas
+2024-03,Oficial 031,Sucursal 11,Experiencia,Satisfacción del cliente,97.85,Puntos
+2024-03,Oficial 031,Sucursal 11,Experiencia,Tasa de reclamos,62.78,%
+2024-03,Oficial 031,Sucursal 11,Experiencia,Tiempo de espera,77.34,Horas
+2024-03,Oficial 032,Sucursal 11,Eficiencia,Tiempo de procesamiento,96.14,Horas
+2024-03,Oficial 032,Sucursal 11,Eficiencia,Clientes atendidos por hora,74.31,Horas
+2024-03,Oficial 032,Sucursal 11,Eficiencia,Tasa de errores,90.69,%
+2024-03,Oficial 032,Sucursal 11,Calidad,Revisión manual necesaria,93.4,Horas
+2024-03,Oficial 032,Sucursal 11,Calidad,Tasa de rechazo,72.67,%
+2024-03,Oficial 032,Sucursal 11,Calidad,Cumplimiento de normativa,91.52,Horas
+2024-03,Oficial 032,Sucursal 11,Experiencia,Satisfacción del cliente,97.81,Puntos
+2024-03,Oficial 032,Sucursal 11,Experiencia,Tasa de reclamos,63.98,%
+2024-03,Oficial 032,Sucursal 11,Experiencia,Tiempo de espera,65.36,Horas
+2024-03,Oficial 033,Sucursal 11,Eficiencia,Tiempo de procesamiento,96.72,Horas
+2024-03,Oficial 033,Sucursal 11,Eficiencia,Clientes atendidos por hora,78.7,Horas
+2024-03,Oficial 033,Sucursal 11,Eficiencia,Tasa de errores,70.88,%
+2024-03,Oficial 033,Sucursal 11,Calidad,Revisión manual necesaria,83.55,Horas
+2024-03,Oficial 033,Sucursal 11,Calidad,Tasa de rechazo,82.28,%
+2024-03,Oficial 033,Sucursal 11,Calidad,Cumplimiento de normativa,76.39,Horas
+2024-03,Oficial 033,Sucursal 11,Experiencia,Satisfacción del cliente,77.69,Puntos
+2024-03,Oficial 033,Sucursal 11,Experiencia,Tasa de reclamos,80.81,%
+2024-03,Oficial 033,Sucursal 11,Experiencia,Tiempo de espera,88.72,Horas
+2024-03,Oficial 034,Sucursal 12,Eficiencia,Tiempo de procesamiento,92.69,Horas
+2024-03,Oficial 034,Sucursal 12,Eficiencia,Clientes atendidos por hora,60.27,Horas
+2024-03,Oficial 034,Sucursal 12,Eficiencia,Tasa de errores,71.05,%
+2024-03,Oficial 034,Sucursal 12,Calidad,Revisión manual necesaria,91.0,Horas
+2024-03,Oficial 034,Sucursal 12,Calidad,Tasa de rechazo,83.57,%
+2024-03,Oficial 034,Sucursal 12,Calidad,Cumplimiento de normativa,64.24,Horas
+2024-03,Oficial 034,Sucursal 12,Experiencia,Satisfacción del cliente,94.3,Puntos
+2024-03,Oficial 034,Sucursal 12,Experiencia,Tasa de reclamos,64.32,%
+2024-03,Oficial 034,Sucursal 12,Experiencia,Tiempo de espera,90.78,Horas
+2024-03,Oficial 035,Sucursal 12,Eficiencia,Tiempo de procesamiento,80.55,Horas
+2024-03,Oficial 035,Sucursal 12,Eficiencia,Clientes atendidos por hora,78.84,Horas
+2024-03,Oficial 035,Sucursal 12,Eficiencia,Tasa de errores,73.44,%
+2024-03,Oficial 035,Sucursal 12,Calidad,Revisión manual necesaria,89.86,Horas
+2024-03,Oficial 035,Sucursal 12,Calidad,Tasa de rechazo,71.41,%
+2024-03,Oficial 035,Sucursal 12,Calidad,Cumplimiento de normativa,95.34,Horas
+2024-03,Oficial 035,Sucursal 12,Experiencia,Satisfacción del cliente,76.21,Puntos
+2024-03,Oficial 035,Sucursal 12,Experiencia,Tasa de reclamos,73.49,%
+2024-03,Oficial 035,Sucursal 12,Experiencia,Tiempo de espera,99.84,Horas
+2024-03,Oficial 036,Sucursal 12,Eficiencia,Tiempo de procesamiento,92.31,Horas
+2024-03,Oficial 036,Sucursal 12,Eficiencia,Clientes atendidos por hora,74.98,Horas
+2024-03,Oficial 036,Sucursal 12,Eficiencia,Tasa de errores,77.42,%
+2024-03,Oficial 036,Sucursal 12,Calidad,Revisión manual necesaria,75.97,Horas
+2024-03,Oficial 036,Sucursal 12,Calidad,Tasa de rechazo,96.61,%
+2024-03,Oficial 036,Sucursal 12,Calidad,Cumplimiento de normativa,71.81,Horas
+2024-03,Oficial 036,Sucursal 12,Experiencia,Satisfacción del cliente,61.09,Puntos
+2024-03,Oficial 036,Sucursal 12,Experiencia,Tasa de reclamos,94.86,%
+2024-03,Oficial 036,Sucursal 12,Experiencia,Tiempo de espera,66.3,Horas
+2024-03,Oficial 037,Sucursal 13,Eficiencia,Tiempo de procesamiento,75.72,Horas
+2024-03,Oficial 037,Sucursal 13,Eficiencia,Clientes atendidos por hora,62.95,Horas
+2024-03,Oficial 037,Sucursal 13,Eficiencia,Tasa de errores,71.6,%
+2024-03,Oficial 037,Sucursal 13,Calidad,Revisión manual necesaria,74.5,Horas
+2024-03,Oficial 037,Sucursal 13,Calidad,Tasa de rechazo,80.97,%
+2024-03,Oficial 037,Sucursal 13,Calidad,Cumplimiento de normativa,81.92,Horas
+2024-03,Oficial 037,Sucursal 13,Experiencia,Satisfacción del cliente,86.4,Puntos
+2024-03,Oficial 037,Sucursal 13,Experiencia,Tasa de reclamos,86.17,%
+2024-03,Oficial 037,Sucursal 13,Experiencia,Tiempo de espera,78.36,Horas
+2024-03,Oficial 038,Sucursal 13,Eficiencia,Tiempo de procesamiento,86.68,Horas
+2024-03,Oficial 038,Sucursal 13,Eficiencia,Clientes atendidos por hora,71.46,Horas
+2024-03,Oficial 038,Sucursal 13,Eficiencia,Tasa de errores,79.91,%
+2024-03,Oficial 038,Sucursal 13,Calidad,Revisión manual necesaria,78.95,Horas
+2024-03,Oficial 038,Sucursal 13,Calidad,Tasa de rechazo,95.18,%
+2024-03,Oficial 038,Sucursal 13,Calidad,Cumplimiento de normativa,61.46,Horas
+2024-03,Oficial 038,Sucursal 13,Experiencia,Satisfacción del cliente,76.54,Puntos
+2024-03,Oficial 038,Sucursal 13,Experiencia,Tasa de reclamos,96.3,%
+2024-03,Oficial 038,Sucursal 13,Experiencia,Tiempo de espera,67.79,Horas
+2024-03,Oficial 039,Sucursal 13,Eficiencia,Tiempo de procesamiento,65.96,Horas
+2024-03,Oficial 039,Sucursal 13,Eficiencia,Clientes atendidos por hora,81.09,Horas
+2024-03,Oficial 039,Sucursal 13,Eficiencia,Tasa de errores,66.69,%
+2024-03,Oficial 039,Sucursal 13,Calidad,Revisión manual necesaria,79.02,Horas
+2024-03,Oficial 039,Sucursal 13,Calidad,Tasa de rechazo,82.55,%
+2024-03,Oficial 039,Sucursal 13,Calidad,Cumplimiento de normativa,95.3,Horas
+2024-03,Oficial 039,Sucursal 13,Experiencia,Satisfacción del cliente,62.71,Puntos
+2024-03,Oficial 039,Sucursal 13,Experiencia,Tasa de reclamos,75.31,%
+2024-03,Oficial 039,Sucursal 13,Experiencia,Tiempo de espera,84.5,Horas
+2024-03,Oficial 040,Sucursal 14,Eficiencia,Tiempo de procesamiento,96.55,Horas
+2024-03,Oficial 040,Sucursal 14,Eficiencia,Clientes atendidos por hora,90.38,Horas
+2024-03,Oficial 040,Sucursal 14,Eficiencia,Tasa de errores,71.39,%
+2024-03,Oficial 040,Sucursal 14,Calidad,Revisión manual necesaria,93.01,Horas
+2024-03,Oficial 040,Sucursal 14,Calidad,Tasa de rechazo,74.65,%
+2024-03,Oficial 040,Sucursal 14,Calidad,Cumplimiento de normativa,76.94,Horas
+2024-03,Oficial 040,Sucursal 14,Experiencia,Satisfacción del cliente,73.32,Puntos
+2024-03,Oficial 040,Sucursal 14,Experiencia,Tasa de reclamos,72.11,%
+2024-03,Oficial 040,Sucursal 14,Experiencia,Tiempo de espera,65.79,Horas
+2024-03,Oficial 041,Sucursal 14,Eficiencia,Tiempo de procesamiento,75.29,Horas
+2024-03,Oficial 041,Sucursal 14,Eficiencia,Clientes atendidos por hora,96.68,Horas
+2024-03,Oficial 041,Sucursal 14,Eficiencia,Tasa de errores,93.37,%
+2024-03,Oficial 041,Sucursal 14,Calidad,Revisión manual necesaria,96.31,Horas
+2024-03,Oficial 041,Sucursal 14,Calidad,Tasa de rechazo,79.95,%
+2024-03,Oficial 041,Sucursal 14,Calidad,Cumplimiento de normativa,74.22,Horas
+2024-03,Oficial 041,Sucursal 14,Experiencia,Satisfacción del cliente,82.35,Puntos
+2024-03,Oficial 041,Sucursal 14,Experiencia,Tasa de reclamos,62.28,%
+2024-03,Oficial 041,Sucursal 14,Experiencia,Tiempo de espera,83.66,Horas
+2024-03,Oficial 042,Sucursal 14,Eficiencia,Tiempo de procesamiento,72.84,Horas
+2024-03,Oficial 042,Sucursal 14,Eficiencia,Clientes atendidos por hora,78.74,Horas
+2024-03,Oficial 042,Sucursal 14,Eficiencia,Tasa de errores,97.39,%
+2024-03,Oficial 042,Sucursal 14,Calidad,Revisión manual necesaria,98.22,Horas
+2024-03,Oficial 042,Sucursal 14,Calidad,Tasa de rechazo,94.14,%
+2024-03,Oficial 042,Sucursal 14,Calidad,Cumplimiento de normativa,96.56,Horas
+2024-03,Oficial 042,Sucursal 14,Experiencia,Satisfacción del cliente,85.95,Puntos
+2024-03,Oficial 042,Sucursal 14,Experiencia,Tasa de reclamos,74.97,%
+2024-03,Oficial 042,Sucursal 14,Experiencia,Tiempo de espera,63.34,Horas
+2024-03,Oficial 043,Sucursal 15,Eficiencia,Tiempo de procesamiento,89.08,Horas
+2024-03,Oficial 043,Sucursal 15,Eficiencia,Clientes atendidos por hora,90.43,Horas
+2024-03,Oficial 043,Sucursal 15,Eficiencia,Tasa de errores,90.59,%
+2024-03,Oficial 043,Sucursal 15,Calidad,Revisión manual necesaria,86.75,Horas
+2024-03,Oficial 043,Sucursal 15,Calidad,Tasa de rechazo,61.65,%
+2024-03,Oficial 043,Sucursal 15,Calidad,Cumplimiento de normativa,71.12,Horas
+2024-03,Oficial 043,Sucursal 15,Experiencia,Satisfacción del cliente,73.45,Puntos
+2024-03,Oficial 043,Sucursal 15,Experiencia,Tasa de reclamos,77.36,%
+2024-03,Oficial 043,Sucursal 15,Experiencia,Tiempo de espera,83.5,Horas
+2024-03,Oficial 044,Sucursal 15,Eficiencia,Tiempo de procesamiento,62.09,Horas
+2024-03,Oficial 044,Sucursal 15,Eficiencia,Clientes atendidos por hora,72.1,Horas
+2024-03,Oficial 044,Sucursal 15,Eficiencia,Tasa de errores,94.52,%
+2024-03,Oficial 044,Sucursal 15,Calidad,Revisión manual necesaria,95.75,Horas
+2024-03,Oficial 044,Sucursal 15,Calidad,Tasa de rechazo,97.41,%
+2024-03,Oficial 044,Sucursal 15,Calidad,Cumplimiento de normativa,96.88,Horas
+2024-03,Oficial 044,Sucursal 15,Experiencia,Satisfacción del cliente,89.72,Puntos
+2024-03,Oficial 044,Sucursal 15,Experiencia,Tasa de reclamos,75.62,%
+2024-03,Oficial 044,Sucursal 15,Experiencia,Tiempo de espera,68.66,Horas
+2024-03,Oficial 045,Sucursal 15,Eficiencia,Tiempo de procesamiento,87.91,Horas
+2024-03,Oficial 045,Sucursal 15,Eficiencia,Clientes atendidos por hora,74.85,Horas
+2024-03,Oficial 045,Sucursal 15,Eficiencia,Tasa de errores,86.82,%
+2024-03,Oficial 045,Sucursal 15,Calidad,Revisión manual necesaria,93.66,Horas
+2024-03,Oficial 045,Sucursal 15,Calidad,Tasa de rechazo,86.15,%
+2024-03,Oficial 045,Sucursal 15,Calidad,Cumplimiento de normativa,77.71,Horas
+2024-03,Oficial 045,Sucursal 15,Experiencia,Satisfacción del cliente,99.61,Puntos
+2024-03,Oficial 045,Sucursal 15,Experiencia,Tasa de reclamos,77.08,%
+2024-03,Oficial 045,Sucursal 15,Experiencia,Tiempo de espera,70.07,Horas
+2024-03,Oficial 046,Sucursal 16,Eficiencia,Tiempo de procesamiento,95.07,Horas
+2024-03,Oficial 046,Sucursal 16,Eficiencia,Clientes atendidos por hora,67.6,Horas
+2024-03,Oficial 046,Sucursal 16,Eficiencia,Tasa de errores,95.14,%
+2024-03,Oficial 046,Sucursal 16,Calidad,Revisión manual necesaria,99.89,Horas
+2024-03,Oficial 046,Sucursal 16,Calidad,Tasa de rechazo,76.55,%
+2024-03,Oficial 046,Sucursal 16,Calidad,Cumplimiento de normativa,77.37,Horas
+2024-03,Oficial 046,Sucursal 16,Experiencia,Satisfacción del cliente,94.02,Puntos
+2024-03,Oficial 046,Sucursal 16,Experiencia,Tasa de reclamos,88.62,%
+2024-03,Oficial 046,Sucursal 16,Experiencia,Tiempo de espera,62.96,Horas
+2024-03,Oficial 047,Sucursal 16,Eficiencia,Tiempo de procesamiento,71.36,Horas
+2024-03,Oficial 047,Sucursal 16,Eficiencia,Clientes atendidos por hora,61.13,Horas
+2024-03,Oficial 047,Sucursal 16,Eficiencia,Tasa de errores,76.85,%
+2024-03,Oficial 047,Sucursal 16,Calidad,Revisión manual necesaria,60.26,Horas
+2024-03,Oficial 047,Sucursal 16,Calidad,Tasa de rechazo,70.9,%
+2024-03,Oficial 047,Sucursal 16,Calidad,Cumplimiento de normativa,60.66,Horas
+2024-03,Oficial 047,Sucursal 16,Experiencia,Satisfacción del cliente,67.88,Puntos
+2024-03,Oficial 047,Sucursal 16,Experiencia,Tasa de reclamos,87.89,%
+2024-03,Oficial 047,Sucursal 16,Experiencia,Tiempo de espera,88.77,Horas
+2024-03,Oficial 048,Sucursal 16,Eficiencia,Tiempo de procesamiento,92.55,Horas
+2024-03,Oficial 048,Sucursal 16,Eficiencia,Clientes atendidos por hora,92.2,Horas
+2024-03,Oficial 048,Sucursal 16,Eficiencia,Tasa de errores,68.21,%
+2024-03,Oficial 048,Sucursal 16,Calidad,Revisión manual necesaria,63.33,Horas
+2024-03,Oficial 048,Sucursal 16,Calidad,Tasa de rechazo,84.49,%
+2024-03,Oficial 048,Sucursal 16,Calidad,Cumplimiento de normativa,86.48,Horas
+2024-03,Oficial 048,Sucursal 16,Experiencia,Satisfacción del cliente,79.18,Puntos
+2024-03,Oficial 048,Sucursal 16,Experiencia,Tasa de reclamos,65.35,%
+2024-03,Oficial 048,Sucursal 16,Experiencia,Tiempo de espera,77.23,Horas
+2024-03,Oficial 049,Sucursal 17,Eficiencia,Tiempo de procesamiento,91.09,Horas
+2024-03,Oficial 049,Sucursal 17,Eficiencia,Clientes atendidos por hora,81.09,Horas
+2024-03,Oficial 049,Sucursal 17,Eficiencia,Tasa de errores,75.14,%
+2024-03,Oficial 049,Sucursal 17,Calidad,Revisión manual necesaria,96.16,Horas
+2024-03,Oficial 049,Sucursal 17,Calidad,Tasa de rechazo,72.23,%
+2024-03,Oficial 049,Sucursal 17,Calidad,Cumplimiento de normativa,66.35,Horas
+2024-03,Oficial 049,Sucursal 17,Experiencia,Satisfacción del cliente,88.7,Puntos
+2024-03,Oficial 049,Sucursal 17,Experiencia,Tasa de reclamos,76.12,%
+2024-03,Oficial 049,Sucursal 17,Experiencia,Tiempo de espera,99.22,Horas
+2024-03,Oficial 050,Sucursal 17,Eficiencia,Tiempo de procesamiento,79.64,Horas
+2024-03,Oficial 050,Sucursal 17,Eficiencia,Clientes atendidos por hora,68.27,Horas
+2024-03,Oficial 050,Sucursal 17,Eficiencia,Tasa de errores,63.03,%
+2024-03,Oficial 050,Sucursal 17,Calidad,Revisión manual necesaria,94.27,Horas
+2024-03,Oficial 050,Sucursal 17,Calidad,Tasa de rechazo,95.99,%
+2024-03,Oficial 050,Sucursal 17,Calidad,Cumplimiento de normativa,64.07,Horas
+2024-03,Oficial 050,Sucursal 17,Experiencia,Satisfacción del cliente,63.41,Puntos
+2024-03,Oficial 050,Sucursal 17,Experiencia,Tasa de reclamos,78.4,%
+2024-03,Oficial 050,Sucursal 17,Experiencia,Tiempo de espera,89.02,Horas
+2024-03,Oficial 051,Sucursal 17,Eficiencia,Tiempo de procesamiento,75.07,Horas
+2024-03,Oficial 051,Sucursal 17,Eficiencia,Clientes atendidos por hora,81.32,Horas
+2024-03,Oficial 051,Sucursal 17,Eficiencia,Tasa de errores,94.49,%
+2024-03,Oficial 051,Sucursal 17,Calidad,Revisión manual necesaria,81.18,Horas
+2024-03,Oficial 051,Sucursal 17,Calidad,Tasa de rechazo,96.89,%
+2024-03,Oficial 051,Sucursal 17,Calidad,Cumplimiento de normativa,95.08,Horas
+2024-03,Oficial 051,Sucursal 17,Experiencia,Satisfacción del cliente,72.54,Puntos
+2024-03,Oficial 051,Sucursal 17,Experiencia,Tasa de reclamos,86.85,%
+2024-03,Oficial 051,Sucursal 17,Experiencia,Tiempo de espera,60.38,Horas
+2024-03,Oficial 052,Sucursal 18,Eficiencia,Tiempo de procesamiento,68.72,Horas
+2024-03,Oficial 052,Sucursal 18,Eficiencia,Clientes atendidos por hora,69.25,Horas
+2024-03,Oficial 052,Sucursal 18,Eficiencia,Tasa de errores,89.4,%
+2024-03,Oficial 052,Sucursal 18,Calidad,Revisión manual necesaria,79.63,Horas
+2024-03,Oficial 052,Sucursal 18,Calidad,Tasa de rechazo,77.22,%
+2024-03,Oficial 052,Sucursal 18,Calidad,Cumplimiento de normativa,61.93,Horas
+2024-03,Oficial 052,Sucursal 18,Experiencia,Satisfacción del cliente,63.13,Puntos
+2024-03,Oficial 052,Sucursal 18,Experiencia,Tasa de reclamos,63.66,%
+2024-03,Oficial 052,Sucursal 18,Experiencia,Tiempo de espera,97.35,Horas
+2024-03,Oficial 053,Sucursal 18,Eficiencia,Tiempo de procesamiento,91.58,Horas
+2024-03,Oficial 053,Sucursal 18,Eficiencia,Clientes atendidos por hora,70.28,Horas
+2024-03,Oficial 053,Sucursal 18,Eficiencia,Tasa de errores,81.66,%
+2024-03,Oficial 053,Sucursal 18,Calidad,Revisión manual necesaria,87.15,Horas
+2024-03,Oficial 053,Sucursal 18,Calidad,Tasa de rechazo,82.31,%
+2024-03,Oficial 053,Sucursal 18,Calidad,Cumplimiento de normativa,89.08,Horas
+2024-03,Oficial 053,Sucursal 18,Experiencia,Satisfacción del cliente,79.96,Puntos
+2024-03,Oficial 053,Sucursal 18,Experiencia,Tasa de reclamos,93.25,%
+2024-03,Oficial 053,Sucursal 18,Experiencia,Tiempo de espera,71.23,Horas
+2024-03,Oficial 054,Sucursal 18,Eficiencia,Tiempo de procesamiento,93.84,Horas
+2024-03,Oficial 054,Sucursal 18,Eficiencia,Clientes atendidos por hora,62.39,Horas
+2024-03,Oficial 054,Sucursal 18,Eficiencia,Tasa de errores,95.26,%
+2024-03,Oficial 054,Sucursal 18,Calidad,Revisión manual necesaria,83.83,Horas
+2024-03,Oficial 054,Sucursal 18,Calidad,Tasa de rechazo,79.45,%
+2024-03,Oficial 054,Sucursal 18,Calidad,Cumplimiento de normativa,83.8,Horas
+2024-03,Oficial 054,Sucursal 18,Experiencia,Satisfacción del cliente,68.13,Puntos
+2024-03,Oficial 054,Sucursal 18,Experiencia,Tasa de reclamos,84.83,%
+2024-03,Oficial 054,Sucursal 18,Experiencia,Tiempo de espera,91.65,Horas
+2024-03,Oficial 055,Sucursal 19,Eficiencia,Tiempo de procesamiento,99.66,Horas
+2024-03,Oficial 055,Sucursal 19,Eficiencia,Clientes atendidos por hora,93.54,Horas
+2024-03,Oficial 055,Sucursal 19,Eficiencia,Tasa de errores,81.85,%
+2024-03,Oficial 055,Sucursal 19,Calidad,Revisión manual necesaria,80.03,Horas
+2024-03,Oficial 055,Sucursal 19,Calidad,Tasa de rechazo,83.42,%
+2024-03,Oficial 055,Sucursal 19,Calidad,Cumplimiento de normativa,80.88,Horas
+2024-03,Oficial 055,Sucursal 19,Experiencia,Satisfacción del cliente,91.42,Puntos
+2024-03,Oficial 055,Sucursal 19,Experiencia,Tasa de reclamos,76.36,%
+2024-03,Oficial 055,Sucursal 19,Experiencia,Tiempo de espera,64.49,Horas
+2024-03,Oficial 056,Sucursal 19,Eficiencia,Tiempo de procesamiento,63.55,Horas
+2024-03,Oficial 056,Sucursal 19,Eficiencia,Clientes atendidos por hora,83.03,Horas
+2024-03,Oficial 056,Sucursal 19,Eficiencia,Tasa de errores,90.75,%
+2024-03,Oficial 056,Sucursal 19,Calidad,Revisión manual necesaria,66.4,Horas
+2024-03,Oficial 056,Sucursal 19,Calidad,Tasa de rechazo,72.34,%
+2024-03,Oficial 056,Sucursal 19,Calidad,Cumplimiento de normativa,77.97,Horas
+2024-03,Oficial 056,Sucursal 19,Experiencia,Satisfacción del cliente,65.34,Puntos
+2024-03,Oficial 056,Sucursal 19,Experiencia,Tasa de reclamos,98.14,%
+2024-03,Oficial 056,Sucursal 19,Experiencia,Tiempo de espera,92.6,Horas
+2024-03,Oficial 057,Sucursal 19,Eficiencia,Tiempo de procesamiento,61.78,Horas
+2024-03,Oficial 057,Sucursal 19,Eficiencia,Clientes atendidos por hora,80.92,Horas
+2024-03,Oficial 057,Sucursal 19,Eficiencia,Tasa de errores,93.88,%
+2024-03,Oficial 057,Sucursal 19,Calidad,Revisión manual necesaria,71.29,Horas
+2024-03,Oficial 057,Sucursal 19,Calidad,Tasa de rechazo,79.02,%
+2024-03,Oficial 057,Sucursal 19,Calidad,Cumplimiento de normativa,81.55,Horas
+2024-03,Oficial 057,Sucursal 19,Experiencia,Satisfacción del cliente,87.25,Puntos
+2024-03,Oficial 057,Sucursal 19,Experiencia,Tasa de reclamos,82.75,%
+2024-03,Oficial 057,Sucursal 19,Experiencia,Tiempo de espera,73.87,Horas
+2024-03,Oficial 058,Sucursal 20,Eficiencia,Tiempo de procesamiento,89.74,Horas
+2024-03,Oficial 058,Sucursal 20,Eficiencia,Clientes atendidos por hora,83.26,Horas
+2024-03,Oficial 058,Sucursal 20,Eficiencia,Tasa de errores,67.9,%
+2024-03,Oficial 058,Sucursal 20,Calidad,Revisión manual necesaria,64.98,Horas
+2024-03,Oficial 058,Sucursal 20,Calidad,Tasa de rechazo,90.61,%
+2024-03,Oficial 058,Sucursal 20,Calidad,Cumplimiento de normativa,84.81,Horas
+2024-03,Oficial 058,Sucursal 20,Experiencia,Satisfacción del cliente,76.99,Puntos
+2024-03,Oficial 058,Sucursal 20,Experiencia,Tasa de reclamos,77.33,%
+2024-03,Oficial 058,Sucursal 20,Experiencia,Tiempo de espera,76.89,Horas
+2024-03,Oficial 059,Sucursal 20,Eficiencia,Tiempo de procesamiento,82.12,Horas
+2024-03,Oficial 059,Sucursal 20,Eficiencia,Clientes atendidos por hora,80.82,Horas
+2024-03,Oficial 059,Sucursal 20,Eficiencia,Tasa de errores,78.47,%
+2024-03,Oficial 059,Sucursal 20,Calidad,Revisión manual necesaria,85.6,Horas
+2024-03,Oficial 059,Sucursal 20,Calidad,Tasa de rechazo,90.86,%
+2024-03,Oficial 059,Sucursal 20,Calidad,Cumplimiento de normativa,64.97,Horas
+2024-03,Oficial 059,Sucursal 20,Experiencia,Satisfacción del cliente,87.31,Puntos
+2024-03,Oficial 059,Sucursal 20,Experiencia,Tasa de reclamos,86.21,%
+2024-03,Oficial 059,Sucursal 20,Experiencia,Tiempo de espera,60.07,Horas
+2024-03,Oficial 060,Sucursal 20,Eficiencia,Tiempo de procesamiento,69.24,Horas
+2024-03,Oficial 060,Sucursal 20,Eficiencia,Clientes atendidos por hora,61.28,Horas
+2024-03,Oficial 060,Sucursal 20,Eficiencia,Tasa de errores,71.36,%
+2024-03,Oficial 060,Sucursal 20,Calidad,Revisión manual necesaria,97.68,Horas
+2024-03,Oficial 060,Sucursal 20,Calidad,Tasa de rechazo,74.55,%
+2024-03,Oficial 060,Sucursal 20,Calidad,Cumplimiento de normativa,95.97,Horas
+2024-03,Oficial 060,Sucursal 20,Experiencia,Satisfacción del cliente,76.5,Puntos
+2024-03,Oficial 060,Sucursal 20,Experiencia,Tasa de reclamos,72.55,%
+2024-03,Oficial 060,Sucursal 20,Experiencia,Tiempo de espera,68.62,Horas
+2024-03,Oficial 061,Sucursal 21,Eficiencia,Tiempo de procesamiento,90.06,Horas
+2024-03,Oficial 061,Sucursal 21,Eficiencia,Clientes atendidos por hora,84.51,Horas
+2024-03,Oficial 061,Sucursal 21,Eficiencia,Tasa de errores,78.32,%
+2024-03,Oficial 061,Sucursal 21,Calidad,Revisión manual necesaria,81.96,Horas
+2024-03,Oficial 061,Sucursal 21,Calidad,Tasa de rechazo,66.27,%
+2024-03,Oficial 061,Sucursal 21,Calidad,Cumplimiento de normativa,74.3,Horas
+2024-03,Oficial 061,Sucursal 21,Experiencia,Satisfacción del cliente,96.86,Puntos
+2024-03,Oficial 061,Sucursal 21,Experiencia,Tasa de reclamos,65.81,%
+2024-03,Oficial 061,Sucursal 21,Experiencia,Tiempo de espera,99.85,Horas
+2024-03,Oficial 062,Sucursal 21,Eficiencia,Tiempo de procesamiento,65.52,Horas
+2024-03,Oficial 062,Sucursal 21,Eficiencia,Clientes atendidos por hora,79.53,Horas
+2024-03,Oficial 062,Sucursal 21,Eficiencia,Tasa de errores,93.0,%
+2024-03,Oficial 062,Sucursal 21,Calidad,Revisión manual necesaria,78.12,Horas
+2024-03,Oficial 062,Sucursal 21,Calidad,Tasa de rechazo,69.38,%
+2024-03,Oficial 062,Sucursal 21,Calidad,Cumplimiento de normativa,72.82,Horas
+2024-03,Oficial 062,Sucursal 21,Experiencia,Satisfacción del cliente,86.33,Puntos
+2024-03,Oficial 062,Sucursal 21,Experiencia,Tasa de reclamos,62.65,%
+2024-03,Oficial 062,Sucursal 21,Experiencia,Tiempo de espera,90.44,Horas
+2024-03,Oficial 063,Sucursal 21,Eficiencia,Tiempo de procesamiento,91.29,Horas
+2024-03,Oficial 063,Sucursal 21,Eficiencia,Clientes atendidos por hora,70.94,Horas
+2024-03,Oficial 063,Sucursal 21,Eficiencia,Tasa de errores,66.95,%
+2024-03,Oficial 063,Sucursal 21,Calidad,Revisión manual necesaria,64.61,Horas
+2024-03,Oficial 063,Sucursal 21,Calidad,Tasa de rechazo,86.88,%
+2024-03,Oficial 063,Sucursal 21,Calidad,Cumplimiento de normativa,72.24,Horas
+2024-03,Oficial 063,Sucursal 21,Experiencia,Satisfacción del cliente,63.15,Puntos
+2024-03,Oficial 063,Sucursal 21,Experiencia,Tasa de reclamos,90.81,%
+2024-03,Oficial 063,Sucursal 21,Experiencia,Tiempo de espera,83.21,Horas
+2024-03,Oficial 064,Sucursal 22,Eficiencia,Tiempo de procesamiento,65.66,Horas
+2024-03,Oficial 064,Sucursal 22,Eficiencia,Clientes atendidos por hora,88.85,Horas
+2024-03,Oficial 064,Sucursal 22,Eficiencia,Tasa de errores,85.16,%
+2024-03,Oficial 064,Sucursal 22,Calidad,Revisión manual necesaria,83.33,Horas
+2024-03,Oficial 064,Sucursal 22,Calidad,Tasa de rechazo,78.88,%
+2024-03,Oficial 064,Sucursal 22,Calidad,Cumplimiento de normativa,75.03,Horas
+2024-03,Oficial 064,Sucursal 22,Experiencia,Satisfacción del cliente,73.39,Puntos
+2024-03,Oficial 064,Sucursal 22,Experiencia,Tasa de reclamos,99.33,%
+2024-03,Oficial 064,Sucursal 22,Experiencia,Tiempo de espera,84.57,Horas
+2024-03,Oficial 065,Sucursal 22,Eficiencia,Tiempo de procesamiento,97.31,Horas
+2024-03,Oficial 065,Sucursal 22,Eficiencia,Clientes atendidos por hora,66.92,Horas
+2024-03,Oficial 065,Sucursal 22,Eficiencia,Tasa de errores,76.29,%
+2024-03,Oficial 065,Sucursal 22,Calidad,Revisión manual necesaria,84.96,Horas
+2024-03,Oficial 065,Sucursal 22,Calidad,Tasa de rechazo,64.53,%
+2024-03,Oficial 065,Sucursal 22,Calidad,Cumplimiento de normativa,99.15,Horas
+2024-03,Oficial 065,Sucursal 22,Experiencia,Satisfacción del cliente,67.07,Puntos
+2024-03,Oficial 065,Sucursal 22,Experiencia,Tasa de reclamos,92.35,%
+2024-03,Oficial 065,Sucursal 22,Experiencia,Tiempo de espera,79.02,Horas
+2024-03,Oficial 066,Sucursal 22,Eficiencia,Tiempo de procesamiento,93.22,Horas
+2024-03,Oficial 066,Sucursal 22,Eficiencia,Clientes atendidos por hora,85.46,Horas
+2024-03,Oficial 066,Sucursal 22,Eficiencia,Tasa de errores,73.41,%
+2024-03,Oficial 066,Sucursal 22,Calidad,Revisión manual necesaria,98.14,Horas
+2024-03,Oficial 066,Sucursal 22,Calidad,Tasa de rechazo,76.48,%
+2024-03,Oficial 066,Sucursal 22,Calidad,Cumplimiento de normativa,62.35,Horas
+2024-03,Oficial 066,Sucursal 22,Experiencia,Satisfacción del cliente,72.14,Puntos
+2024-03,Oficial 066,Sucursal 22,Experiencia,Tasa de reclamos,89.38,%
+2024-03,Oficial 066,Sucursal 22,Experiencia,Tiempo de espera,65.99,Horas
+2024-03,Oficial 067,Sucursal 23,Eficiencia,Tiempo de procesamiento,80.16,Horas
+2024-03,Oficial 067,Sucursal 23,Eficiencia,Clientes atendidos por hora,60.02,Horas
+2024-03,Oficial 067,Sucursal 23,Eficiencia,Tasa de errores,65.7,%
+2024-03,Oficial 067,Sucursal 23,Calidad,Revisión manual necesaria,94.84,Horas
+2024-03,Oficial 067,Sucursal 23,Calidad,Tasa de rechazo,62.59,%
+2024-03,Oficial 067,Sucursal 23,Calidad,Cumplimiento de normativa,79.38,Horas
+2024-03,Oficial 067,Sucursal 23,Experiencia,Satisfacción del cliente,95.02,Puntos
+2024-03,Oficial 067,Sucursal 23,Experiencia,Tasa de reclamos,94.86,%
+2024-03,Oficial 067,Sucursal 23,Experiencia,Tiempo de espera,65.69,Horas
+2024-03,Oficial 068,Sucursal 23,Eficiencia,Tiempo de procesamiento,71.42,Horas
+2024-03,Oficial 068,Sucursal 23,Eficiencia,Clientes atendidos por hora,97.11,Horas
+2024-03,Oficial 068,Sucursal 23,Eficiencia,Tasa de errores,87.64,%
+2024-03,Oficial 068,Sucursal 23,Calidad,Revisión manual necesaria,91.08,Horas
+2024-03,Oficial 068,Sucursal 23,Calidad,Tasa de rechazo,86.96,%
+2024-03,Oficial 068,Sucursal 23,Calidad,Cumplimiento de normativa,82.08,Horas
+2024-03,Oficial 068,Sucursal 23,Experiencia,Satisfacción del cliente,90.82,Puntos
+2024-03,Oficial 068,Sucursal 23,Experiencia,Tasa de reclamos,78.33,%
+2024-03,Oficial 068,Sucursal 23,Experiencia,Tiempo de espera,82.36,Horas
+2024-03,Oficial 069,Sucursal 23,Eficiencia,Tiempo de procesamiento,71.29,Horas
+2024-03,Oficial 069,Sucursal 23,Eficiencia,Clientes atendidos por hora,62.19,Horas
+2024-03,Oficial 069,Sucursal 23,Eficiencia,Tasa de errores,65.47,%
+2024-03,Oficial 069,Sucursal 23,Calidad,Revisión manual necesaria,99.8,Horas
+2024-03,Oficial 069,Sucursal 23,Calidad,Tasa de rechazo,95.12,%
+2024-03,Oficial 069,Sucursal 23,Calidad,Cumplimiento de normativa,82.22,Horas
+2024-03,Oficial 069,Sucursal 23,Experiencia,Satisfacción del cliente,91.63,Puntos
+2024-03,Oficial 069,Sucursal 23,Experiencia,Tasa de reclamos,87.27,%
+2024-03,Oficial 069,Sucursal 23,Experiencia,Tiempo de espera,88.43,Horas
+2024-03,Oficial 070,Sucursal 24,Eficiencia,Tiempo de procesamiento,69.26,Horas
+2024-03,Oficial 070,Sucursal 24,Eficiencia,Clientes atendidos por hora,80.48,Horas
+2024-03,Oficial 070,Sucursal 24,Eficiencia,Tasa de errores,87.39,%
+2024-03,Oficial 070,Sucursal 24,Calidad,Revisión manual necesaria,64.09,Horas
+2024-03,Oficial 070,Sucursal 24,Calidad,Tasa de rechazo,77.01,%
+2024-03,Oficial 070,Sucursal 24,Calidad,Cumplimiento de normativa,74.06,Horas
+2024-03,Oficial 070,Sucursal 24,Experiencia,Satisfacción del cliente,91.6,Puntos
+2024-03,Oficial 070,Sucursal 24,Experiencia,Tasa de reclamos,89.24,%
+2024-03,Oficial 070,Sucursal 24,Experiencia,Tiempo de espera,94.64,Horas
+2024-03,Oficial 071,Sucursal 24,Eficiencia,Tiempo de procesamiento,96.07,Horas
+2024-03,Oficial 071,Sucursal 24,Eficiencia,Clientes atendidos por hora,96.33,Horas
+2024-03,Oficial 071,Sucursal 24,Eficiencia,Tasa de errores,72.88,%
+2024-03,Oficial 071,Sucursal 24,Calidad,Revisión manual necesaria,74.97,Horas
+2024-03,Oficial 071,Sucursal 24,Calidad,Tasa de rechazo,95.59,%
+2024-03,Oficial 071,Sucursal 24,Calidad,Cumplimiento de normativa,61.55,Horas
+2024-03,Oficial 071,Sucursal 24,Experiencia,Satisfacción del cliente,97.62,Puntos
+2024-03,Oficial 071,Sucursal 24,Experiencia,Tasa de reclamos,82.99,%
+2024-03,Oficial 071,Sucursal 24,Experiencia,Tiempo de espera,92.04,Horas
+2024-03,Oficial 072,Sucursal 24,Eficiencia,Tiempo de procesamiento,83.65,Horas
+2024-03,Oficial 072,Sucursal 24,Eficiencia,Clientes atendidos por hora,65.32,Horas
+2024-03,Oficial 072,Sucursal 24,Eficiencia,Tasa de errores,79.6,%
+2024-03,Oficial 072,Sucursal 24,Calidad,Revisión manual necesaria,92.63,Horas
+2024-03,Oficial 072,Sucursal 24,Calidad,Tasa de rechazo,87.91,%
+2024-03,Oficial 072,Sucursal 24,Calidad,Cumplimiento de normativa,86.94,Horas
+2024-03,Oficial 072,Sucursal 24,Experiencia,Satisfacción del cliente,85.27,Puntos
+2024-03,Oficial 072,Sucursal 24,Experiencia,Tasa de reclamos,93.49,%
+2024-03,Oficial 072,Sucursal 24,Experiencia,Tiempo de espera,94.55,Horas
+2024-03,Procesamiento Comercial,Casa Matriz,Eficiencia,Tiempo de procesamiento,85.98,Horas
+2024-03,Procesamiento Comercial,Casa Matriz,Eficiencia,Clientes atendidos por hora,96.44,Horas
+2024-03,Procesamiento Comercial,Casa Matriz,Eficiencia,Tasa de errores,76.57,%
+2024-03,Procesamiento Comercial,Casa Matriz,Calidad,Revisión manual necesaria,94.66,Horas
+2024-03,Procesamiento Comercial,Casa Matriz,Calidad,Tasa de rechazo,78.09,%
+2024-03,Procesamiento Comercial,Casa Matriz,Calidad,Cumplimiento de normativa,73.88,Horas
+2024-03,Procesamiento Comercial,Casa Matriz,Experiencia,Satisfacción del cliente,81.77,Puntos
+2024-03,Procesamiento Comercial,Casa Matriz,Experiencia,Tasa de reclamos,84.15,%
+2024-03,Procesamiento Comercial,Casa Matriz,Experiencia,Tiempo de espera,74.83,Horas
+2024-04,Oficial 001,Sucursal 01,Eficiencia,Tiempo de procesamiento,63.24,Horas
+2024-04,Oficial 001,Sucursal 01,Eficiencia,Clientes atendidos por hora,77.03,Horas
+2024-04,Oficial 001,Sucursal 01,Eficiencia,Tasa de errores,77.4,%
+2024-04,Oficial 001,Sucursal 01,Calidad,Revisión manual necesaria,66.87,Horas
+2024-04,Oficial 001,Sucursal 01,Calidad,Tasa de rechazo,69.42,%
+2024-04,Oficial 001,Sucursal 01,Calidad,Cumplimiento de normativa,69.73,Horas
+2024-04,Oficial 001,Sucursal 01,Experiencia,Satisfacción del cliente,75.45,Puntos
+2024-04,Oficial 001,Sucursal 01,Experiencia,Tasa de reclamos,89.81,%
+2024-04,Oficial 001,Sucursal 01,Experiencia,Tiempo de espera,83.59,Horas
+2024-04,Oficial 002,Sucursal 01,Eficiencia,Tiempo de procesamiento,65.59,Horas
+2024-04,Oficial 002,Sucursal 01,Eficiencia,Clientes atendidos por hora,65.44,Horas
+2024-04,Oficial 002,Sucursal 01,Eficiencia,Tasa de errores,87.69,%
+2024-04,Oficial 002,Sucursal 01,Calidad,Revisión manual necesaria,63.08,Horas
+2024-04,Oficial 002,Sucursal 01,Calidad,Tasa de rechazo,81.74,%
+2024-04,Oficial 002,Sucursal 01,Calidad,Cumplimiento de normativa,68.15,Horas
+2024-04,Oficial 002,Sucursal 01,Experiencia,Satisfacción del cliente,89.38,Puntos
+2024-04,Oficial 002,Sucursal 01,Experiencia,Tasa de reclamos,62.39,%
+2024-04,Oficial 002,Sucursal 01,Experiencia,Tiempo de espera,74.19,Horas
+2024-04,Oficial 003,Sucursal 01,Eficiencia,Tiempo de procesamiento,85.59,Horas
+2024-04,Oficial 003,Sucursal 01,Eficiencia,Clientes atendidos por hora,61.04,Horas
+2024-04,Oficial 003,Sucursal 01,Eficiencia,Tasa de errores,64.76,%
+2024-04,Oficial 003,Sucursal 01,Calidad,Revisión manual necesaria,90.03,Horas
+2024-04,Oficial 003,Sucursal 01,Calidad,Tasa de rechazo,93.16,%
+2024-04,Oficial 003,Sucursal 01,Calidad,Cumplimiento de normativa,93.58,Horas
+2024-04,Oficial 003,Sucursal 01,Experiencia,Satisfacción del cliente,79.95,Puntos
+2024-04,Oficial 003,Sucursal 01,Experiencia,Tasa de reclamos,86.92,%
+2024-04,Oficial 003,Sucursal 01,Experiencia,Tiempo de espera,75.53,Horas
+2024-04,Oficial 004,Sucursal 02,Eficiencia,Tiempo de procesamiento,90.59,Horas
+2024-04,Oficial 004,Sucursal 02,Eficiencia,Clientes atendidos por hora,90.38,Horas
+2024-04,Oficial 004,Sucursal 02,Eficiencia,Tasa de errores,66.52,%
+2024-04,Oficial 004,Sucursal 02,Calidad,Revisión manual necesaria,75.25,Horas
+2024-04,Oficial 004,Sucursal 02,Calidad,Tasa de rechazo,63.11,%
+2024-04,Oficial 004,Sucursal 02,Calidad,Cumplimiento de normativa,88.47,Horas
+2024-04,Oficial 004,Sucursal 02,Experiencia,Satisfacción del cliente,85.03,Puntos
+2024-04,Oficial 004,Sucursal 02,Experiencia,Tasa de reclamos,70.94,%
+2024-04,Oficial 004,Sucursal 02,Experiencia,Tiempo de espera,69.67,Horas
+2024-04,Oficial 005,Sucursal 02,Eficiencia,Tiempo de procesamiento,63.08,Horas
+2024-04,Oficial 005,Sucursal 02,Eficiencia,Clientes atendidos por hora,60.74,Horas
+2024-04,Oficial 005,Sucursal 02,Eficiencia,Tasa de errores,78.53,%
+2024-04,Oficial 005,Sucursal 02,Calidad,Revisión manual necesaria,68.18,Horas
+2024-04,Oficial 005,Sucursal 02,Calidad,Tasa de rechazo,74.77,%
+2024-04,Oficial 005,Sucursal 02,Calidad,Cumplimiento de normativa,79.84,Horas
+2024-04,Oficial 005,Sucursal 02,Experiencia,Satisfacción del cliente,61.91,Puntos
+2024-04,Oficial 005,Sucursal 02,Experiencia,Tasa de reclamos,95.18,%
+2024-04,Oficial 005,Sucursal 02,Experiencia,Tiempo de espera,81.79,Horas
+2024-04,Oficial 006,Sucursal 02,Eficiencia,Tiempo de procesamiento,66.34,Horas
+2024-04,Oficial 006,Sucursal 02,Eficiencia,Clientes atendidos por hora,65.03,Horas
+2024-04,Oficial 006,Sucursal 02,Eficiencia,Tasa de errores,69.68,%
+2024-04,Oficial 006,Sucursal 02,Calidad,Revisión manual necesaria,97.05,Horas
+2024-04,Oficial 006,Sucursal 02,Calidad,Tasa de rechazo,84.31,%
+2024-04,Oficial 006,Sucursal 02,Calidad,Cumplimiento de normativa,73.91,Horas
+2024-04,Oficial 006,Sucursal 02,Experiencia,Satisfacción del cliente,98.8,Puntos
+2024-04,Oficial 006,Sucursal 02,Experiencia,Tasa de reclamos,92.36,%
+2024-04,Oficial 006,Sucursal 02,Experiencia,Tiempo de espera,60.69,Horas
+2024-04,Oficial 007,Sucursal 03,Eficiencia,Tiempo de procesamiento,94.81,Horas
+2024-04,Oficial 007,Sucursal 03,Eficiencia,Clientes atendidos por hora,88.64,Horas
+2024-04,Oficial 007,Sucursal 03,Eficiencia,Tasa de errores,67.39,%
+2024-04,Oficial 007,Sucursal 03,Calidad,Revisión manual necesaria,78.83,Horas
+2024-04,Oficial 007,Sucursal 03,Calidad,Tasa de rechazo,87.4,%
+2024-04,Oficial 007,Sucursal 03,Calidad,Cumplimiento de normativa,60.7,Horas
+2024-04,Oficial 007,Sucursal 03,Experiencia,Satisfacción del cliente,60.03,Puntos
+2024-04,Oficial 007,Sucursal 03,Experiencia,Tasa de reclamos,71.3,%
+2024-04,Oficial 007,Sucursal 03,Experiencia,Tiempo de espera,70.98,Horas
+2024-04,Oficial 008,Sucursal 03,Eficiencia,Tiempo de procesamiento,78.23,Horas
+2024-04,Oficial 008,Sucursal 03,Eficiencia,Clientes atendidos por hora,68.54,Horas
+2024-04,Oficial 008,Sucursal 03,Eficiencia,Tasa de errores,61.02,%
+2024-04,Oficial 008,Sucursal 03,Calidad,Revisión manual necesaria,71.68,Horas
+2024-04,Oficial 008,Sucursal 03,Calidad,Tasa de rechazo,94.92,%
+2024-04,Oficial 008,Sucursal 03,Calidad,Cumplimiento de normativa,74.22,Horas
+2024-04,Oficial 008,Sucursal 03,Experiencia,Satisfacción del cliente,72.04,Puntos
+2024-04,Oficial 008,Sucursal 03,Experiencia,Tasa de reclamos,84.22,%
+2024-04,Oficial 008,Sucursal 03,Experiencia,Tiempo de espera,90.23,Horas
+2024-04,Oficial 009,Sucursal 03,Eficiencia,Tiempo de procesamiento,96.02,Horas
+2024-04,Oficial 009,Sucursal 03,Eficiencia,Clientes atendidos por hora,78.35,Horas
+2024-04,Oficial 009,Sucursal 03,Eficiencia,Tasa de errores,64.71,%
+2024-04,Oficial 009,Sucursal 03,Calidad,Revisión manual necesaria,86.83,Horas
+2024-04,Oficial 009,Sucursal 03,Calidad,Tasa de rechazo,72.64,%
+2024-04,Oficial 009,Sucursal 03,Calidad,Cumplimiento de normativa,83.24,Horas
+2024-04,Oficial 009,Sucursal 03,Experiencia,Satisfacción del cliente,73.68,Puntos
+2024-04,Oficial 009,Sucursal 03,Experiencia,Tasa de reclamos,97.28,%
+2024-04,Oficial 009,Sucursal 03,Experiencia,Tiempo de espera,78.85,Horas
+2024-04,Oficial 010,Sucursal 04,Eficiencia,Tiempo de procesamiento,90.08,Horas
+2024-04,Oficial 010,Sucursal 04,Eficiencia,Clientes atendidos por hora,64.85,Horas
+2024-04,Oficial 010,Sucursal 04,Eficiencia,Tasa de errores,83.06,%
+2024-04,Oficial 010,Sucursal 04,Calidad,Revisión manual necesaria,89.9,Horas
+2024-04,Oficial 010,Sucursal 04,Calidad,Tasa de rechazo,77.41,%
+2024-04,Oficial 010,Sucursal 04,Calidad,Cumplimiento de normativa,63.12,Horas
+2024-04,Oficial 010,Sucursal 04,Experiencia,Satisfacción del cliente,71.91,Puntos
+2024-04,Oficial 010,Sucursal 04,Experiencia,Tasa de reclamos,67.6,%
+2024-04,Oficial 010,Sucursal 04,Experiencia,Tiempo de espera,61.77,Horas
+2024-04,Oficial 011,Sucursal 04,Eficiencia,Tiempo de procesamiento,78.82,Horas
+2024-04,Oficial 011,Sucursal 04,Eficiencia,Clientes atendidos por hora,88.32,Horas
+2024-04,Oficial 011,Sucursal 04,Eficiencia,Tasa de errores,87.74,%
+2024-04,Oficial 011,Sucursal 04,Calidad,Revisión manual necesaria,73.12,Horas
+2024-04,Oficial 011,Sucursal 04,Calidad,Tasa de rechazo,72.2,%
+2024-04,Oficial 011,Sucursal 04,Calidad,Cumplimiento de normativa,84.32,Horas
+2024-04,Oficial 011,Sucursal 04,Experiencia,Satisfacción del cliente,62.82,Puntos
+2024-04,Oficial 011,Sucursal 04,Experiencia,Tasa de reclamos,69.19,%
+2024-04,Oficial 011,Sucursal 04,Experiencia,Tiempo de espera,92.66,Horas
+2024-04,Oficial 012,Sucursal 04,Eficiencia,Tiempo de procesamiento,75.77,Horas
+2024-04,Oficial 012,Sucursal 04,Eficiencia,Clientes atendidos por hora,81.1,Horas
+2024-04,Oficial 012,Sucursal 04,Eficiencia,Tasa de errores,95.55,%
+2024-04,Oficial 012,Sucursal 04,Calidad,Revisión manual necesaria,86.24,Horas
+2024-04,Oficial 012,Sucursal 04,Calidad,Tasa de rechazo,91.21,%
+2024-04,Oficial 012,Sucursal 04,Calidad,Cumplimiento de normativa,81.67,Horas
+2024-04,Oficial 012,Sucursal 04,Experiencia,Satisfacción del cliente,70.14,Puntos
+2024-04,Oficial 012,Sucursal 04,Experiencia,Tasa de reclamos,85.09,%
+2024-04,Oficial 012,Sucursal 04,Experiencia,Tiempo de espera,89.3,Horas
+2024-04,Oficial 013,Sucursal 05,Eficiencia,Tiempo de procesamiento,91.56,Horas
+2024-04,Oficial 013,Sucursal 05,Eficiencia,Clientes atendidos por hora,97.47,Horas
+2024-04,Oficial 013,Sucursal 05,Eficiencia,Tasa de errores,80.04,%
+2024-04,Oficial 013,Sucursal 05,Calidad,Revisión manual necesaria,67.71,Horas
+2024-04,Oficial 013,Sucursal 05,Calidad,Tasa de rechazo,71.04,%
+2024-04,Oficial 013,Sucursal 05,Calidad,Cumplimiento de normativa,80.82,Horas
+2024-04,Oficial 013,Sucursal 05,Experiencia,Satisfacción del cliente,75.36,Puntos
+2024-04,Oficial 013,Sucursal 05,Experiencia,Tasa de reclamos,63.6,%
+2024-04,Oficial 013,Sucursal 05,Experiencia,Tiempo de espera,89.2,Horas
+2024-04,Oficial 014,Sucursal 05,Eficiencia,Tiempo de procesamiento,68.09,Horas
+2024-04,Oficial 014,Sucursal 05,Eficiencia,Clientes atendidos por hora,79.25,Horas
+2024-04,Oficial 014,Sucursal 05,Eficiencia,Tasa de errores,95.33,%
+2024-04,Oficial 014,Sucursal 05,Calidad,Revisión manual necesaria,70.54,Horas
+2024-04,Oficial 014,Sucursal 05,Calidad,Tasa de rechazo,76.42,%
+2024-04,Oficial 014,Sucursal 05,Calidad,Cumplimiento de normativa,97.67,Horas
+2024-04,Oficial 014,Sucursal 05,Experiencia,Satisfacción del cliente,87.57,Puntos
+2024-04,Oficial 014,Sucursal 05,Experiencia,Tasa de reclamos,62.21,%
+2024-04,Oficial 014,Sucursal 05,Experiencia,Tiempo de espera,61.53,Horas
+2024-04,Oficial 015,Sucursal 05,Eficiencia,Tiempo de procesamiento,86.28,Horas
+2024-04,Oficial 015,Sucursal 05,Eficiencia,Clientes atendidos por hora,77.69,Horas
+2024-04,Oficial 015,Sucursal 05,Eficiencia,Tasa de errores,95.72,%
+2024-04,Oficial 015,Sucursal 05,Calidad,Revisión manual necesaria,64.89,Horas
+2024-04,Oficial 015,Sucursal 05,Calidad,Tasa de rechazo,86.49,%
+2024-04,Oficial 015,Sucursal 05,Calidad,Cumplimiento de normativa,80.31,Horas
+2024-04,Oficial 015,Sucursal 05,Experiencia,Satisfacción del cliente,78.81,Puntos
+2024-04,Oficial 015,Sucursal 05,Experiencia,Tasa de reclamos,65.6,%
+2024-04,Oficial 015,Sucursal 05,Experiencia,Tiempo de espera,91.4,Horas
+2024-04,Oficial 016,Sucursal 06,Eficiencia,Tiempo de procesamiento,83.54,Horas
+2024-04,Oficial 016,Sucursal 06,Eficiencia,Clientes atendidos por hora,91.35,Horas
+2024-04,Oficial 016,Sucursal 06,Eficiencia,Tasa de errores,69.28,%
+2024-04,Oficial 016,Sucursal 06,Calidad,Revisión manual necesaria,87.66,Horas
+2024-04,Oficial 016,Sucursal 06,Calidad,Tasa de rechazo,83.4,%
+2024-04,Oficial 016,Sucursal 06,Calidad,Cumplimiento de normativa,96.55,Horas
+2024-04,Oficial 016,Sucursal 06,Experiencia,Satisfacción del cliente,75.15,Puntos
+2024-04,Oficial 016,Sucursal 06,Experiencia,Tasa de reclamos,62.86,%
+2024-04,Oficial 016,Sucursal 06,Experiencia,Tiempo de espera,87.99,Horas
+2024-04,Oficial 017,Sucursal 06,Eficiencia,Tiempo de procesamiento,92.6,Horas
+2024-04,Oficial 017,Sucursal 06,Eficiencia,Clientes atendidos por hora,86.97,Horas
+2024-04,Oficial 017,Sucursal 06,Eficiencia,Tasa de errores,93.12,%
+2024-04,Oficial 017,Sucursal 06,Calidad,Revisión manual necesaria,98.19,Horas
+2024-04,Oficial 017,Sucursal 06,Calidad,Tasa de rechazo,89.29,%
+2024-04,Oficial 017,Sucursal 06,Calidad,Cumplimiento de normativa,64.92,Horas
+2024-04,Oficial 017,Sucursal 06,Experiencia,Satisfacción del cliente,75.26,Puntos
+2024-04,Oficial 017,Sucursal 06,Experiencia,Tasa de reclamos,89.73,%
+2024-04,Oficial 017,Sucursal 06,Experiencia,Tiempo de espera,78.42,Horas
+2024-04,Oficial 018,Sucursal 06,Eficiencia,Tiempo de procesamiento,69.26,Horas
+2024-04,Oficial 018,Sucursal 06,Eficiencia,Clientes atendidos por hora,92.86,Horas
+2024-04,Oficial 018,Sucursal 06,Eficiencia,Tasa de errores,80.86,%
+2024-04,Oficial 018,Sucursal 06,Calidad,Revisión manual necesaria,90.69,Horas
+2024-04,Oficial 018,Sucursal 06,Calidad,Tasa de rechazo,76.55,%
+2024-04,Oficial 018,Sucursal 06,Calidad,Cumplimiento de normativa,67.33,Horas
+2024-04,Oficial 018,Sucursal 06,Experiencia,Satisfacción del cliente,99.72,Puntos
+2024-04,Oficial 018,Sucursal 06,Experiencia,Tasa de reclamos,94.17,%
+2024-04,Oficial 018,Sucursal 06,Experiencia,Tiempo de espera,62.68,Horas
+2024-04,Oficial 019,Sucursal 07,Eficiencia,Tiempo de procesamiento,81.86,Horas
+2024-04,Oficial 019,Sucursal 07,Eficiencia,Clientes atendidos por hora,68.08,Horas
+2024-04,Oficial 019,Sucursal 07,Eficiencia,Tasa de errores,66.59,%
+2024-04,Oficial 019,Sucursal 07,Calidad,Revisión manual necesaria,74.88,Horas
+2024-04,Oficial 019,Sucursal 07,Calidad,Tasa de rechazo,85.64,%
+2024-04,Oficial 019,Sucursal 07,Calidad,Cumplimiento de normativa,85.71,Horas
+2024-04,Oficial 019,Sucursal 07,Experiencia,Satisfacción del cliente,66.9,Puntos
+2024-04,Oficial 019,Sucursal 07,Experiencia,Tasa de reclamos,85.37,%
+2024-04,Oficial 019,Sucursal 07,Experiencia,Tiempo de espera,78.74,Horas
+2024-04,Oficial 020,Sucursal 07,Eficiencia,Tiempo de procesamiento,82.46,Horas
+2024-04,Oficial 020,Sucursal 07,Eficiencia,Clientes atendidos por hora,91.62,Horas
+2024-04,Oficial 020,Sucursal 07,Eficiencia,Tasa de errores,93.67,%
+2024-04,Oficial 020,Sucursal 07,Calidad,Revisión manual necesaria,65.66,Horas
+2024-04,Oficial 020,Sucursal 07,Calidad,Tasa de rechazo,65.58,%
+2024-04,Oficial 020,Sucursal 07,Calidad,Cumplimiento de normativa,65.92,Horas
+2024-04,Oficial 020,Sucursal 07,Experiencia,Satisfacción del cliente,80.02,Puntos
+2024-04,Oficial 020,Sucursal 07,Experiencia,Tasa de reclamos,67.45,%
+2024-04,Oficial 020,Sucursal 07,Experiencia,Tiempo de espera,90.09,Horas
+2024-04,Oficial 021,Sucursal 07,Eficiencia,Tiempo de procesamiento,67.85,Horas
+2024-04,Oficial 021,Sucursal 07,Eficiencia,Clientes atendidos por hora,67.89,Horas
+2024-04,Oficial 021,Sucursal 07,Eficiencia,Tasa de errores,87.87,%
+2024-04,Oficial 021,Sucursal 07,Calidad,Revisión manual necesaria,98.19,Horas
+2024-04,Oficial 021,Sucursal 07,Calidad,Tasa de rechazo,83.84,%
+2024-04,Oficial 021,Sucursal 07,Calidad,Cumplimiento de normativa,91.29,Horas
+2024-04,Oficial 021,Sucursal 07,Experiencia,Satisfacción del cliente,64.01,Puntos
+2024-04,Oficial 021,Sucursal 07,Experiencia,Tasa de reclamos,61.06,%
+2024-04,Oficial 021,Sucursal 07,Experiencia,Tiempo de espera,84.87,Horas
+2024-04,Oficial 022,Sucursal 08,Eficiencia,Tiempo de procesamiento,91.29,Horas
+2024-04,Oficial 022,Sucursal 08,Eficiencia,Clientes atendidos por hora,85.42,Horas
+2024-04,Oficial 022,Sucursal 08,Eficiencia,Tasa de errores,91.67,%
+2024-04,Oficial 022,Sucursal 08,Calidad,Revisión manual necesaria,66.94,Horas
+2024-04,Oficial 022,Sucursal 08,Calidad,Tasa de rechazo,71.91,%
+2024-04,Oficial 022,Sucursal 08,Calidad,Cumplimiento de normativa,94.29,Horas
+2024-04,Oficial 022,Sucursal 08,Experiencia,Satisfacción del cliente,73.85,Puntos
+2024-04,Oficial 022,Sucursal 08,Experiencia,Tasa de reclamos,85.34,%
+2024-04,Oficial 022,Sucursal 08,Experiencia,Tiempo de espera,91.02,Horas
+2024-04,Oficial 023,Sucursal 08,Eficiencia,Tiempo de procesamiento,69.47,Horas
+2024-04,Oficial 023,Sucursal 08,Eficiencia,Clientes atendidos por hora,97.19,Horas
+2024-04,Oficial 023,Sucursal 08,Eficiencia,Tasa de errores,78.09,%
+2024-04,Oficial 023,Sucursal 08,Calidad,Revisión manual necesaria,63.85,Horas
+2024-04,Oficial 023,Sucursal 08,Calidad,Tasa de rechazo,72.95,%
+2024-04,Oficial 023,Sucursal 08,Calidad,Cumplimiento de normativa,74.46,Horas
+2024-04,Oficial 023,Sucursal 08,Experiencia,Satisfacción del cliente,73.88,Puntos
+2024-04,Oficial 023,Sucursal 08,Experiencia,Tasa de reclamos,69.44,%
+2024-04,Oficial 023,Sucursal 08,Experiencia,Tiempo de espera,86.86,Horas
+2024-04,Oficial 024,Sucursal 08,Eficiencia,Tiempo de procesamiento,61.07,Horas
+2024-04,Oficial 024,Sucursal 08,Eficiencia,Clientes atendidos por hora,79.84,Horas
+2024-04,Oficial 024,Sucursal 08,Eficiencia,Tasa de errores,87.86,%
+2024-04,Oficial 024,Sucursal 08,Calidad,Revisión manual necesaria,89.7,Horas
+2024-04,Oficial 024,Sucursal 08,Calidad,Tasa de rechazo,86.5,%
+2024-04,Oficial 024,Sucursal 08,Calidad,Cumplimiento de normativa,65.04,Horas
+2024-04,Oficial 024,Sucursal 08,Experiencia,Satisfacción del cliente,94.62,Puntos
+2024-04,Oficial 024,Sucursal 08,Experiencia,Tasa de reclamos,91.38,%
+2024-04,Oficial 024,Sucursal 08,Experiencia,Tiempo de espera,90.25,Horas
+2024-04,Oficial 025,Sucursal 09,Eficiencia,Tiempo de procesamiento,77.32,Horas
+2024-04,Oficial 025,Sucursal 09,Eficiencia,Clientes atendidos por hora,82.23,Horas
+2024-04,Oficial 025,Sucursal 09,Eficiencia,Tasa de errores,65.09,%
+2024-04,Oficial 025,Sucursal 09,Calidad,Revisión manual necesaria,69.1,Horas
+2024-04,Oficial 025,Sucursal 09,Calidad,Tasa de rechazo,63.41,%
+2024-04,Oficial 025,Sucursal 09,Calidad,Cumplimiento de normativa,77.22,Horas
+2024-04,Oficial 025,Sucursal 09,Experiencia,Satisfacción del cliente,95.2,Puntos
+2024-04,Oficial 025,Sucursal 09,Experiencia,Tasa de reclamos,99.54,%
+2024-04,Oficial 025,Sucursal 09,Experiencia,Tiempo de espera,64.23,Horas
+2024-04,Oficial 026,Sucursal 09,Eficiencia,Tiempo de procesamiento,75.19,Horas
+2024-04,Oficial 026,Sucursal 09,Eficiencia,Clientes atendidos por hora,85.79,Horas
+2024-04,Oficial 026,Sucursal 09,Eficiencia,Tasa de errores,81.5,%
+2024-04,Oficial 026,Sucursal 09,Calidad,Revisión manual necesaria,74.74,Horas
+2024-04,Oficial 026,Sucursal 09,Calidad,Tasa de rechazo,87.17,%
+2024-04,Oficial 026,Sucursal 09,Calidad,Cumplimiento de normativa,88.58,Horas
+2024-04,Oficial 026,Sucursal 09,Experiencia,Satisfacción del cliente,72.52,Puntos
+2024-04,Oficial 026,Sucursal 09,Experiencia,Tasa de reclamos,80.36,%
+2024-04,Oficial 026,Sucursal 09,Experiencia,Tiempo de espera,76.82,Horas
+2024-04,Oficial 027,Sucursal 09,Eficiencia,Tiempo de procesamiento,72.43,Horas
+2024-04,Oficial 027,Sucursal 09,Eficiencia,Clientes atendidos por hora,80.43,Horas
+2024-04,Oficial 027,Sucursal 09,Eficiencia,Tasa de errores,62.55,%
+2024-04,Oficial 027,Sucursal 09,Calidad,Revisión manual necesaria,98.88,Horas
+2024-04,Oficial 027,Sucursal 09,Calidad,Tasa de rechazo,67.97,%
+2024-04,Oficial 027,Sucursal 09,Calidad,Cumplimiento de normativa,89.36,Horas
+2024-04,Oficial 027,Sucursal 09,Experiencia,Satisfacción del cliente,62.17,Puntos
+2024-04,Oficial 027,Sucursal 09,Experiencia,Tasa de reclamos,77.7,%
+2024-04,Oficial 027,Sucursal 09,Experiencia,Tiempo de espera,67.44,Horas
+2024-04,Oficial 028,Sucursal 10,Eficiencia,Tiempo de procesamiento,84.06,Horas
+2024-04,Oficial 028,Sucursal 10,Eficiencia,Clientes atendidos por hora,78.65,Horas
+2024-04,Oficial 028,Sucursal 10,Eficiencia,Tasa de errores,79.44,%
+2024-04,Oficial 028,Sucursal 10,Calidad,Revisión manual necesaria,83.54,Horas
+2024-04,Oficial 028,Sucursal 10,Calidad,Tasa de rechazo,81.84,%
+2024-04,Oficial 028,Sucursal 10,Calidad,Cumplimiento de normativa,63.49,Horas
+2024-04,Oficial 028,Sucursal 10,Experiencia,Satisfacción del cliente,73.01,Puntos
+2024-04,Oficial 028,Sucursal 10,Experiencia,Tasa de reclamos,81.56,%
+2024-04,Oficial 028,Sucursal 10,Experiencia,Tiempo de espera,75.62,Horas
+2024-04,Oficial 029,Sucursal 10,Eficiencia,Tiempo de procesamiento,69.1,Horas
+2024-04,Oficial 029,Sucursal 10,Eficiencia,Clientes atendidos por hora,66.45,Horas
+2024-04,Oficial 029,Sucursal 10,Eficiencia,Tasa de errores,93.55,%
+2024-04,Oficial 029,Sucursal 10,Calidad,Revisión manual necesaria,68.45,Horas
+2024-04,Oficial 029,Sucursal 10,Calidad,Tasa de rechazo,71.79,%
+2024-04,Oficial 029,Sucursal 10,Calidad,Cumplimiento de normativa,64.18,Horas
+2024-04,Oficial 029,Sucursal 10,Experiencia,Satisfacción del cliente,80.3,Puntos
+2024-04,Oficial 029,Sucursal 10,Experiencia,Tasa de reclamos,61.79,%
+2024-04,Oficial 029,Sucursal 10,Experiencia,Tiempo de espera,64.28,Horas
+2024-04,Oficial 030,Sucursal 10,Eficiencia,Tiempo de procesamiento,99.26,Horas
+2024-04,Oficial 030,Sucursal 10,Eficiencia,Clientes atendidos por hora,87.14,Horas
+2024-04,Oficial 030,Sucursal 10,Eficiencia,Tasa de errores,63.07,%
+2024-04,Oficial 030,Sucursal 10,Calidad,Revisión manual necesaria,65.16,Horas
+2024-04,Oficial 030,Sucursal 10,Calidad,Tasa de rechazo,99.55,%
+2024-04,Oficial 030,Sucursal 10,Calidad,Cumplimiento de normativa,72.02,Horas
+2024-04,Oficial 030,Sucursal 10,Experiencia,Satisfacción del cliente,92.33,Puntos
+2024-04,Oficial 030,Sucursal 10,Experiencia,Tasa de reclamos,98.89,%
+2024-04,Oficial 030,Sucursal 10,Experiencia,Tiempo de espera,79.82,Horas
+2024-04,Oficial 031,Sucursal 11,Eficiencia,Tiempo de procesamiento,65.82,Horas
+2024-04,Oficial 031,Sucursal 11,Eficiencia,Clientes atendidos por hora,95.01,Horas
+2024-04,Oficial 031,Sucursal 11,Eficiencia,Tasa de errores,78.59,%
+2024-04,Oficial 031,Sucursal 11,Calidad,Revisión manual necesaria,67.9,Horas
+2024-04,Oficial 031,Sucursal 11,Calidad,Tasa de rechazo,94.46,%
+2024-04,Oficial 031,Sucursal 11,Calidad,Cumplimiento de normativa,78.02,Horas
+2024-04,Oficial 031,Sucursal 11,Experiencia,Satisfacción del cliente,91.27,Puntos
+2024-04,Oficial 031,Sucursal 11,Experiencia,Tasa de reclamos,78.17,%
+2024-04,Oficial 031,Sucursal 11,Experiencia,Tiempo de espera,97.67,Horas
+2024-04,Oficial 032,Sucursal 11,Eficiencia,Tiempo de procesamiento,72.2,Horas
+2024-04,Oficial 032,Sucursal 11,Eficiencia,Clientes atendidos por hora,68.15,Horas
+2024-04,Oficial 032,Sucursal 11,Eficiencia,Tasa de errores,90.02,%
+2024-04,Oficial 032,Sucursal 11,Calidad,Revisión manual necesaria,96.51,Horas
+2024-04,Oficial 032,Sucursal 11,Calidad,Tasa de rechazo,65.45,%
+2024-04,Oficial 032,Sucursal 11,Calidad,Cumplimiento de normativa,70.97,Horas
+2024-04,Oficial 032,Sucursal 11,Experiencia,Satisfacción del cliente,64.25,Puntos
+2024-04,Oficial 032,Sucursal 11,Experiencia,Tasa de reclamos,80.39,%
+2024-04,Oficial 032,Sucursal 11,Experiencia,Tiempo de espera,84.48,Horas
+2024-04,Oficial 033,Sucursal 11,Eficiencia,Tiempo de procesamiento,72.56,Horas
+2024-04,Oficial 033,Sucursal 11,Eficiencia,Clientes atendidos por hora,81.9,Horas
+2024-04,Oficial 033,Sucursal 11,Eficiencia,Tasa de errores,61.37,%
+2024-04,Oficial 033,Sucursal 11,Calidad,Revisión manual necesaria,83.54,Horas
+2024-04,Oficial 033,Sucursal 11,Calidad,Tasa de rechazo,73.35,%
+2024-04,Oficial 033,Sucursal 11,Calidad,Cumplimiento de normativa,95.56,Horas
+2024-04,Oficial 033,Sucursal 11,Experiencia,Satisfacción del cliente,89.72,Puntos
+2024-04,Oficial 033,Sucursal 11,Experiencia,Tasa de reclamos,68.7,%
+2024-04,Oficial 033,Sucursal 11,Experiencia,Tiempo de espera,85.12,Horas
+2024-04,Oficial 034,Sucursal 12,Eficiencia,Tiempo de procesamiento,62.71,Horas
+2024-04,Oficial 034,Sucursal 12,Eficiencia,Clientes atendidos por hora,62.1,Horas
+2024-04,Oficial 034,Sucursal 12,Eficiencia,Tasa de errores,78.35,%
+2024-04,Oficial 034,Sucursal 12,Calidad,Revisión manual necesaria,68.81,Horas
+2024-04,Oficial 034,Sucursal 12,Calidad,Tasa de rechazo,83.78,%
+2024-04,Oficial 034,Sucursal 12,Calidad,Cumplimiento de normativa,93.65,Horas
+2024-04,Oficial 034,Sucursal 12,Experiencia,Satisfacción del cliente,72.69,Puntos
+2024-04,Oficial 034,Sucursal 12,Experiencia,Tasa de reclamos,96.84,%
+2024-04,Oficial 034,Sucursal 12,Experiencia,Tiempo de espera,71.66,Horas
+2024-04,Oficial 035,Sucursal 12,Eficiencia,Tiempo de procesamiento,96.3,Horas
+2024-04,Oficial 035,Sucursal 12,Eficiencia,Clientes atendidos por hora,84.1,Horas
+2024-04,Oficial 035,Sucursal 12,Eficiencia,Tasa de errores,82.03,%
+2024-04,Oficial 035,Sucursal 12,Calidad,Revisión manual necesaria,64.94,Horas
+2024-04,Oficial 035,Sucursal 12,Calidad,Tasa de rechazo,96.32,%
+2024-04,Oficial 035,Sucursal 12,Calidad,Cumplimiento de normativa,92.53,Horas
+2024-04,Oficial 035,Sucursal 12,Experiencia,Satisfacción del cliente,60.25,Puntos
+2024-04,Oficial 035,Sucursal 12,Experiencia,Tasa de reclamos,82.2,%
+2024-04,Oficial 035,Sucursal 12,Experiencia,Tiempo de espera,70.8,Horas
+2024-04,Oficial 036,Sucursal 12,Eficiencia,Tiempo de procesamiento,94.1,Horas
+2024-04,Oficial 036,Sucursal 12,Eficiencia,Clientes atendidos por hora,81.72,Horas
+2024-04,Oficial 036,Sucursal 12,Eficiencia,Tasa de errores,69.24,%
+2024-04,Oficial 036,Sucursal 12,Calidad,Revisión manual necesaria,97.39,Horas
+2024-04,Oficial 036,Sucursal 12,Calidad,Tasa de rechazo,61.63,%
+2024-04,Oficial 036,Sucursal 12,Calidad,Cumplimiento de normativa,64.67,Horas
+2024-04,Oficial 036,Sucursal 12,Experiencia,Satisfacción del cliente,90.47,Puntos
+2024-04,Oficial 036,Sucursal 12,Experiencia,Tasa de reclamos,60.57,%
+2024-04,Oficial 036,Sucursal 12,Experiencia,Tiempo de espera,97.33,Horas
+2024-04,Oficial 037,Sucursal 13,Eficiencia,Tiempo de procesamiento,72.46,Horas
+2024-04,Oficial 037,Sucursal 13,Eficiencia,Clientes atendidos por hora,89.68,Horas
+2024-04,Oficial 037,Sucursal 13,Eficiencia,Tasa de errores,66.63,%
+2024-04,Oficial 037,Sucursal 13,Calidad,Revisión manual necesaria,86.96,Horas
+2024-04,Oficial 037,Sucursal 13,Calidad,Tasa de rechazo,79.68,%
+2024-04,Oficial 037,Sucursal 13,Calidad,Cumplimiento de normativa,67.19,Horas
+2024-04,Oficial 037,Sucursal 13,Experiencia,Satisfacción del cliente,92.44,Puntos
+2024-04,Oficial 037,Sucursal 13,Experiencia,Tasa de reclamos,86.65,%
+2024-04,Oficial 037,Sucursal 13,Experiencia,Tiempo de espera,94.7,Horas
+2024-04,Oficial 038,Sucursal 13,Eficiencia,Tiempo de procesamiento,65.94,Horas
+2024-04,Oficial 038,Sucursal 13,Eficiencia,Clientes atendidos por hora,80.49,Horas
+2024-04,Oficial 038,Sucursal 13,Eficiencia,Tasa de errores,64.35,%
+2024-04,Oficial 038,Sucursal 13,Calidad,Revisión manual necesaria,92.29,Horas
+2024-04,Oficial 038,Sucursal 13,Calidad,Tasa de rechazo,84.28,%
+2024-04,Oficial 038,Sucursal 13,Calidad,Cumplimiento de normativa,77.58,Horas
+2024-04,Oficial 038,Sucursal 13,Experiencia,Satisfacción del cliente,63.96,Puntos
+2024-04,Oficial 038,Sucursal 13,Experiencia,Tasa de reclamos,72.98,%
+2024-04,Oficial 038,Sucursal 13,Experiencia,Tiempo de espera,74.84,Horas
+2024-04,Oficial 039,Sucursal 13,Eficiencia,Tiempo de procesamiento,74.47,Horas
+2024-04,Oficial 039,Sucursal 13,Eficiencia,Clientes atendidos por hora,63.76,Horas
+2024-04,Oficial 039,Sucursal 13,Eficiencia,Tasa de errores,74.77,%
+2024-04,Oficial 039,Sucursal 13,Calidad,Revisión manual necesaria,80.61,Horas
+2024-04,Oficial 039,Sucursal 13,Calidad,Tasa de rechazo,88.61,%
+2024-04,Oficial 039,Sucursal 13,Calidad,Cumplimiento de normativa,86.07,Horas
+2024-04,Oficial 039,Sucursal 13,Experiencia,Satisfacción del cliente,80.13,Puntos
+2024-04,Oficial 039,Sucursal 13,Experiencia,Tasa de reclamos,92.59,%
+2024-04,Oficial 039,Sucursal 13,Experiencia,Tiempo de espera,81.17,Horas
+2024-04,Oficial 040,Sucursal 14,Eficiencia,Tiempo de procesamiento,94.09,Horas
+2024-04,Oficial 040,Sucursal 14,Eficiencia,Clientes atendidos por hora,69.17,Horas
+2024-04,Oficial 040,Sucursal 14,Eficiencia,Tasa de errores,65.2,%
+2024-04,Oficial 040,Sucursal 14,Calidad,Revisión manual necesaria,90.21,Horas
+2024-04,Oficial 040,Sucursal 14,Calidad,Tasa de rechazo,76.9,%
+2024-04,Oficial 040,Sucursal 14,Calidad,Cumplimiento de normativa,68.29,Horas
+2024-04,Oficial 040,Sucursal 14,Experiencia,Satisfacción del cliente,62.07,Puntos
+2024-04,Oficial 040,Sucursal 14,Experiencia,Tasa de reclamos,74.09,%
+2024-04,Oficial 040,Sucursal 14,Experiencia,Tiempo de espera,86.85,Horas
+2024-04,Oficial 041,Sucursal 14,Eficiencia,Tiempo de procesamiento,61.14,Horas
+2024-04,Oficial 041,Sucursal 14,Eficiencia,Clientes atendidos por hora,63.64,Horas
+2024-04,Oficial 041,Sucursal 14,Eficiencia,Tasa de errores,82.91,%
+2024-04,Oficial 041,Sucursal 14,Calidad,Revisión manual necesaria,86.69,Horas
+2024-04,Oficial 041,Sucursal 14,Calidad,Tasa de rechazo,63.46,%
+2024-04,Oficial 041,Sucursal 14,Calidad,Cumplimiento de normativa,79.92,Horas
+2024-04,Oficial 041,Sucursal 14,Experiencia,Satisfacción del cliente,90.65,Puntos
+2024-04,Oficial 041,Sucursal 14,Experiencia,Tasa de reclamos,91.97,%
+2024-04,Oficial 041,Sucursal 14,Experiencia,Tiempo de espera,69.74,Horas
+2024-04,Oficial 042,Sucursal 14,Eficiencia,Tiempo de procesamiento,76.88,Horas
+2024-04,Oficial 042,Sucursal 14,Eficiencia,Clientes atendidos por hora,69.89,Horas
+2024-04,Oficial 042,Sucursal 14,Eficiencia,Tasa de errores,97.03,%
+2024-04,Oficial 042,Sucursal 14,Calidad,Revisión manual necesaria,67.42,Horas
+2024-04,Oficial 042,Sucursal 14,Calidad,Tasa de rechazo,90.47,%
+2024-04,Oficial 042,Sucursal 14,Calidad,Cumplimiento de normativa,86.01,Horas
+2024-04,Oficial 042,Sucursal 14,Experiencia,Satisfacción del cliente,80.15,Puntos
+2024-04,Oficial 042,Sucursal 14,Experiencia,Tasa de reclamos,88.59,%
+2024-04,Oficial 042,Sucursal 14,Experiencia,Tiempo de espera,68.44,Horas
+2024-04,Oficial 043,Sucursal 15,Eficiencia,Tiempo de procesamiento,94.92,Horas
+2024-04,Oficial 043,Sucursal 15,Eficiencia,Clientes atendidos por hora,97.55,Horas
+2024-04,Oficial 043,Sucursal 15,Eficiencia,Tasa de errores,76.32,%
+2024-04,Oficial 043,Sucursal 15,Calidad,Revisión manual necesaria,71.31,Horas
+2024-04,Oficial 043,Sucursal 15,Calidad,Tasa de rechazo,62.2,%
+2024-04,Oficial 043,Sucursal 15,Calidad,Cumplimiento de normativa,92.99,Horas
+2024-04,Oficial 043,Sucursal 15,Experiencia,Satisfacción del cliente,86.49,Puntos
+2024-04,Oficial 043,Sucursal 15,Experiencia,Tasa de reclamos,96.25,%
+2024-04,Oficial 043,Sucursal 15,Experiencia,Tiempo de espera,83.78,Horas
+2024-04,Oficial 044,Sucursal 15,Eficiencia,Tiempo de procesamiento,61.88,Horas
+2024-04,Oficial 044,Sucursal 15,Eficiencia,Clientes atendidos por hora,97.31,Horas
+2024-04,Oficial 044,Sucursal 15,Eficiencia,Tasa de errores,62.17,%
+2024-04,Oficial 044,Sucursal 15,Calidad,Revisión manual necesaria,76.71,Horas
+2024-04,Oficial 044,Sucursal 15,Calidad,Tasa de rechazo,76.84,%
+2024-04,Oficial 044,Sucursal 15,Calidad,Cumplimiento de normativa,93.83,Horas
+2024-04,Oficial 044,Sucursal 15,Experiencia,Satisfacción del cliente,77.85,Puntos
+2024-04,Oficial 044,Sucursal 15,Experiencia,Tasa de reclamos,97.55,%
+2024-04,Oficial 044,Sucursal 15,Experiencia,Tiempo de espera,72.68,Horas
+2024-04,Oficial 045,Sucursal 15,Eficiencia,Tiempo de procesamiento,83.82,Horas
+2024-04,Oficial 045,Sucursal 15,Eficiencia,Clientes atendidos por hora,71.75,Horas
+2024-04,Oficial 045,Sucursal 15,Eficiencia,Tasa de errores,77.38,%
+2024-04,Oficial 045,Sucursal 15,Calidad,Revisión manual necesaria,94.57,Horas
+2024-04,Oficial 045,Sucursal 15,Calidad,Tasa de rechazo,94.66,%
+2024-04,Oficial 045,Sucursal 15,Calidad,Cumplimiento de normativa,88.17,Horas
+2024-04,Oficial 045,Sucursal 15,Experiencia,Satisfacción del cliente,86.13,Puntos
+2024-04,Oficial 045,Sucursal 15,Experiencia,Tasa de reclamos,64.67,%
+2024-04,Oficial 045,Sucursal 15,Experiencia,Tiempo de espera,86.08,Horas
+2024-04,Oficial 046,Sucursal 16,Eficiencia,Tiempo de procesamiento,75.76,Horas
+2024-04,Oficial 046,Sucursal 16,Eficiencia,Clientes atendidos por hora,83.17,Horas
+2024-04,Oficial 046,Sucursal 16,Eficiencia,Tasa de errores,96.93,%
+2024-04,Oficial 046,Sucursal 16,Calidad,Revisión manual necesaria,62.98,Horas
+2024-04,Oficial 046,Sucursal 16,Calidad,Tasa de rechazo,73.58,%
+2024-04,Oficial 046,Sucursal 16,Calidad,Cumplimiento de normativa,85.47,Horas
+2024-04,Oficial 046,Sucursal 16,Experiencia,Satisfacción del cliente,97.18,Puntos
+2024-04,Oficial 046,Sucursal 16,Experiencia,Tasa de reclamos,73.91,%
+2024-04,Oficial 046,Sucursal 16,Experiencia,Tiempo de espera,90.07,Horas
+2024-04,Oficial 047,Sucursal 16,Eficiencia,Tiempo de procesamiento,84.87,Horas
+2024-04,Oficial 047,Sucursal 16,Eficiencia,Clientes atendidos por hora,74.57,Horas
+2024-04,Oficial 047,Sucursal 16,Eficiencia,Tasa de errores,74.02,%
+2024-04,Oficial 047,Sucursal 16,Calidad,Revisión manual necesaria,81.3,Horas
+2024-04,Oficial 047,Sucursal 16,Calidad,Tasa de rechazo,87.65,%
+2024-04,Oficial 047,Sucursal 16,Calidad,Cumplimiento de normativa,78.17,Horas
+2024-04,Oficial 047,Sucursal 16,Experiencia,Satisfacción del cliente,69.17,Puntos
+2024-04,Oficial 047,Sucursal 16,Experiencia,Tasa de reclamos,70.75,%
+2024-04,Oficial 047,Sucursal 16,Experiencia,Tiempo de espera,72.67,Horas
+2024-04,Oficial 048,Sucursal 16,Eficiencia,Tiempo de procesamiento,75.01,Horas
+2024-04,Oficial 048,Sucursal 16,Eficiencia,Clientes atendidos por hora,60.29,Horas
+2024-04,Oficial 048,Sucursal 16,Eficiencia,Tasa de errores,65.39,%
+2024-04,Oficial 048,Sucursal 16,Calidad,Revisión manual necesaria,81.3,Horas
+2024-04,Oficial 048,Sucursal 16,Calidad,Tasa de rechazo,73.66,%
+2024-04,Oficial 048,Sucursal 16,Calidad,Cumplimiento de normativa,78.88,Horas
+2024-04,Oficial 048,Sucursal 16,Experiencia,Satisfacción del cliente,93.3,Puntos
+2024-04,Oficial 048,Sucursal 16,Experiencia,Tasa de reclamos,73.85,%
+2024-04,Oficial 048,Sucursal 16,Experiencia,Tiempo de espera,99.21,Horas
+2024-04,Oficial 049,Sucursal 17,Eficiencia,Tiempo de procesamiento,93.22,Horas
+2024-04,Oficial 049,Sucursal 17,Eficiencia,Clientes atendidos por hora,94.07,Horas
+2024-04,Oficial 049,Sucursal 17,Eficiencia,Tasa de errores,93.78,%
+2024-04,Oficial 049,Sucursal 17,Calidad,Revisión manual necesaria,88.67,Horas
+2024-04,Oficial 049,Sucursal 17,Calidad,Tasa de rechazo,83.17,%
+2024-04,Oficial 049,Sucursal 17,Calidad,Cumplimiento de normativa,76.14,Horas
+2024-04,Oficial 049,Sucursal 17,Experiencia,Satisfacción del cliente,70.2,Puntos
+2024-04,Oficial 049,Sucursal 17,Experiencia,Tasa de reclamos,82.37,%
+2024-04,Oficial 049,Sucursal 17,Experiencia,Tiempo de espera,99.12,Horas
+2024-04,Oficial 050,Sucursal 17,Eficiencia,Tiempo de procesamiento,69.82,Horas
+2024-04,Oficial 050,Sucursal 17,Eficiencia,Clientes atendidos por hora,88.85,Horas
+2024-04,Oficial 050,Sucursal 17,Eficiencia,Tasa de errores,98.52,%
+2024-04,Oficial 050,Sucursal 17,Calidad,Revisión manual necesaria,87.83,Horas
+2024-04,Oficial 050,Sucursal 17,Calidad,Tasa de rechazo,86.42,%
+2024-04,Oficial 050,Sucursal 17,Calidad,Cumplimiento de normativa,95.37,Horas
+2024-04,Oficial 050,Sucursal 17,Experiencia,Satisfacción del cliente,73.38,Puntos
+2024-04,Oficial 050,Sucursal 17,Experiencia,Tasa de reclamos,90.59,%
+2024-04,Oficial 050,Sucursal 17,Experiencia,Tiempo de espera,78.53,Horas
+2024-04,Oficial 051,Sucursal 17,Eficiencia,Tiempo de procesamiento,96.61,Horas
+2024-04,Oficial 051,Sucursal 17,Eficiencia,Clientes atendidos por hora,81.29,Horas
+2024-04,Oficial 051,Sucursal 17,Eficiencia,Tasa de errores,83.25,%
+2024-04,Oficial 051,Sucursal 17,Calidad,Revisión manual necesaria,76.12,Horas
+2024-04,Oficial 051,Sucursal 17,Calidad,Tasa de rechazo,69.0,%
+2024-04,Oficial 051,Sucursal 17,Calidad,Cumplimiento de normativa,86.31,Horas
+2024-04,Oficial 051,Sucursal 17,Experiencia,Satisfacción del cliente,94.1,Puntos
+2024-04,Oficial 051,Sucursal 17,Experiencia,Tasa de reclamos,94.33,%
+2024-04,Oficial 051,Sucursal 17,Experiencia,Tiempo de espera,78.23,Horas
+2024-04,Oficial 052,Sucursal 18,Eficiencia,Tiempo de procesamiento,72.55,Horas
+2024-04,Oficial 052,Sucursal 18,Eficiencia,Clientes atendidos por hora,61.47,Horas
+2024-04,Oficial 052,Sucursal 18,Eficiencia,Tasa de errores,73.07,%
+2024-04,Oficial 052,Sucursal 18,Calidad,Revisión manual necesaria,71.49,Horas
+2024-04,Oficial 052,Sucursal 18,Calidad,Tasa de rechazo,93.08,%
+2024-04,Oficial 052,Sucursal 18,Calidad,Cumplimiento de normativa,82.17,Horas
+2024-04,Oficial 052,Sucursal 18,Experiencia,Satisfacción del cliente,95.79,Puntos
+2024-04,Oficial 052,Sucursal 18,Experiencia,Tasa de reclamos,96.44,%
+2024-04,Oficial 052,Sucursal 18,Experiencia,Tiempo de espera,67.98,Horas
+2024-04,Oficial 053,Sucursal 18,Eficiencia,Tiempo de procesamiento,73.66,Horas
+2024-04,Oficial 053,Sucursal 18,Eficiencia,Clientes atendidos por hora,98.33,Horas
+2024-04,Oficial 053,Sucursal 18,Eficiencia,Tasa de errores,95.73,%
+2024-04,Oficial 053,Sucursal 18,Calidad,Revisión manual necesaria,62.07,Horas
+2024-04,Oficial 053,Sucursal 18,Calidad,Tasa de rechazo,77.95,%
+2024-04,Oficial 053,Sucursal 18,Calidad,Cumplimiento de normativa,93.84,Horas
+2024-04,Oficial 053,Sucursal 18,Experiencia,Satisfacción del cliente,97.29,Puntos
+2024-04,Oficial 053,Sucursal 18,Experiencia,Tasa de reclamos,91.13,%
+2024-04,Oficial 053,Sucursal 18,Experiencia,Tiempo de espera,77.38,Horas
+2024-04,Oficial 054,Sucursal 18,Eficiencia,Tiempo de procesamiento,87.93,Horas
+2024-04,Oficial 054,Sucursal 18,Eficiencia,Clientes atendidos por hora,72.81,Horas
+2024-04,Oficial 054,Sucursal 18,Eficiencia,Tasa de errores,93.38,%
+2024-04,Oficial 054,Sucursal 18,Calidad,Revisión manual necesaria,72.84,Horas
+2024-04,Oficial 054,Sucursal 18,Calidad,Tasa de rechazo,76.16,%
+2024-04,Oficial 054,Sucursal 18,Calidad,Cumplimiento de normativa,73.1,Horas
+2024-04,Oficial 054,Sucursal 18,Experiencia,Satisfacción del cliente,82.58,Puntos
+2024-04,Oficial 054,Sucursal 18,Experiencia,Tasa de reclamos,72.19,%
+2024-04,Oficial 054,Sucursal 18,Experiencia,Tiempo de espera,91.07,Horas
+2024-04,Oficial 055,Sucursal 19,Eficiencia,Tiempo de procesamiento,69.87,Horas
+2024-04,Oficial 055,Sucursal 19,Eficiencia,Clientes atendidos por hora,63.3,Horas
+2024-04,Oficial 055,Sucursal 19,Eficiencia,Tasa de errores,88.33,%
+2024-04,Oficial 055,Sucursal 19,Calidad,Revisión manual necesaria,93.65,Horas
+2024-04,Oficial 055,Sucursal 19,Calidad,Tasa de rechazo,90.97,%
+2024-04,Oficial 055,Sucursal 19,Calidad,Cumplimiento de normativa,61.32,Horas
+2024-04,Oficial 055,Sucursal 19,Experiencia,Satisfacción del cliente,75.17,Puntos
+2024-04,Oficial 055,Sucursal 19,Experiencia,Tasa de reclamos,87.2,%
+2024-04,Oficial 055,Sucursal 19,Experiencia,Tiempo de espera,77.78,Horas
+2024-04,Oficial 056,Sucursal 19,Eficiencia,Tiempo de procesamiento,79.71,Horas
+2024-04,Oficial 056,Sucursal 19,Eficiencia,Clientes atendidos por hora,61.36,Horas
+2024-04,Oficial 056,Sucursal 19,Eficiencia,Tasa de errores,86.51,%
+2024-04,Oficial 056,Sucursal 19,Calidad,Revisión manual necesaria,86.28,Horas
+2024-04,Oficial 056,Sucursal 19,Calidad,Tasa de rechazo,93.18,%
+2024-04,Oficial 056,Sucursal 19,Calidad,Cumplimiento de normativa,85.74,Horas
+2024-04,Oficial 056,Sucursal 19,Experiencia,Satisfacción del cliente,75.44,Puntos
+2024-04,Oficial 056,Sucursal 19,Experiencia,Tasa de reclamos,85.09,%
+2024-04,Oficial 056,Sucursal 19,Experiencia,Tiempo de espera,88.46,Horas
+2024-04,Oficial 057,Sucursal 19,Eficiencia,Tiempo de procesamiento,80.2,Horas
+2024-04,Oficial 057,Sucursal 19,Eficiencia,Clientes atendidos por hora,83.86,Horas
+2024-04,Oficial 057,Sucursal 19,Eficiencia,Tasa de errores,88.21,%
+2024-04,Oficial 057,Sucursal 19,Calidad,Revisión manual necesaria,73.97,Horas
+2024-04,Oficial 057,Sucursal 19,Calidad,Tasa de rechazo,69.82,%
+2024-04,Oficial 057,Sucursal 19,Calidad,Cumplimiento de normativa,86.02,Horas
+2024-04,Oficial 057,Sucursal 19,Experiencia,Satisfacción del cliente,90.35,Puntos
+2024-04,Oficial 057,Sucursal 19,Experiencia,Tasa de reclamos,60.71,%
+2024-04,Oficial 057,Sucursal 19,Experiencia,Tiempo de espera,78.25,Horas
+2024-04,Oficial 058,Sucursal 20,Eficiencia,Tiempo de procesamiento,94.7,Horas
+2024-04,Oficial 058,Sucursal 20,Eficiencia,Clientes atendidos por hora,77.92,Horas
+2024-04,Oficial 058,Sucursal 20,Eficiencia,Tasa de errores,84.46,%
+2024-04,Oficial 058,Sucursal 20,Calidad,Revisión manual necesaria,80.67,Horas
+2024-04,Oficial 058,Sucursal 20,Calidad,Tasa de rechazo,80.35,%
+2024-04,Oficial 058,Sucursal 20,Calidad,Cumplimiento de normativa,61.01,Horas
+2024-04,Oficial 058,Sucursal 20,Experiencia,Satisfacción del cliente,66.67,Puntos
+2024-04,Oficial 058,Sucursal 20,Experiencia,Tasa de reclamos,95.33,%
+2024-04,Oficial 058,Sucursal 20,Experiencia,Tiempo de espera,81.96,Horas
+2024-04,Oficial 059,Sucursal 20,Eficiencia,Tiempo de procesamiento,77.93,Horas
+2024-04,Oficial 059,Sucursal 20,Eficiencia,Clientes atendidos por hora,95.77,Horas
+2024-04,Oficial 059,Sucursal 20,Eficiencia,Tasa de errores,77.96,%
+2024-04,Oficial 059,Sucursal 20,Calidad,Revisión manual necesaria,89.86,Horas
+2024-04,Oficial 059,Sucursal 20,Calidad,Tasa de rechazo,84.1,%
+2024-04,Oficial 059,Sucursal 20,Calidad,Cumplimiento de normativa,78.5,Horas
+2024-04,Oficial 059,Sucursal 20,Experiencia,Satisfacción del cliente,60.37,Puntos
+2024-04,Oficial 059,Sucursal 20,Experiencia,Tasa de reclamos,65.39,%
+2024-04,Oficial 059,Sucursal 20,Experiencia,Tiempo de espera,93.14,Horas
+2024-04,Oficial 060,Sucursal 20,Eficiencia,Tiempo de procesamiento,83.2,Horas
+2024-04,Oficial 060,Sucursal 20,Eficiencia,Clientes atendidos por hora,91.16,Horas
+2024-04,Oficial 060,Sucursal 20,Eficiencia,Tasa de errores,72.92,%
+2024-04,Oficial 060,Sucursal 20,Calidad,Revisión manual necesaria,78.68,Horas
+2024-04,Oficial 060,Sucursal 20,Calidad,Tasa de rechazo,86.55,%
+2024-04,Oficial 060,Sucursal 20,Calidad,Cumplimiento de normativa,75.66,Horas
+2024-04,Oficial 060,Sucursal 20,Experiencia,Satisfacción del cliente,70.86,Puntos
+2024-04,Oficial 060,Sucursal 20,Experiencia,Tasa de reclamos,74.0,%
+2024-04,Oficial 060,Sucursal 20,Experiencia,Tiempo de espera,67.99,Horas
+2024-04,Oficial 061,Sucursal 21,Eficiencia,Tiempo de procesamiento,61.03,Horas
+2024-04,Oficial 061,Sucursal 21,Eficiencia,Clientes atendidos por hora,64.12,Horas
+2024-04,Oficial 061,Sucursal 21,Eficiencia,Tasa de errores,73.72,%
+2024-04,Oficial 061,Sucursal 21,Calidad,Revisión manual necesaria,75.63,Horas
+2024-04,Oficial 061,Sucursal 21,Calidad,Tasa de rechazo,60.34,%
+2024-04,Oficial 061,Sucursal 21,Calidad,Cumplimiento de normativa,65.43,Horas
+2024-04,Oficial 061,Sucursal 21,Experiencia,Satisfacción del cliente,77.7,Puntos
+2024-04,Oficial 061,Sucursal 21,Experiencia,Tasa de reclamos,98.36,%
+2024-04,Oficial 061,Sucursal 21,Experiencia,Tiempo de espera,96.03,Horas
+2024-04,Oficial 062,Sucursal 21,Eficiencia,Tiempo de procesamiento,76.72,Horas
+2024-04,Oficial 062,Sucursal 21,Eficiencia,Clientes atendidos por hora,77.98,Horas
+2024-04,Oficial 062,Sucursal 21,Eficiencia,Tasa de errores,74.67,%
+2024-04,Oficial 062,Sucursal 21,Calidad,Revisión manual necesaria,70.42,Horas
+2024-04,Oficial 062,Sucursal 21,Calidad,Tasa de rechazo,61.39,%
+2024-04,Oficial 062,Sucursal 21,Calidad,Cumplimiento de normativa,99.45,Horas
+2024-04,Oficial 062,Sucursal 21,Experiencia,Satisfacción del cliente,88.88,Puntos
+2024-04,Oficial 062,Sucursal 21,Experiencia,Tasa de reclamos,68.43,%
+2024-04,Oficial 062,Sucursal 21,Experiencia,Tiempo de espera,87.12,Horas
+2024-04,Oficial 063,Sucursal 21,Eficiencia,Tiempo de procesamiento,93.81,Horas
+2024-04,Oficial 063,Sucursal 21,Eficiencia,Clientes atendidos por hora,77.23,Horas
+2024-04,Oficial 063,Sucursal 21,Eficiencia,Tasa de errores,88.79,%
+2024-04,Oficial 063,Sucursal 21,Calidad,Revisión manual necesaria,63.47,Horas
+2024-04,Oficial 063,Sucursal 21,Calidad,Tasa de rechazo,74.05,%
+2024-04,Oficial 063,Sucursal 21,Calidad,Cumplimiento de normativa,69.11,Horas
+2024-04,Oficial 063,Sucursal 21,Experiencia,Satisfacción del cliente,79.63,Puntos
+2024-04,Oficial 063,Sucursal 21,Experiencia,Tasa de reclamos,86.96,%
+2024-04,Oficial 063,Sucursal 21,Experiencia,Tiempo de espera,92.54,Horas
+2024-04,Oficial 064,Sucursal 22,Eficiencia,Tiempo de procesamiento,86.08,Horas
+2024-04,Oficial 064,Sucursal 22,Eficiencia,Clientes atendidos por hora,77.84,Horas
+2024-04,Oficial 064,Sucursal 22,Eficiencia,Tasa de errores,93.9,%
+2024-04,Oficial 064,Sucursal 22,Calidad,Revisión manual necesaria,71.39,Horas
+2024-04,Oficial 064,Sucursal 22,Calidad,Tasa de rechazo,74.94,%
+2024-04,Oficial 064,Sucursal 22,Calidad,Cumplimiento de normativa,66.1,Horas
+2024-04,Oficial 064,Sucursal 22,Experiencia,Satisfacción del cliente,63.67,Puntos
+2024-04,Oficial 064,Sucursal 22,Experiencia,Tasa de reclamos,94.99,%
+2024-04,Oficial 064,Sucursal 22,Experiencia,Tiempo de espera,77.64,Horas
+2024-04,Oficial 065,Sucursal 22,Eficiencia,Tiempo de procesamiento,92.82,Horas
+2024-04,Oficial 065,Sucursal 22,Eficiencia,Clientes atendidos por hora,64.15,Horas
+2024-04,Oficial 065,Sucursal 22,Eficiencia,Tasa de errores,63.44,%
+2024-04,Oficial 065,Sucursal 22,Calidad,Revisión manual necesaria,68.99,Horas
+2024-04,Oficial 065,Sucursal 22,Calidad,Tasa de rechazo,82.8,%
+2024-04,Oficial 065,Sucursal 22,Calidad,Cumplimiento de normativa,90.55,Horas
+2024-04,Oficial 065,Sucursal 22,Experiencia,Satisfacción del cliente,69.72,Puntos
+2024-04,Oficial 065,Sucursal 22,Experiencia,Tasa de reclamos,100.0,%
+2024-04,Oficial 065,Sucursal 22,Experiencia,Tiempo de espera,69.86,Horas
+2024-04,Oficial 066,Sucursal 22,Eficiencia,Tiempo de procesamiento,64.05,Horas
+2024-04,Oficial 066,Sucursal 22,Eficiencia,Clientes atendidos por hora,94.99,Horas
+2024-04,Oficial 066,Sucursal 22,Eficiencia,Tasa de errores,79.98,%
+2024-04,Oficial 066,Sucursal 22,Calidad,Revisión manual necesaria,63.61,Horas
+2024-04,Oficial 066,Sucursal 22,Calidad,Tasa de rechazo,82.87,%
+2024-04,Oficial 066,Sucursal 22,Calidad,Cumplimiento de normativa,68.5,Horas
+2024-04,Oficial 066,Sucursal 22,Experiencia,Satisfacción del cliente,94.66,Puntos
+2024-04,Oficial 066,Sucursal 22,Experiencia,Tasa de reclamos,85.88,%
+2024-04,Oficial 066,Sucursal 22,Experiencia,Tiempo de espera,69.84,Horas
+2024-04,Oficial 067,Sucursal 23,Eficiencia,Tiempo de procesamiento,68.66,Horas
+2024-04,Oficial 067,Sucursal 23,Eficiencia,Clientes atendidos por hora,86.46,Horas
+2024-04,Oficial 067,Sucursal 23,Eficiencia,Tasa de errores,62.78,%
+2024-04,Oficial 067,Sucursal 23,Calidad,Revisión manual necesaria,66.91,Horas
+2024-04,Oficial 067,Sucursal 23,Calidad,Tasa de rechazo,73.86,%
+2024-04,Oficial 067,Sucursal 23,Calidad,Cumplimiento de normativa,77.49,Horas
+2024-04,Oficial 067,Sucursal 23,Experiencia,Satisfacción del cliente,95.51,Puntos
+2024-04,Oficial 067,Sucursal 23,Experiencia,Tasa de reclamos,94.2,%
+2024-04,Oficial 067,Sucursal 23,Experiencia,Tiempo de espera,82.82,Horas
+2024-04,Oficial 068,Sucursal 23,Eficiencia,Tiempo de procesamiento,82.93,Horas
+2024-04,Oficial 068,Sucursal 23,Eficiencia,Clientes atendidos por hora,96.85,Horas
+2024-04,Oficial 068,Sucursal 23,Eficiencia,Tasa de errores,91.71,%
+2024-04,Oficial 068,Sucursal 23,Calidad,Revisión manual necesaria,65.11,Horas
+2024-04,Oficial 068,Sucursal 23,Calidad,Tasa de rechazo,68.02,%
+2024-04,Oficial 068,Sucursal 23,Calidad,Cumplimiento de normativa,70.05,Horas
+2024-04,Oficial 068,Sucursal 23,Experiencia,Satisfacción del cliente,82.62,Puntos
+2024-04,Oficial 068,Sucursal 23,Experiencia,Tasa de reclamos,81.55,%
+2024-04,Oficial 068,Sucursal 23,Experiencia,Tiempo de espera,87.34,Horas
+2024-04,Oficial 069,Sucursal 23,Eficiencia,Tiempo de procesamiento,92.07,Horas
+2024-04,Oficial 069,Sucursal 23,Eficiencia,Clientes atendidos por hora,61.62,Horas
+2024-04,Oficial 069,Sucursal 23,Eficiencia,Tasa de errores,81.54,%
+2024-04,Oficial 069,Sucursal 23,Calidad,Revisión manual necesaria,76.08,Horas
+2024-04,Oficial 069,Sucursal 23,Calidad,Tasa de rechazo,90.75,%
+2024-04,Oficial 069,Sucursal 23,Calidad,Cumplimiento de normativa,63.9,Horas
+2024-04,Oficial 069,Sucursal 23,Experiencia,Satisfacción del cliente,77.48,Puntos
+2024-04,Oficial 069,Sucursal 23,Experiencia,Tasa de reclamos,71.94,%
+2024-04,Oficial 069,Sucursal 23,Experiencia,Tiempo de espera,98.51,Horas
+2024-04,Oficial 070,Sucursal 24,Eficiencia,Tiempo de procesamiento,97.45,Horas
+2024-04,Oficial 070,Sucursal 24,Eficiencia,Clientes atendidos por hora,82.33,Horas
+2024-04,Oficial 070,Sucursal 24,Eficiencia,Tasa de errores,65.52,%
+2024-04,Oficial 070,Sucursal 24,Calidad,Revisión manual necesaria,62.18,Horas
+2024-04,Oficial 070,Sucursal 24,Calidad,Tasa de rechazo,86.05,%
+2024-04,Oficial 070,Sucursal 24,Calidad,Cumplimiento de normativa,95.85,Horas
+2024-04,Oficial 070,Sucursal 24,Experiencia,Satisfacción del cliente,60.87,Puntos
+2024-04,Oficial 070,Sucursal 24,Experiencia,Tasa de reclamos,94.01,%
+2024-04,Oficial 070,Sucursal 24,Experiencia,Tiempo de espera,98.01,Horas
+2024-04,Oficial 071,Sucursal 24,Eficiencia,Tiempo de procesamiento,83.63,Horas
+2024-04,Oficial 071,Sucursal 24,Eficiencia,Clientes atendidos por hora,99.45,Horas
+2024-04,Oficial 071,Sucursal 24,Eficiencia,Tasa de errores,97.65,%
+2024-04,Oficial 071,Sucursal 24,Calidad,Revisión manual necesaria,61.41,Horas
+2024-04,Oficial 071,Sucursal 24,Calidad,Tasa de rechazo,61.52,%
+2024-04,Oficial 071,Sucursal 24,Calidad,Cumplimiento de normativa,64.13,Horas
+2024-04,Oficial 071,Sucursal 24,Experiencia,Satisfacción del cliente,78.86,Puntos
+2024-04,Oficial 071,Sucursal 24,Experiencia,Tasa de reclamos,84.52,%
+2024-04,Oficial 071,Sucursal 24,Experiencia,Tiempo de espera,99.06,Horas
+2024-04,Oficial 072,Sucursal 24,Eficiencia,Tiempo de procesamiento,86.94,Horas
+2024-04,Oficial 072,Sucursal 24,Eficiencia,Clientes atendidos por hora,83.51,Horas
+2024-04,Oficial 072,Sucursal 24,Eficiencia,Tasa de errores,86.19,%
+2024-04,Oficial 072,Sucursal 24,Calidad,Revisión manual necesaria,92.93,Horas
+2024-04,Oficial 072,Sucursal 24,Calidad,Tasa de rechazo,70.59,%
+2024-04,Oficial 072,Sucursal 24,Calidad,Cumplimiento de normativa,81.33,Horas
+2024-04,Oficial 072,Sucursal 24,Experiencia,Satisfacción del cliente,70.15,Puntos
+2024-04,Oficial 072,Sucursal 24,Experiencia,Tasa de reclamos,94.18,%
+2024-04,Oficial 072,Sucursal 24,Experiencia,Tiempo de espera,66.12,Horas
+2024-04,Procesamiento Comercial,Casa Matriz,Eficiencia,Tiempo de procesamiento,85.82,Horas
+2024-04,Procesamiento Comercial,Casa Matriz,Eficiencia,Clientes atendidos por hora,97.09,Horas
+2024-04,Procesamiento Comercial,Casa Matriz,Eficiencia,Tasa de errores,97.5,%
+2024-04,Procesamiento Comercial,Casa Matriz,Calidad,Revisión manual necesaria,74.06,Horas
+2024-04,Procesamiento Comercial,Casa Matriz,Calidad,Tasa de rechazo,90.03,%
+2024-04,Procesamiento Comercial,Casa Matriz,Calidad,Cumplimiento de normativa,95.46,Horas
+2024-04,Procesamiento Comercial,Casa Matriz,Experiencia,Satisfacción del cliente,75.71,Puntos
+2024-04,Procesamiento Comercial,Casa Matriz,Experiencia,Tasa de reclamos,79.26,%
+2024-04,Procesamiento Comercial,Casa Matriz,Experiencia,Tiempo de espera,97.29,Horas
+2024-05,Oficial 001,Sucursal 01,Eficiencia,Tiempo de procesamiento,64.54,Horas
+2024-05,Oficial 001,Sucursal 01,Eficiencia,Clientes atendidos por hora,88.45,Horas
+2024-05,Oficial 001,Sucursal 01,Eficiencia,Tasa de errores,69.62,%
+2024-05,Oficial 001,Sucursal 01,Calidad,Revisión manual necesaria,65.97,Horas
+2024-05,Oficial 001,Sucursal 01,Calidad,Tasa de rechazo,74.21,%
+2024-05,Oficial 001,Sucursal 01,Calidad,Cumplimiento de normativa,66.33,Horas
+2024-05,Oficial 001,Sucursal 01,Experiencia,Satisfacción del cliente,82.89,Puntos
+2024-05,Oficial 001,Sucursal 01,Experiencia,Tasa de reclamos,90.62,%
+2024-05,Oficial 001,Sucursal 01,Experiencia,Tiempo de espera,60.0,Horas
+2024-05,Oficial 002,Sucursal 01,Eficiencia,Tiempo de procesamiento,80.24,Horas
+2024-05,Oficial 002,Sucursal 01,Eficiencia,Clientes atendidos por hora,60.85,Horas
+2024-05,Oficial 002,Sucursal 01,Eficiencia,Tasa de errores,89.91,%
+2024-05,Oficial 002,Sucursal 01,Calidad,Revisión manual necesaria,94.73,Horas
+2024-05,Oficial 002,Sucursal 01,Calidad,Tasa de rechazo,75.32,%
+2024-05,Oficial 002,Sucursal 01,Calidad,Cumplimiento de normativa,84.3,Horas
+2024-05,Oficial 002,Sucursal 01,Experiencia,Satisfacción del cliente,81.12,Puntos
+2024-05,Oficial 002,Sucursal 01,Experiencia,Tasa de reclamos,70.67,%
+2024-05,Oficial 002,Sucursal 01,Experiencia,Tiempo de espera,96.82,Horas
+2024-05,Oficial 003,Sucursal 01,Eficiencia,Tiempo de procesamiento,99.78,Horas
+2024-05,Oficial 003,Sucursal 01,Eficiencia,Clientes atendidos por hora,60.58,Horas
+2024-05,Oficial 003,Sucursal 01,Eficiencia,Tasa de errores,94.12,%
+2024-05,Oficial 003,Sucursal 01,Calidad,Revisión manual necesaria,92.2,Horas
+2024-05,Oficial 003,Sucursal 01,Calidad,Tasa de rechazo,68.9,%
+2024-05,Oficial 003,Sucursal 01,Calidad,Cumplimiento de normativa,61.33,Horas
+2024-05,Oficial 003,Sucursal 01,Experiencia,Satisfacción del cliente,90.49,Puntos
+2024-05,Oficial 003,Sucursal 01,Experiencia,Tasa de reclamos,68.43,%
+2024-05,Oficial 003,Sucursal 01,Experiencia,Tiempo de espera,82.14,Horas
+2024-05,Oficial 004,Sucursal 02,Eficiencia,Tiempo de procesamiento,66.0,Horas
+2024-05,Oficial 004,Sucursal 02,Eficiencia,Clientes atendidos por hora,80.88,Horas
+2024-05,Oficial 004,Sucursal 02,Eficiencia,Tasa de errores,80.41,%
+2024-05,Oficial 004,Sucursal 02,Calidad,Revisión manual necesaria,68.34,Horas
+2024-05,Oficial 004,Sucursal 02,Calidad,Tasa de rechazo,97.08,%
+2024-05,Oficial 004,Sucursal 02,Calidad,Cumplimiento de normativa,96.68,Horas
+2024-05,Oficial 004,Sucursal 02,Experiencia,Satisfacción del cliente,85.37,Puntos
+2024-05,Oficial 004,Sucursal 02,Experiencia,Tasa de reclamos,97.86,%
+2024-05,Oficial 004,Sucursal 02,Experiencia,Tiempo de espera,95.42,Horas
+2024-05,Oficial 005,Sucursal 02,Eficiencia,Tiempo de procesamiento,60.81,Horas
+2024-05,Oficial 005,Sucursal 02,Eficiencia,Clientes atendidos por hora,89.24,Horas
+2024-05,Oficial 005,Sucursal 02,Eficiencia,Tasa de errores,91.87,%
+2024-05,Oficial 005,Sucursal 02,Calidad,Revisión manual necesaria,65.9,Horas
+2024-05,Oficial 005,Sucursal 02,Calidad,Tasa de rechazo,76.93,%
+2024-05,Oficial 005,Sucursal 02,Calidad,Cumplimiento de normativa,96.78,Horas
+2024-05,Oficial 005,Sucursal 02,Experiencia,Satisfacción del cliente,76.96,Puntos
+2024-05,Oficial 005,Sucursal 02,Experiencia,Tasa de reclamos,88.44,%
+2024-05,Oficial 005,Sucursal 02,Experiencia,Tiempo de espera,69.38,Horas
+2024-05,Oficial 006,Sucursal 02,Eficiencia,Tiempo de procesamiento,76.71,Horas
+2024-05,Oficial 006,Sucursal 02,Eficiencia,Clientes atendidos por hora,72.75,Horas
+2024-05,Oficial 006,Sucursal 02,Eficiencia,Tasa de errores,94.31,%
+2024-05,Oficial 006,Sucursal 02,Calidad,Revisión manual necesaria,90.75,Horas
+2024-05,Oficial 006,Sucursal 02,Calidad,Tasa de rechazo,61.54,%
+2024-05,Oficial 006,Sucursal 02,Calidad,Cumplimiento de normativa,88.26,Horas
+2024-05,Oficial 006,Sucursal 02,Experiencia,Satisfacción del cliente,82.31,Puntos
+2024-05,Oficial 006,Sucursal 02,Experiencia,Tasa de reclamos,75.62,%
+2024-05,Oficial 006,Sucursal 02,Experiencia,Tiempo de espera,79.02,Horas
+2024-05,Oficial 007,Sucursal 03,Eficiencia,Tiempo de procesamiento,87.85,Horas
+2024-05,Oficial 007,Sucursal 03,Eficiencia,Clientes atendidos por hora,67.06,Horas
+2024-05,Oficial 007,Sucursal 03,Eficiencia,Tasa de errores,61.24,%
+2024-05,Oficial 007,Sucursal 03,Calidad,Revisión manual necesaria,94.83,Horas
+2024-05,Oficial 007,Sucursal 03,Calidad,Tasa de rechazo,79.83,%
+2024-05,Oficial 007,Sucursal 03,Calidad,Cumplimiento de normativa,62.89,Horas
+2024-05,Oficial 007,Sucursal 03,Experiencia,Satisfacción del cliente,66.25,Puntos
+2024-05,Oficial 007,Sucursal 03,Experiencia,Tasa de reclamos,81.28,%
+2024-05,Oficial 007,Sucursal 03,Experiencia,Tiempo de espera,93.83,Horas
+2024-05,Oficial 008,Sucursal 03,Eficiencia,Tiempo de procesamiento,75.76,Horas
+2024-05,Oficial 008,Sucursal 03,Eficiencia,Clientes atendidos por hora,79.35,Horas
+2024-05,Oficial 008,Sucursal 03,Eficiencia,Tasa de errores,77.76,%
+2024-05,Oficial 008,Sucursal 03,Calidad,Revisión manual necesaria,96.32,Horas
+2024-05,Oficial 008,Sucursal 03,Calidad,Tasa de rechazo,68.98,%
+2024-05,Oficial 008,Sucursal 03,Calidad,Cumplimiento de normativa,78.79,Horas
+2024-05,Oficial 008,Sucursal 03,Experiencia,Satisfacción del cliente,68.49,Puntos
+2024-05,Oficial 008,Sucursal 03,Experiencia,Tasa de reclamos,60.21,%
+2024-05,Oficial 008,Sucursal 03,Experiencia,Tiempo de espera,82.98,Horas
+2024-05,Oficial 009,Sucursal 03,Eficiencia,Tiempo de procesamiento,87.51,Horas
+2024-05,Oficial 009,Sucursal 03,Eficiencia,Clientes atendidos por hora,67.69,Horas
+2024-05,Oficial 009,Sucursal 03,Eficiencia,Tasa de errores,74.41,%
+2024-05,Oficial 009,Sucursal 03,Calidad,Revisión manual necesaria,78.31,Horas
+2024-05,Oficial 009,Sucursal 03,Calidad,Tasa de rechazo,69.6,%
+2024-05,Oficial 009,Sucursal 03,Calidad,Cumplimiento de normativa,67.34,Horas
+2024-05,Oficial 009,Sucursal 03,Experiencia,Satisfacción del cliente,61.79,Puntos
+2024-05,Oficial 009,Sucursal 03,Experiencia,Tasa de reclamos,71.22,%
+2024-05,Oficial 009,Sucursal 03,Experiencia,Tiempo de espera,79.74,Horas
+2024-05,Oficial 010,Sucursal 04,Eficiencia,Tiempo de procesamiento,72.88,Horas
+2024-05,Oficial 010,Sucursal 04,Eficiencia,Clientes atendidos por hora,76.65,Horas
+2024-05,Oficial 010,Sucursal 04,Eficiencia,Tasa de errores,65.47,%
+2024-05,Oficial 010,Sucursal 04,Calidad,Revisión manual necesaria,98.8,Horas
+2024-05,Oficial 010,Sucursal 04,Calidad,Tasa de rechazo,81.16,%
+2024-05,Oficial 010,Sucursal 04,Calidad,Cumplimiento de normativa,91.31,Horas
+2024-05,Oficial 010,Sucursal 04,Experiencia,Satisfacción del cliente,70.72,Puntos
+2024-05,Oficial 010,Sucursal 04,Experiencia,Tasa de reclamos,67.68,%
+2024-05,Oficial 010,Sucursal 04,Experiencia,Tiempo de espera,91.7,Horas
+2024-05,Oficial 011,Sucursal 04,Eficiencia,Tiempo de procesamiento,72.63,Horas
+2024-05,Oficial 011,Sucursal 04,Eficiencia,Clientes atendidos por hora,61.88,Horas
+2024-05,Oficial 011,Sucursal 04,Eficiencia,Tasa de errores,94.56,%
+2024-05,Oficial 011,Sucursal 04,Calidad,Revisión manual necesaria,68.3,Horas
+2024-05,Oficial 011,Sucursal 04,Calidad,Tasa de rechazo,90.04,%
+2024-05,Oficial 011,Sucursal 04,Calidad,Cumplimiento de normativa,61.65,Horas
+2024-05,Oficial 011,Sucursal 04,Experiencia,Satisfacción del cliente,90.68,Puntos
+2024-05,Oficial 011,Sucursal 04,Experiencia,Tasa de reclamos,78.52,%
+2024-05,Oficial 011,Sucursal 04,Experiencia,Tiempo de espera,62.26,Horas
+2024-05,Oficial 012,Sucursal 04,Eficiencia,Tiempo de procesamiento,74.18,Horas
+2024-05,Oficial 012,Sucursal 04,Eficiencia,Clientes atendidos por hora,85.74,Horas
+2024-05,Oficial 012,Sucursal 04,Eficiencia,Tasa de errores,73.95,%
+2024-05,Oficial 012,Sucursal 04,Calidad,Revisión manual necesaria,96.95,Horas
+2024-05,Oficial 012,Sucursal 04,Calidad,Tasa de rechazo,65.56,%
+2024-05,Oficial 012,Sucursal 04,Calidad,Cumplimiento de normativa,76.56,Horas
+2024-05,Oficial 012,Sucursal 04,Experiencia,Satisfacción del cliente,86.7,Puntos
+2024-05,Oficial 012,Sucursal 04,Experiencia,Tasa de reclamos,60.56,%
+2024-05,Oficial 012,Sucursal 04,Experiencia,Tiempo de espera,62.07,Horas
+2024-05,Oficial 013,Sucursal 05,Eficiencia,Tiempo de procesamiento,78.11,Horas
+2024-05,Oficial 013,Sucursal 05,Eficiencia,Clientes atendidos por hora,65.86,Horas
+2024-05,Oficial 013,Sucursal 05,Eficiencia,Tasa de errores,84.69,%
+2024-05,Oficial 013,Sucursal 05,Calidad,Revisión manual necesaria,78.39,Horas
+2024-05,Oficial 013,Sucursal 05,Calidad,Tasa de rechazo,76.98,%
+2024-05,Oficial 013,Sucursal 05,Calidad,Cumplimiento de normativa,94.2,Horas
+2024-05,Oficial 013,Sucursal 05,Experiencia,Satisfacción del cliente,92.29,Puntos
+2024-05,Oficial 013,Sucursal 05,Experiencia,Tasa de reclamos,99.34,%
+2024-05,Oficial 013,Sucursal 05,Experiencia,Tiempo de espera,71.88,Horas
+2024-05,Oficial 014,Sucursal 05,Eficiencia,Tiempo de procesamiento,67.91,Horas
+2024-05,Oficial 014,Sucursal 05,Eficiencia,Clientes atendidos por hora,60.3,Horas
+2024-05,Oficial 014,Sucursal 05,Eficiencia,Tasa de errores,91.96,%
+2024-05,Oficial 014,Sucursal 05,Calidad,Revisión manual necesaria,63.69,Horas
+2024-05,Oficial 014,Sucursal 05,Calidad,Tasa de rechazo,71.55,%
+2024-05,Oficial 014,Sucursal 05,Calidad,Cumplimiento de normativa,86.63,Horas
+2024-05,Oficial 014,Sucursal 05,Experiencia,Satisfacción del cliente,64.82,Puntos
+2024-05,Oficial 014,Sucursal 05,Experiencia,Tasa de reclamos,67.69,%
+2024-05,Oficial 014,Sucursal 05,Experiencia,Tiempo de espera,74.14,Horas
+2024-05,Oficial 015,Sucursal 05,Eficiencia,Tiempo de procesamiento,78.65,Horas
+2024-05,Oficial 015,Sucursal 05,Eficiencia,Clientes atendidos por hora,65.22,Horas
+2024-05,Oficial 015,Sucursal 05,Eficiencia,Tasa de errores,78.26,%
+2024-05,Oficial 015,Sucursal 05,Calidad,Revisión manual necesaria,73.71,Horas
+2024-05,Oficial 015,Sucursal 05,Calidad,Tasa de rechazo,91.35,%
+2024-05,Oficial 015,Sucursal 05,Calidad,Cumplimiento de normativa,78.44,Horas
+2024-05,Oficial 015,Sucursal 05,Experiencia,Satisfacción del cliente,67.14,Puntos
+2024-05,Oficial 015,Sucursal 05,Experiencia,Tasa de reclamos,96.91,%
+2024-05,Oficial 015,Sucursal 05,Experiencia,Tiempo de espera,95.51,Horas
+2024-05,Oficial 016,Sucursal 06,Eficiencia,Tiempo de procesamiento,65.53,Horas
+2024-05,Oficial 016,Sucursal 06,Eficiencia,Clientes atendidos por hora,97.2,Horas
+2024-05,Oficial 016,Sucursal 06,Eficiencia,Tasa de errores,67.5,%
+2024-05,Oficial 016,Sucursal 06,Calidad,Revisión manual necesaria,94.21,Horas
+2024-05,Oficial 016,Sucursal 06,Calidad,Tasa de rechazo,71.91,%
+2024-05,Oficial 016,Sucursal 06,Calidad,Cumplimiento de normativa,76.7,Horas
+2024-05,Oficial 016,Sucursal 06,Experiencia,Satisfacción del cliente,83.74,Puntos
+2024-05,Oficial 016,Sucursal 06,Experiencia,Tasa de reclamos,71.76,%
+2024-05,Oficial 016,Sucursal 06,Experiencia,Tiempo de espera,90.47,Horas
+2024-05,Oficial 017,Sucursal 06,Eficiencia,Tiempo de procesamiento,85.36,Horas
+2024-05,Oficial 017,Sucursal 06,Eficiencia,Clientes atendidos por hora,87.26,Horas
+2024-05,Oficial 017,Sucursal 06,Eficiencia,Tasa de errores,99.51,%
+2024-05,Oficial 017,Sucursal 06,Calidad,Revisión manual necesaria,68.63,Horas
+2024-05,Oficial 017,Sucursal 06,Calidad,Tasa de rechazo,99.14,%
+2024-05,Oficial 017,Sucursal 06,Calidad,Cumplimiento de normativa,66.56,Horas
+2024-05,Oficial 017,Sucursal 06,Experiencia,Satisfacción del cliente,62.9,Puntos
+2024-05,Oficial 017,Sucursal 06,Experiencia,Tasa de reclamos,60.94,%
+2024-05,Oficial 017,Sucursal 06,Experiencia,Tiempo de espera,87.3,Horas
+2024-05,Oficial 018,Sucursal 06,Eficiencia,Tiempo de procesamiento,84.5,Horas
+2024-05,Oficial 018,Sucursal 06,Eficiencia,Clientes atendidos por hora,60.71,Horas
+2024-05,Oficial 018,Sucursal 06,Eficiencia,Tasa de errores,88.55,%
+2024-05,Oficial 018,Sucursal 06,Calidad,Revisión manual necesaria,80.04,Horas
+2024-05,Oficial 018,Sucursal 06,Calidad,Tasa de rechazo,66.05,%
+2024-05,Oficial 018,Sucursal 06,Calidad,Cumplimiento de normativa,66.79,Horas
+2024-05,Oficial 018,Sucursal 06,Experiencia,Satisfacción del cliente,87.68,Puntos
+2024-05,Oficial 018,Sucursal 06,Experiencia,Tasa de reclamos,66.06,%
+2024-05,Oficial 018,Sucursal 06,Experiencia,Tiempo de espera,79.69,Horas
+2024-05,Oficial 019,Sucursal 07,Eficiencia,Tiempo de procesamiento,97.71,Horas
+2024-05,Oficial 019,Sucursal 07,Eficiencia,Clientes atendidos por hora,65.16,Horas
+2024-05,Oficial 019,Sucursal 07,Eficiencia,Tasa de errores,87.76,%
+2024-05,Oficial 019,Sucursal 07,Calidad,Revisión manual necesaria,90.76,Horas
+2024-05,Oficial 019,Sucursal 07,Calidad,Tasa de rechazo,60.91,%
+2024-05,Oficial 019,Sucursal 07,Calidad,Cumplimiento de normativa,94.89,Horas
+2024-05,Oficial 019,Sucursal 07,Experiencia,Satisfacción del cliente,88.75,Puntos
+2024-05,Oficial 019,Sucursal 07,Experiencia,Tasa de reclamos,99.44,%
+2024-05,Oficial 019,Sucursal 07,Experiencia,Tiempo de espera,83.4,Horas
+2024-05,Oficial 020,Sucursal 07,Eficiencia,Tiempo de procesamiento,95.42,Horas
+2024-05,Oficial 020,Sucursal 07,Eficiencia,Clientes atendidos por hora,96.49,Horas
+2024-05,Oficial 020,Sucursal 07,Eficiencia,Tasa de errores,88.43,%
+2024-05,Oficial 020,Sucursal 07,Calidad,Revisión manual necesaria,99.24,Horas
+2024-05,Oficial 020,Sucursal 07,Calidad,Tasa de rechazo,67.88,%
+2024-05,Oficial 020,Sucursal 07,Calidad,Cumplimiento de normativa,95.25,Horas
+2024-05,Oficial 020,Sucursal 07,Experiencia,Satisfacción del cliente,84.83,Puntos
+2024-05,Oficial 020,Sucursal 07,Experiencia,Tasa de reclamos,93.17,%
+2024-05,Oficial 020,Sucursal 07,Experiencia,Tiempo de espera,61.7,Horas
+2024-05,Oficial 021,Sucursal 07,Eficiencia,Tiempo de procesamiento,71.84,Horas
+2024-05,Oficial 021,Sucursal 07,Eficiencia,Clientes atendidos por hora,90.08,Horas
+2024-05,Oficial 021,Sucursal 07,Eficiencia,Tasa de errores,60.49,%
+2024-05,Oficial 021,Sucursal 07,Calidad,Revisión manual necesaria,79.1,Horas
+2024-05,Oficial 021,Sucursal 07,Calidad,Tasa de rechazo,87.22,%
+2024-05,Oficial 021,Sucursal 07,Calidad,Cumplimiento de normativa,82.41,Horas
+2024-05,Oficial 021,Sucursal 07,Experiencia,Satisfacción del cliente,86.63,Puntos
+2024-05,Oficial 021,Sucursal 07,Experiencia,Tasa de reclamos,67.21,%
+2024-05,Oficial 021,Sucursal 07,Experiencia,Tiempo de espera,65.85,Horas
+2024-05,Oficial 022,Sucursal 08,Eficiencia,Tiempo de procesamiento,74.42,Horas
+2024-05,Oficial 022,Sucursal 08,Eficiencia,Clientes atendidos por hora,62.18,Horas
+2024-05,Oficial 022,Sucursal 08,Eficiencia,Tasa de errores,76.46,%
+2024-05,Oficial 022,Sucursal 08,Calidad,Revisión manual necesaria,74.98,Horas
+2024-05,Oficial 022,Sucursal 08,Calidad,Tasa de rechazo,81.05,%
+2024-05,Oficial 022,Sucursal 08,Calidad,Cumplimiento de normativa,61.12,Horas
+2024-05,Oficial 022,Sucursal 08,Experiencia,Satisfacción del cliente,95.83,Puntos
+2024-05,Oficial 022,Sucursal 08,Experiencia,Tasa de reclamos,67.24,%
+2024-05,Oficial 022,Sucursal 08,Experiencia,Tiempo de espera,81.39,Horas
+2024-05,Oficial 023,Sucursal 08,Eficiencia,Tiempo de procesamiento,89.75,Horas
+2024-05,Oficial 023,Sucursal 08,Eficiencia,Clientes atendidos por hora,65.19,Horas
+2024-05,Oficial 023,Sucursal 08,Eficiencia,Tasa de errores,73.0,%
+2024-05,Oficial 023,Sucursal 08,Calidad,Revisión manual necesaria,67.65,Horas
+2024-05,Oficial 023,Sucursal 08,Calidad,Tasa de rechazo,80.11,%
+2024-05,Oficial 023,Sucursal 08,Calidad,Cumplimiento de normativa,91.5,Horas
+2024-05,Oficial 023,Sucursal 08,Experiencia,Satisfacción del cliente,96.67,Puntos
+2024-05,Oficial 023,Sucursal 08,Experiencia,Tasa de reclamos,68.03,%
+2024-05,Oficial 023,Sucursal 08,Experiencia,Tiempo de espera,95.63,Horas
+2024-05,Oficial 024,Sucursal 08,Eficiencia,Tiempo de procesamiento,83.13,Horas
+2024-05,Oficial 024,Sucursal 08,Eficiencia,Clientes atendidos por hora,84.3,Horas
+2024-05,Oficial 024,Sucursal 08,Eficiencia,Tasa de errores,92.63,%
+2024-05,Oficial 024,Sucursal 08,Calidad,Revisión manual necesaria,88.44,Horas
+2024-05,Oficial 024,Sucursal 08,Calidad,Tasa de rechazo,68.15,%
+2024-05,Oficial 024,Sucursal 08,Calidad,Cumplimiento de normativa,78.92,Horas
+2024-05,Oficial 024,Sucursal 08,Experiencia,Satisfacción del cliente,76.76,Puntos
+2024-05,Oficial 024,Sucursal 08,Experiencia,Tasa de reclamos,63.97,%
+2024-05,Oficial 024,Sucursal 08,Experiencia,Tiempo de espera,91.49,Horas
+2024-05,Oficial 025,Sucursal 09,Eficiencia,Tiempo de procesamiento,81.33,Horas
+2024-05,Oficial 025,Sucursal 09,Eficiencia,Clientes atendidos por hora,68.7,Horas
+2024-05,Oficial 025,Sucursal 09,Eficiencia,Tasa de errores,71.88,%
+2024-05,Oficial 025,Sucursal 09,Calidad,Revisión manual necesaria,81.42,Horas
+2024-05,Oficial 025,Sucursal 09,Calidad,Tasa de rechazo,82.63,%
+2024-05,Oficial 025,Sucursal 09,Calidad,Cumplimiento de normativa,75.15,Horas
+2024-05,Oficial 025,Sucursal 09,Experiencia,Satisfacción del cliente,75.96,Puntos
+2024-05,Oficial 025,Sucursal 09,Experiencia,Tasa de reclamos,99.87,%
+2024-05,Oficial 025,Sucursal 09,Experiencia,Tiempo de espera,95.06,Horas
+2024-05,Oficial 026,Sucursal 09,Eficiencia,Tiempo de procesamiento,66.8,Horas
+2024-05,Oficial 026,Sucursal 09,Eficiencia,Clientes atendidos por hora,98.03,Horas
+2024-05,Oficial 026,Sucursal 09,Eficiencia,Tasa de errores,68.86,%
+2024-05,Oficial 026,Sucursal 09,Calidad,Revisión manual necesaria,63.19,Horas
+2024-05,Oficial 026,Sucursal 09,Calidad,Tasa de rechazo,96.92,%
+2024-05,Oficial 026,Sucursal 09,Calidad,Cumplimiento de normativa,81.95,Horas
+2024-05,Oficial 026,Sucursal 09,Experiencia,Satisfacción del cliente,76.53,Puntos
+2024-05,Oficial 026,Sucursal 09,Experiencia,Tasa de reclamos,70.06,%
+2024-05,Oficial 026,Sucursal 09,Experiencia,Tiempo de espera,74.26,Horas
+2024-05,Oficial 027,Sucursal 09,Eficiencia,Tiempo de procesamiento,76.87,Horas
+2024-05,Oficial 027,Sucursal 09,Eficiencia,Clientes atendidos por hora,91.72,Horas
+2024-05,Oficial 027,Sucursal 09,Eficiencia,Tasa de errores,78.32,%
+2024-05,Oficial 027,Sucursal 09,Calidad,Revisión manual necesaria,79.66,Horas
+2024-05,Oficial 027,Sucursal 09,Calidad,Tasa de rechazo,70.45,%
+2024-05,Oficial 027,Sucursal 09,Calidad,Cumplimiento de normativa,91.62,Horas
+2024-05,Oficial 027,Sucursal 09,Experiencia,Satisfacción del cliente,85.83,Puntos
+2024-05,Oficial 027,Sucursal 09,Experiencia,Tasa de reclamos,93.12,%
+2024-05,Oficial 027,Sucursal 09,Experiencia,Tiempo de espera,64.72,Horas
+2024-05,Oficial 028,Sucursal 10,Eficiencia,Tiempo de procesamiento,64.16,Horas
+2024-05,Oficial 028,Sucursal 10,Eficiencia,Clientes atendidos por hora,72.24,Horas
+2024-05,Oficial 028,Sucursal 10,Eficiencia,Tasa de errores,86.85,%
+2024-05,Oficial 028,Sucursal 10,Calidad,Revisión manual necesaria,96.26,Horas
+2024-05,Oficial 028,Sucursal 10,Calidad,Tasa de rechazo,94.94,%
+2024-05,Oficial 028,Sucursal 10,Calidad,Cumplimiento de normativa,69.36,Horas
+2024-05,Oficial 028,Sucursal 10,Experiencia,Satisfacción del cliente,83.21,Puntos
+2024-05,Oficial 028,Sucursal 10,Experiencia,Tasa de reclamos,89.83,%
+2024-05,Oficial 028,Sucursal 10,Experiencia,Tiempo de espera,71.55,Horas
+2024-05,Oficial 029,Sucursal 10,Eficiencia,Tiempo de procesamiento,85.07,Horas
+2024-05,Oficial 029,Sucursal 10,Eficiencia,Clientes atendidos por hora,78.61,Horas
+2024-05,Oficial 029,Sucursal 10,Eficiencia,Tasa de errores,90.05,%
+2024-05,Oficial 029,Sucursal 10,Calidad,Revisión manual necesaria,97.34,Horas
+2024-05,Oficial 029,Sucursal 10,Calidad,Tasa de rechazo,63.41,%
+2024-05,Oficial 029,Sucursal 10,Calidad,Cumplimiento de normativa,87.36,Horas
+2024-05,Oficial 029,Sucursal 10,Experiencia,Satisfacción del cliente,68.86,Puntos
+2024-05,Oficial 029,Sucursal 10,Experiencia,Tasa de reclamos,93.44,%
+2024-05,Oficial 029,Sucursal 10,Experiencia,Tiempo de espera,93.54,Horas
+2024-05,Oficial 030,Sucursal 10,Eficiencia,Tiempo de procesamiento,88.87,Horas
+2024-05,Oficial 030,Sucursal 10,Eficiencia,Clientes atendidos por hora,70.26,Horas
+2024-05,Oficial 030,Sucursal 10,Eficiencia,Tasa de errores,83.88,%
+2024-05,Oficial 030,Sucursal 10,Calidad,Revisión manual necesaria,87.11,Horas
+2024-05,Oficial 030,Sucursal 10,Calidad,Tasa de rechazo,82.75,%
+2024-05,Oficial 030,Sucursal 10,Calidad,Cumplimiento de normativa,60.01,Horas
+2024-05,Oficial 030,Sucursal 10,Experiencia,Satisfacción del cliente,74.61,Puntos
+2024-05,Oficial 030,Sucursal 10,Experiencia,Tasa de reclamos,70.16,%
+2024-05,Oficial 030,Sucursal 10,Experiencia,Tiempo de espera,87.96,Horas
+2024-05,Oficial 031,Sucursal 11,Eficiencia,Tiempo de procesamiento,67.29,Horas
+2024-05,Oficial 031,Sucursal 11,Eficiencia,Clientes atendidos por hora,94.62,Horas
+2024-05,Oficial 031,Sucursal 11,Eficiencia,Tasa de errores,86.55,%
+2024-05,Oficial 031,Sucursal 11,Calidad,Revisión manual necesaria,68.55,Horas
+2024-05,Oficial 031,Sucursal 11,Calidad,Tasa de rechazo,93.84,%
+2024-05,Oficial 031,Sucursal 11,Calidad,Cumplimiento de normativa,78.77,Horas
+2024-05,Oficial 031,Sucursal 11,Experiencia,Satisfacción del cliente,74.71,Puntos
+2024-05,Oficial 031,Sucursal 11,Experiencia,Tasa de reclamos,78.96,%
+2024-05,Oficial 031,Sucursal 11,Experiencia,Tiempo de espera,60.68,Horas
+2024-05,Oficial 032,Sucursal 11,Eficiencia,Tiempo de procesamiento,85.56,Horas
+2024-05,Oficial 032,Sucursal 11,Eficiencia,Clientes atendidos por hora,82.76,Horas
+2024-05,Oficial 032,Sucursal 11,Eficiencia,Tasa de errores,66.44,%
+2024-05,Oficial 032,Sucursal 11,Calidad,Revisión manual necesaria,87.0,Horas
+2024-05,Oficial 032,Sucursal 11,Calidad,Tasa de rechazo,74.32,%
+2024-05,Oficial 032,Sucursal 11,Calidad,Cumplimiento de normativa,83.34,Horas
+2024-05,Oficial 032,Sucursal 11,Experiencia,Satisfacción del cliente,94.99,Puntos
+2024-05,Oficial 032,Sucursal 11,Experiencia,Tasa de reclamos,94.21,%
+2024-05,Oficial 032,Sucursal 11,Experiencia,Tiempo de espera,72.71,Horas
+2024-05,Oficial 033,Sucursal 11,Eficiencia,Tiempo de procesamiento,74.46,Horas
+2024-05,Oficial 033,Sucursal 11,Eficiencia,Clientes atendidos por hora,65.53,Horas
+2024-05,Oficial 033,Sucursal 11,Eficiencia,Tasa de errores,66.94,%
+2024-05,Oficial 033,Sucursal 11,Calidad,Revisión manual necesaria,94.99,Horas
+2024-05,Oficial 033,Sucursal 11,Calidad,Tasa de rechazo,72.56,%
+2024-05,Oficial 033,Sucursal 11,Calidad,Cumplimiento de normativa,67.67,Horas
+2024-05,Oficial 033,Sucursal 11,Experiencia,Satisfacción del cliente,61.66,Puntos
+2024-05,Oficial 033,Sucursal 11,Experiencia,Tasa de reclamos,67.56,%
+2024-05,Oficial 033,Sucursal 11,Experiencia,Tiempo de espera,80.45,Horas
+2024-05,Oficial 034,Sucursal 12,Eficiencia,Tiempo de procesamiento,69.27,Horas
+2024-05,Oficial 034,Sucursal 12,Eficiencia,Clientes atendidos por hora,70.37,Horas
+2024-05,Oficial 034,Sucursal 12,Eficiencia,Tasa de errores,84.47,%
+2024-05,Oficial 034,Sucursal 12,Calidad,Revisión manual necesaria,68.69,Horas
+2024-05,Oficial 034,Sucursal 12,Calidad,Tasa de rechazo,90.75,%
+2024-05,Oficial 034,Sucursal 12,Calidad,Cumplimiento de normativa,84.64,Horas
+2024-05,Oficial 034,Sucursal 12,Experiencia,Satisfacción del cliente,65.16,Puntos
+2024-05,Oficial 034,Sucursal 12,Experiencia,Tasa de reclamos,83.8,%
+2024-05,Oficial 034,Sucursal 12,Experiencia,Tiempo de espera,64.93,Horas
+2024-05,Oficial 035,Sucursal 12,Eficiencia,Tiempo de procesamiento,87.93,Horas
+2024-05,Oficial 035,Sucursal 12,Eficiencia,Clientes atendidos por hora,79.06,Horas
+2024-05,Oficial 035,Sucursal 12,Eficiencia,Tasa de errores,83.46,%
+2024-05,Oficial 035,Sucursal 12,Calidad,Revisión manual necesaria,68.34,Horas
+2024-05,Oficial 035,Sucursal 12,Calidad,Tasa de rechazo,66.88,%
+2024-05,Oficial 035,Sucursal 12,Calidad,Cumplimiento de normativa,64.19,Horas
+2024-05,Oficial 035,Sucursal 12,Experiencia,Satisfacción del cliente,68.02,Puntos
+2024-05,Oficial 035,Sucursal 12,Experiencia,Tasa de reclamos,70.34,%
+2024-05,Oficial 035,Sucursal 12,Experiencia,Tiempo de espera,71.14,Horas
+2024-05,Oficial 036,Sucursal 12,Eficiencia,Tiempo de procesamiento,64.29,Horas
+2024-05,Oficial 036,Sucursal 12,Eficiencia,Clientes atendidos por hora,82.12,Horas
+2024-05,Oficial 036,Sucursal 12,Eficiencia,Tasa de errores,70.04,%
+2024-05,Oficial 036,Sucursal 12,Calidad,Revisión manual necesaria,95.48,Horas
+2024-05,Oficial 036,Sucursal 12,Calidad,Tasa de rechazo,79.25,%
+2024-05,Oficial 036,Sucursal 12,Calidad,Cumplimiento de normativa,65.01,Horas
+2024-05,Oficial 036,Sucursal 12,Experiencia,Satisfacción del cliente,94.14,Puntos
+2024-05,Oficial 036,Sucursal 12,Experiencia,Tasa de reclamos,88.39,%
+2024-05,Oficial 036,Sucursal 12,Experiencia,Tiempo de espera,60.23,Horas
+2024-05,Oficial 037,Sucursal 13,Eficiencia,Tiempo de procesamiento,79.12,Horas
+2024-05,Oficial 037,Sucursal 13,Eficiencia,Clientes atendidos por hora,80.6,Horas
+2024-05,Oficial 037,Sucursal 13,Eficiencia,Tasa de errores,65.25,%
+2024-05,Oficial 037,Sucursal 13,Calidad,Revisión manual necesaria,77.77,Horas
+2024-05,Oficial 037,Sucursal 13,Calidad,Tasa de rechazo,91.15,%
+2024-05,Oficial 037,Sucursal 13,Calidad,Cumplimiento de normativa,76.75,Horas
+2024-05,Oficial 037,Sucursal 13,Experiencia,Satisfacción del cliente,97.51,Puntos
+2024-05,Oficial 037,Sucursal 13,Experiencia,Tasa de reclamos,79.71,%
+2024-05,Oficial 037,Sucursal 13,Experiencia,Tiempo de espera,95.76,Horas
+2024-05,Oficial 038,Sucursal 13,Eficiencia,Tiempo de procesamiento,99.84,Horas
+2024-05,Oficial 038,Sucursal 13,Eficiencia,Clientes atendidos por hora,65.6,Horas
+2024-05,Oficial 038,Sucursal 13,Eficiencia,Tasa de errores,89.71,%
+2024-05,Oficial 038,Sucursal 13,Calidad,Revisión manual necesaria,64.63,Horas
+2024-05,Oficial 038,Sucursal 13,Calidad,Tasa de rechazo,63.13,%
+2024-05,Oficial 038,Sucursal 13,Calidad,Cumplimiento de normativa,87.47,Horas
+2024-05,Oficial 038,Sucursal 13,Experiencia,Satisfacción del cliente,76.1,Puntos
+2024-05,Oficial 038,Sucursal 13,Experiencia,Tasa de reclamos,72.36,%
+2024-05,Oficial 038,Sucursal 13,Experiencia,Tiempo de espera,95.11,Horas
+2024-05,Oficial 039,Sucursal 13,Eficiencia,Tiempo de procesamiento,95.2,Horas
+2024-05,Oficial 039,Sucursal 13,Eficiencia,Clientes atendidos por hora,87.25,Horas
+2024-05,Oficial 039,Sucursal 13,Eficiencia,Tasa de errores,70.54,%
+2024-05,Oficial 039,Sucursal 13,Calidad,Revisión manual necesaria,67.02,Horas
+2024-05,Oficial 039,Sucursal 13,Calidad,Tasa de rechazo,96.3,%
+2024-05,Oficial 039,Sucursal 13,Calidad,Cumplimiento de normativa,69.83,Horas
+2024-05,Oficial 039,Sucursal 13,Experiencia,Satisfacción del cliente,99.17,Puntos
+2024-05,Oficial 039,Sucursal 13,Experiencia,Tasa de reclamos,95.08,%
+2024-05,Oficial 039,Sucursal 13,Experiencia,Tiempo de espera,80.66,Horas
+2024-05,Oficial 040,Sucursal 14,Eficiencia,Tiempo de procesamiento,93.54,Horas
+2024-05,Oficial 040,Sucursal 14,Eficiencia,Clientes atendidos por hora,72.8,Horas
+2024-05,Oficial 040,Sucursal 14,Eficiencia,Tasa de errores,63.3,%
+2024-05,Oficial 040,Sucursal 14,Calidad,Revisión manual necesaria,72.13,Horas
+2024-05,Oficial 040,Sucursal 14,Calidad,Tasa de rechazo,85.49,%
+2024-05,Oficial 040,Sucursal 14,Calidad,Cumplimiento de normativa,61.96,Horas
+2024-05,Oficial 040,Sucursal 14,Experiencia,Satisfacción del cliente,75.09,Puntos
+2024-05,Oficial 040,Sucursal 14,Experiencia,Tasa de reclamos,91.34,%
+2024-05,Oficial 040,Sucursal 14,Experiencia,Tiempo de espera,90.97,Horas
+2024-05,Oficial 041,Sucursal 14,Eficiencia,Tiempo de procesamiento,89.09,Horas
+2024-05,Oficial 041,Sucursal 14,Eficiencia,Clientes atendidos por hora,68.82,Horas
+2024-05,Oficial 041,Sucursal 14,Eficiencia,Tasa de errores,91.35,%
+2024-05,Oficial 041,Sucursal 14,Calidad,Revisión manual necesaria,81.19,Horas
+2024-05,Oficial 041,Sucursal 14,Calidad,Tasa de rechazo,62.88,%
+2024-05,Oficial 041,Sucursal 14,Calidad,Cumplimiento de normativa,95.78,Horas
+2024-05,Oficial 041,Sucursal 14,Experiencia,Satisfacción del cliente,85.75,Puntos
+2024-05,Oficial 041,Sucursal 14,Experiencia,Tasa de reclamos,82.8,%
+2024-05,Oficial 041,Sucursal 14,Experiencia,Tiempo de espera,97.47,Horas
+2024-05,Oficial 042,Sucursal 14,Eficiencia,Tiempo de procesamiento,71.37,Horas
+2024-05,Oficial 042,Sucursal 14,Eficiencia,Clientes atendidos por hora,87.81,Horas
+2024-05,Oficial 042,Sucursal 14,Eficiencia,Tasa de errores,63.93,%
+2024-05,Oficial 042,Sucursal 14,Calidad,Revisión manual necesaria,91.44,Horas
+2024-05,Oficial 042,Sucursal 14,Calidad,Tasa de rechazo,95.89,%
+2024-05,Oficial 042,Sucursal 14,Calidad,Cumplimiento de normativa,68.29,Horas
+2024-05,Oficial 042,Sucursal 14,Experiencia,Satisfacción del cliente,85.68,Puntos
+2024-05,Oficial 042,Sucursal 14,Experiencia,Tasa de reclamos,84.16,%
+2024-05,Oficial 042,Sucursal 14,Experiencia,Tiempo de espera,90.87,Horas
+2024-05,Oficial 043,Sucursal 15,Eficiencia,Tiempo de procesamiento,82.53,Horas
+2024-05,Oficial 043,Sucursal 15,Eficiencia,Clientes atendidos por hora,96.78,Horas
+2024-05,Oficial 043,Sucursal 15,Eficiencia,Tasa de errores,95.91,%
+2024-05,Oficial 043,Sucursal 15,Calidad,Revisión manual necesaria,69.65,Horas
+2024-05,Oficial 043,Sucursal 15,Calidad,Tasa de rechazo,86.45,%
+2024-05,Oficial 043,Sucursal 15,Calidad,Cumplimiento de normativa,79.01,Horas
+2024-05,Oficial 043,Sucursal 15,Experiencia,Satisfacción del cliente,87.25,Puntos
+2024-05,Oficial 043,Sucursal 15,Experiencia,Tasa de reclamos,92.03,%
+2024-05,Oficial 043,Sucursal 15,Experiencia,Tiempo de espera,89.69,Horas
+2024-05,Oficial 044,Sucursal 15,Eficiencia,Tiempo de procesamiento,67.0,Horas
+2024-05,Oficial 044,Sucursal 15,Eficiencia,Clientes atendidos por hora,90.55,Horas
+2024-05,Oficial 044,Sucursal 15,Eficiencia,Tasa de errores,87.38,%
+2024-05,Oficial 044,Sucursal 15,Calidad,Revisión manual necesaria,65.42,Horas
+2024-05,Oficial 044,Sucursal 15,Calidad,Tasa de rechazo,91.43,%
+2024-05,Oficial 044,Sucursal 15,Calidad,Cumplimiento de normativa,63.71,Horas
+2024-05,Oficial 044,Sucursal 15,Experiencia,Satisfacción del cliente,86.6,Puntos
+2024-05,Oficial 044,Sucursal 15,Experiencia,Tasa de reclamos,68.22,%
+2024-05,Oficial 044,Sucursal 15,Experiencia,Tiempo de espera,82.15,Horas
+2024-05,Oficial 045,Sucursal 15,Eficiencia,Tiempo de procesamiento,69.36,Horas
+2024-05,Oficial 045,Sucursal 15,Eficiencia,Clientes atendidos por hora,89.06,Horas
+2024-05,Oficial 045,Sucursal 15,Eficiencia,Tasa de errores,82.03,%
+2024-05,Oficial 045,Sucursal 15,Calidad,Revisión manual necesaria,97.04,Horas
+2024-05,Oficial 045,Sucursal 15,Calidad,Tasa de rechazo,81.11,%
+2024-05,Oficial 045,Sucursal 15,Calidad,Cumplimiento de normativa,71.56,Horas
+2024-05,Oficial 045,Sucursal 15,Experiencia,Satisfacción del cliente,98.78,Puntos
+2024-05,Oficial 045,Sucursal 15,Experiencia,Tasa de reclamos,78.76,%
+2024-05,Oficial 045,Sucursal 15,Experiencia,Tiempo de espera,83.53,Horas
+2024-05,Oficial 046,Sucursal 16,Eficiencia,Tiempo de procesamiento,80.67,Horas
+2024-05,Oficial 046,Sucursal 16,Eficiencia,Clientes atendidos por hora,82.8,Horas
+2024-05,Oficial 046,Sucursal 16,Eficiencia,Tasa de errores,60.67,%
+2024-05,Oficial 046,Sucursal 16,Calidad,Revisión manual necesaria,89.61,Horas
+2024-05,Oficial 046,Sucursal 16,Calidad,Tasa de rechazo,78.86,%
+2024-05,Oficial 046,Sucursal 16,Calidad,Cumplimiento de normativa,88.92,Horas
+2024-05,Oficial 046,Sucursal 16,Experiencia,Satisfacción del cliente,90.09,Puntos
+2024-05,Oficial 046,Sucursal 16,Experiencia,Tasa de reclamos,97.4,%
+2024-05,Oficial 046,Sucursal 16,Experiencia,Tiempo de espera,91.18,Horas
+2024-05,Oficial 047,Sucursal 16,Eficiencia,Tiempo de procesamiento,81.15,Horas
+2024-05,Oficial 047,Sucursal 16,Eficiencia,Clientes atendidos por hora,62.9,Horas
+2024-05,Oficial 047,Sucursal 16,Eficiencia,Tasa de errores,85.52,%
+2024-05,Oficial 047,Sucursal 16,Calidad,Revisión manual necesaria,76.18,Horas
+2024-05,Oficial 047,Sucursal 16,Calidad,Tasa de rechazo,93.89,%
+2024-05,Oficial 047,Sucursal 16,Calidad,Cumplimiento de normativa,98.45,Horas
+2024-05,Oficial 047,Sucursal 16,Experiencia,Satisfacción del cliente,77.99,Puntos
+2024-05,Oficial 047,Sucursal 16,Experiencia,Tasa de reclamos,95.69,%
+2024-05,Oficial 047,Sucursal 16,Experiencia,Tiempo de espera,90.79,Horas
+2024-05,Oficial 048,Sucursal 16,Eficiencia,Tiempo de procesamiento,96.6,Horas
+2024-05,Oficial 048,Sucursal 16,Eficiencia,Clientes atendidos por hora,73.12,Horas
+2024-05,Oficial 048,Sucursal 16,Eficiencia,Tasa de errores,94.16,%
+2024-05,Oficial 048,Sucursal 16,Calidad,Revisión manual necesaria,92.93,Horas
+2024-05,Oficial 048,Sucursal 16,Calidad,Tasa de rechazo,69.65,%
+2024-05,Oficial 048,Sucursal 16,Calidad,Cumplimiento de normativa,92.86,Horas
+2024-05,Oficial 048,Sucursal 16,Experiencia,Satisfacción del cliente,89.32,Puntos
+2024-05,Oficial 048,Sucursal 16,Experiencia,Tasa de reclamos,97.48,%
+2024-05,Oficial 048,Sucursal 16,Experiencia,Tiempo de espera,61.2,Horas
+2024-05,Oficial 049,Sucursal 17,Eficiencia,Tiempo de procesamiento,61.01,Horas
+2024-05,Oficial 049,Sucursal 17,Eficiencia,Clientes atendidos por hora,92.75,Horas
+2024-05,Oficial 049,Sucursal 17,Eficiencia,Tasa de errores,65.8,%
+2024-05,Oficial 049,Sucursal 17,Calidad,Revisión manual necesaria,94.17,Horas
+2024-05,Oficial 049,Sucursal 17,Calidad,Tasa de rechazo,72.94,%
+2024-05,Oficial 049,Sucursal 17,Calidad,Cumplimiento de normativa,67.96,Horas
+2024-05,Oficial 049,Sucursal 17,Experiencia,Satisfacción del cliente,79.96,Puntos
+2024-05,Oficial 049,Sucursal 17,Experiencia,Tasa de reclamos,84.21,%
+2024-05,Oficial 049,Sucursal 17,Experiencia,Tiempo de espera,84.57,Horas
+2024-05,Oficial 050,Sucursal 17,Eficiencia,Tiempo de procesamiento,98.85,Horas
+2024-05,Oficial 050,Sucursal 17,Eficiencia,Clientes atendidos por hora,70.94,Horas
+2024-05,Oficial 050,Sucursal 17,Eficiencia,Tasa de errores,81.97,%
+2024-05,Oficial 050,Sucursal 17,Calidad,Revisión manual necesaria,64.1,Horas
+2024-05,Oficial 050,Sucursal 17,Calidad,Tasa de rechazo,79.22,%
+2024-05,Oficial 050,Sucursal 17,Calidad,Cumplimiento de normativa,77.0,Horas
+2024-05,Oficial 050,Sucursal 17,Experiencia,Satisfacción del cliente,67.51,Puntos
+2024-05,Oficial 050,Sucursal 17,Experiencia,Tasa de reclamos,82.73,%
+2024-05,Oficial 050,Sucursal 17,Experiencia,Tiempo de espera,98.56,Horas
+2024-05,Oficial 051,Sucursal 17,Eficiencia,Tiempo de procesamiento,62.89,Horas
+2024-05,Oficial 051,Sucursal 17,Eficiencia,Clientes atendidos por hora,66.59,Horas
+2024-05,Oficial 051,Sucursal 17,Eficiencia,Tasa de errores,72.06,%
+2024-05,Oficial 051,Sucursal 17,Calidad,Revisión manual necesaria,83.94,Horas
+2024-05,Oficial 051,Sucursal 17,Calidad,Tasa de rechazo,76.31,%
+2024-05,Oficial 051,Sucursal 17,Calidad,Cumplimiento de normativa,89.16,Horas
+2024-05,Oficial 051,Sucursal 17,Experiencia,Satisfacción del cliente,96.33,Puntos
+2024-05,Oficial 051,Sucursal 17,Experiencia,Tasa de reclamos,99.43,%
+2024-05,Oficial 051,Sucursal 17,Experiencia,Tiempo de espera,75.49,Horas
+2024-05,Oficial 052,Sucursal 18,Eficiencia,Tiempo de procesamiento,61.81,Horas
+2024-05,Oficial 052,Sucursal 18,Eficiencia,Clientes atendidos por hora,61.01,Horas
+2024-05,Oficial 052,Sucursal 18,Eficiencia,Tasa de errores,98.22,%
+2024-05,Oficial 052,Sucursal 18,Calidad,Revisión manual necesaria,76.5,Horas
+2024-05,Oficial 052,Sucursal 18,Calidad,Tasa de rechazo,69.53,%
+2024-05,Oficial 052,Sucursal 18,Calidad,Cumplimiento de normativa,67.22,Horas
+2024-05,Oficial 052,Sucursal 18,Experiencia,Satisfacción del cliente,66.81,Puntos
+2024-05,Oficial 052,Sucursal 18,Experiencia,Tasa de reclamos,91.68,%
+2024-05,Oficial 052,Sucursal 18,Experiencia,Tiempo de espera,80.42,Horas
+2024-05,Oficial 053,Sucursal 18,Eficiencia,Tiempo de procesamiento,95.18,Horas
+2024-05,Oficial 053,Sucursal 18,Eficiencia,Clientes atendidos por hora,63.75,Horas
+2024-05,Oficial 053,Sucursal 18,Eficiencia,Tasa de errores,60.06,%
+2024-05,Oficial 053,Sucursal 18,Calidad,Revisión manual necesaria,98.98,Horas
+2024-05,Oficial 053,Sucursal 18,Calidad,Tasa de rechazo,85.6,%
+2024-05,Oficial 053,Sucursal 18,Calidad,Cumplimiento de normativa,88.13,Horas
+2024-05,Oficial 053,Sucursal 18,Experiencia,Satisfacción del cliente,75.52,Puntos
+2024-05,Oficial 053,Sucursal 18,Experiencia,Tasa de reclamos,99.82,%
+2024-05,Oficial 053,Sucursal 18,Experiencia,Tiempo de espera,70.85,Horas
+2024-05,Oficial 054,Sucursal 18,Eficiencia,Tiempo de procesamiento,73.9,Horas
+2024-05,Oficial 054,Sucursal 18,Eficiencia,Clientes atendidos por hora,87.09,Horas
+2024-05,Oficial 054,Sucursal 18,Eficiencia,Tasa de errores,86.26,%
+2024-05,Oficial 054,Sucursal 18,Calidad,Revisión manual necesaria,79.65,Horas
+2024-05,Oficial 054,Sucursal 18,Calidad,Tasa de rechazo,92.54,%
+2024-05,Oficial 054,Sucursal 18,Calidad,Cumplimiento de normativa,97.13,Horas
+2024-05,Oficial 054,Sucursal 18,Experiencia,Satisfacción del cliente,63.89,Puntos
+2024-05,Oficial 054,Sucursal 18,Experiencia,Tasa de reclamos,83.38,%
+2024-05,Oficial 054,Sucursal 18,Experiencia,Tiempo de espera,66.24,Horas
+2024-05,Oficial 055,Sucursal 19,Eficiencia,Tiempo de procesamiento,60.71,Horas
+2024-05,Oficial 055,Sucursal 19,Eficiencia,Clientes atendidos por hora,71.6,Horas
+2024-05,Oficial 055,Sucursal 19,Eficiencia,Tasa de errores,64.03,%
+2024-05,Oficial 055,Sucursal 19,Calidad,Revisión manual necesaria,61.04,Horas
+2024-05,Oficial 055,Sucursal 19,Calidad,Tasa de rechazo,66.29,%
+2024-05,Oficial 055,Sucursal 19,Calidad,Cumplimiento de normativa,90.3,Horas
+2024-05,Oficial 055,Sucursal 19,Experiencia,Satisfacción del cliente,76.88,Puntos
+2024-05,Oficial 055,Sucursal 19,Experiencia,Tasa de reclamos,62.81,%
+2024-05,Oficial 055,Sucursal 19,Experiencia,Tiempo de espera,64.8,Horas
+2024-05,Oficial 056,Sucursal 19,Eficiencia,Tiempo de procesamiento,89.17,Horas
+2024-05,Oficial 056,Sucursal 19,Eficiencia,Clientes atendidos por hora,79.07,Horas
+2024-05,Oficial 056,Sucursal 19,Eficiencia,Tasa de errores,63.91,%
+2024-05,Oficial 056,Sucursal 19,Calidad,Revisión manual necesaria,77.52,Horas
+2024-05,Oficial 056,Sucursal 19,Calidad,Tasa de rechazo,83.99,%
+2024-05,Oficial 056,Sucursal 19,Calidad,Cumplimiento de normativa,98.64,Horas
+2024-05,Oficial 056,Sucursal 19,Experiencia,Satisfacción del cliente,67.41,Puntos
+2024-05,Oficial 056,Sucursal 19,Experiencia,Tasa de reclamos,81.4,%
+2024-05,Oficial 056,Sucursal 19,Experiencia,Tiempo de espera,84.44,Horas
+2024-05,Oficial 057,Sucursal 19,Eficiencia,Tiempo de procesamiento,70.82,Horas
+2024-05,Oficial 057,Sucursal 19,Eficiencia,Clientes atendidos por hora,69.93,Horas
+2024-05,Oficial 057,Sucursal 19,Eficiencia,Tasa de errores,93.79,%
+2024-05,Oficial 057,Sucursal 19,Calidad,Revisión manual necesaria,77.79,Horas
+2024-05,Oficial 057,Sucursal 19,Calidad,Tasa de rechazo,90.01,%
+2024-05,Oficial 057,Sucursal 19,Calidad,Cumplimiento de normativa,87.51,Horas
+2024-05,Oficial 057,Sucursal 19,Experiencia,Satisfacción del cliente,63.27,Puntos
+2024-05,Oficial 057,Sucursal 19,Experiencia,Tasa de reclamos,73.26,%
+2024-05,Oficial 057,Sucursal 19,Experiencia,Tiempo de espera,65.41,Horas
+2024-05,Oficial 058,Sucursal 20,Eficiencia,Tiempo de procesamiento,88.48,Horas
+2024-05,Oficial 058,Sucursal 20,Eficiencia,Clientes atendidos por hora,92.28,Horas
+2024-05,Oficial 058,Sucursal 20,Eficiencia,Tasa de errores,99.31,%
+2024-05,Oficial 058,Sucursal 20,Calidad,Revisión manual necesaria,93.69,Horas
+2024-05,Oficial 058,Sucursal 20,Calidad,Tasa de rechazo,75.62,%
+2024-05,Oficial 058,Sucursal 20,Calidad,Cumplimiento de normativa,71.25,Horas
+2024-05,Oficial 058,Sucursal 20,Experiencia,Satisfacción del cliente,83.97,Puntos
+2024-05,Oficial 058,Sucursal 20,Experiencia,Tasa de reclamos,71.04,%
+2024-05,Oficial 058,Sucursal 20,Experiencia,Tiempo de espera,78.21,Horas
+2024-05,Oficial 059,Sucursal 20,Eficiencia,Tiempo de procesamiento,87.32,Horas
+2024-05,Oficial 059,Sucursal 20,Eficiencia,Clientes atendidos por hora,93.54,Horas
+2024-05,Oficial 059,Sucursal 20,Eficiencia,Tasa de errores,95.13,%
+2024-05,Oficial 059,Sucursal 20,Calidad,Revisión manual necesaria,71.69,Horas
+2024-05,Oficial 059,Sucursal 20,Calidad,Tasa de rechazo,74.62,%
+2024-05,Oficial 059,Sucursal 20,Calidad,Cumplimiento de normativa,76.47,Horas
+2024-05,Oficial 059,Sucursal 20,Experiencia,Satisfacción del cliente,69.94,Puntos
+2024-05,Oficial 059,Sucursal 20,Experiencia,Tasa de reclamos,89.67,%
+2024-05,Oficial 059,Sucursal 20,Experiencia,Tiempo de espera,96.07,Horas
+2024-05,Oficial 060,Sucursal 20,Eficiencia,Tiempo de procesamiento,77.31,Horas
+2024-05,Oficial 060,Sucursal 20,Eficiencia,Clientes atendidos por hora,88.8,Horas
+2024-05,Oficial 060,Sucursal 20,Eficiencia,Tasa de errores,84.01,%
+2024-05,Oficial 060,Sucursal 20,Calidad,Revisión manual necesaria,62.58,Horas
+2024-05,Oficial 060,Sucursal 20,Calidad,Tasa de rechazo,66.64,%
+2024-05,Oficial 060,Sucursal 20,Calidad,Cumplimiento de normativa,62.51,Horas
+2024-05,Oficial 060,Sucursal 20,Experiencia,Satisfacción del cliente,78.59,Puntos
+2024-05,Oficial 060,Sucursal 20,Experiencia,Tasa de reclamos,63.09,%
+2024-05,Oficial 060,Sucursal 20,Experiencia,Tiempo de espera,89.71,Horas
+2024-05,Oficial 061,Sucursal 21,Eficiencia,Tiempo de procesamiento,69.85,Horas
+2024-05,Oficial 061,Sucursal 21,Eficiencia,Clientes atendidos por hora,87.53,Horas
+2024-05,Oficial 061,Sucursal 21,Eficiencia,Tasa de errores,97.99,%
+2024-05,Oficial 061,Sucursal 21,Calidad,Revisión manual necesaria,85.95,Horas
+2024-05,Oficial 061,Sucursal 21,Calidad,Tasa de rechazo,89.68,%
+2024-05,Oficial 061,Sucursal 21,Calidad,Cumplimiento de normativa,92.94,Horas
+2024-05,Oficial 061,Sucursal 21,Experiencia,Satisfacción del cliente,72.67,Puntos
+2024-05,Oficial 061,Sucursal 21,Experiencia,Tasa de reclamos,82.46,%
+2024-05,Oficial 061,Sucursal 21,Experiencia,Tiempo de espera,87.3,Horas
+2024-05,Oficial 062,Sucursal 21,Eficiencia,Tiempo de procesamiento,83.2,Horas
+2024-05,Oficial 062,Sucursal 21,Eficiencia,Clientes atendidos por hora,72.38,Horas
+2024-05,Oficial 062,Sucursal 21,Eficiencia,Tasa de errores,85.63,%
+2024-05,Oficial 062,Sucursal 21,Calidad,Revisión manual necesaria,68.0,Horas
+2024-05,Oficial 062,Sucursal 21,Calidad,Tasa de rechazo,85.91,%
+2024-05,Oficial 062,Sucursal 21,Calidad,Cumplimiento de normativa,69.02,Horas
+2024-05,Oficial 062,Sucursal 21,Experiencia,Satisfacción del cliente,94.89,Puntos
+2024-05,Oficial 062,Sucursal 21,Experiencia,Tasa de reclamos,78.26,%
+2024-05,Oficial 062,Sucursal 21,Experiencia,Tiempo de espera,69.85,Horas
+2024-05,Oficial 063,Sucursal 21,Eficiencia,Tiempo de procesamiento,88.11,Horas
+2024-05,Oficial 063,Sucursal 21,Eficiencia,Clientes atendidos por hora,65.1,Horas
+2024-05,Oficial 063,Sucursal 21,Eficiencia,Tasa de errores,88.51,%
+2024-05,Oficial 063,Sucursal 21,Calidad,Revisión manual necesaria,90.71,Horas
+2024-05,Oficial 063,Sucursal 21,Calidad,Tasa de rechazo,74.77,%
+2024-05,Oficial 063,Sucursal 21,Calidad,Cumplimiento de normativa,61.75,Horas
+2024-05,Oficial 063,Sucursal 21,Experiencia,Satisfacción del cliente,73.19,Puntos
+2024-05,Oficial 063,Sucursal 21,Experiencia,Tasa de reclamos,65.55,%
+2024-05,Oficial 063,Sucursal 21,Experiencia,Tiempo de espera,94.44,Horas
+2024-05,Oficial 064,Sucursal 22,Eficiencia,Tiempo de procesamiento,62.36,Horas
+2024-05,Oficial 064,Sucursal 22,Eficiencia,Clientes atendidos por hora,87.83,Horas
+2024-05,Oficial 064,Sucursal 22,Eficiencia,Tasa de errores,64.82,%
+2024-05,Oficial 064,Sucursal 22,Calidad,Revisión manual necesaria,90.61,Horas
+2024-05,Oficial 064,Sucursal 22,Calidad,Tasa de rechazo,66.71,%
+2024-05,Oficial 064,Sucursal 22,Calidad,Cumplimiento de normativa,83.23,Horas
+2024-05,Oficial 064,Sucursal 22,Experiencia,Satisfacción del cliente,85.54,Puntos
+2024-05,Oficial 064,Sucursal 22,Experiencia,Tasa de reclamos,66.51,%
+2024-05,Oficial 064,Sucursal 22,Experiencia,Tiempo de espera,95.74,Horas
+2024-05,Oficial 065,Sucursal 22,Eficiencia,Tiempo de procesamiento,98.65,Horas
+2024-05,Oficial 065,Sucursal 22,Eficiencia,Clientes atendidos por hora,80.59,Horas
+2024-05,Oficial 065,Sucursal 22,Eficiencia,Tasa de errores,96.32,%
+2024-05,Oficial 065,Sucursal 22,Calidad,Revisión manual necesaria,85.09,Horas
+2024-05,Oficial 065,Sucursal 22,Calidad,Tasa de rechazo,65.72,%
+2024-05,Oficial 065,Sucursal 22,Calidad,Cumplimiento de normativa,86.42,Horas
+2024-05,Oficial 065,Sucursal 22,Experiencia,Satisfacción del cliente,86.06,Puntos
+2024-05,Oficial 065,Sucursal 22,Experiencia,Tasa de reclamos,69.03,%
+2024-05,Oficial 065,Sucursal 22,Experiencia,Tiempo de espera,66.79,Horas
+2024-05,Oficial 066,Sucursal 22,Eficiencia,Tiempo de procesamiento,66.85,Horas
+2024-05,Oficial 066,Sucursal 22,Eficiencia,Clientes atendidos por hora,92.31,Horas
+2024-05,Oficial 066,Sucursal 22,Eficiencia,Tasa de errores,78.58,%
+2024-05,Oficial 066,Sucursal 22,Calidad,Revisión manual necesaria,68.21,Horas
+2024-05,Oficial 066,Sucursal 22,Calidad,Tasa de rechazo,67.99,%
+2024-05,Oficial 066,Sucursal 22,Calidad,Cumplimiento de normativa,97.26,Horas
+2024-05,Oficial 066,Sucursal 22,Experiencia,Satisfacción del cliente,99.57,Puntos
+2024-05,Oficial 066,Sucursal 22,Experiencia,Tasa de reclamos,75.7,%
+2024-05,Oficial 066,Sucursal 22,Experiencia,Tiempo de espera,91.15,Horas
+2024-05,Oficial 067,Sucursal 23,Eficiencia,Tiempo de procesamiento,91.97,Horas
+2024-05,Oficial 067,Sucursal 23,Eficiencia,Clientes atendidos por hora,84.9,Horas
+2024-05,Oficial 067,Sucursal 23,Eficiencia,Tasa de errores,80.64,%
+2024-05,Oficial 067,Sucursal 23,Calidad,Revisión manual necesaria,87.8,Horas
+2024-05,Oficial 067,Sucursal 23,Calidad,Tasa de rechazo,99.09,%
+2024-05,Oficial 067,Sucursal 23,Calidad,Cumplimiento de normativa,86.36,Horas
+2024-05,Oficial 067,Sucursal 23,Experiencia,Satisfacción del cliente,63.98,Puntos
+2024-05,Oficial 067,Sucursal 23,Experiencia,Tasa de reclamos,82.58,%
+2024-05,Oficial 067,Sucursal 23,Experiencia,Tiempo de espera,94.14,Horas
+2024-05,Oficial 068,Sucursal 23,Eficiencia,Tiempo de procesamiento,85.58,Horas
+2024-05,Oficial 068,Sucursal 23,Eficiencia,Clientes atendidos por hora,85.7,Horas
+2024-05,Oficial 068,Sucursal 23,Eficiencia,Tasa de errores,66.27,%
+2024-05,Oficial 068,Sucursal 23,Calidad,Revisión manual necesaria,89.47,Horas
+2024-05,Oficial 068,Sucursal 23,Calidad,Tasa de rechazo,85.29,%
+2024-05,Oficial 068,Sucursal 23,Calidad,Cumplimiento de normativa,68.23,Horas
+2024-05,Oficial 068,Sucursal 23,Experiencia,Satisfacción del cliente,64.52,Puntos
+2024-05,Oficial 068,Sucursal 23,Experiencia,Tasa de reclamos,60.35,%
+2024-05,Oficial 068,Sucursal 23,Experiencia,Tiempo de espera,69.39,Horas
+2024-05,Oficial 069,Sucursal 23,Eficiencia,Tiempo de procesamiento,66.61,Horas
+2024-05,Oficial 069,Sucursal 23,Eficiencia,Clientes atendidos por hora,68.11,Horas
+2024-05,Oficial 069,Sucursal 23,Eficiencia,Tasa de errores,84.7,%
+2024-05,Oficial 069,Sucursal 23,Calidad,Revisión manual necesaria,76.89,Horas
+2024-05,Oficial 069,Sucursal 23,Calidad,Tasa de rechazo,98.36,%
+2024-05,Oficial 069,Sucursal 23,Calidad,Cumplimiento de normativa,70.48,Horas
+2024-05,Oficial 069,Sucursal 23,Experiencia,Satisfacción del cliente,98.54,Puntos
+2024-05,Oficial 069,Sucursal 23,Experiencia,Tasa de reclamos,81.85,%
+2024-05,Oficial 069,Sucursal 23,Experiencia,Tiempo de espera,96.67,Horas
+2024-05,Oficial 070,Sucursal 24,Eficiencia,Tiempo de procesamiento,84.07,Horas
+2024-05,Oficial 070,Sucursal 24,Eficiencia,Clientes atendidos por hora,65.65,Horas
+2024-05,Oficial 070,Sucursal 24,Eficiencia,Tasa de errores,86.58,%
+2024-05,Oficial 070,Sucursal 24,Calidad,Revisión manual necesaria,69.76,Horas
+2024-05,Oficial 070,Sucursal 24,Calidad,Tasa de rechazo,76.7,%
+2024-05,Oficial 070,Sucursal 24,Calidad,Cumplimiento de normativa,97.55,Horas
+2024-05,Oficial 070,Sucursal 24,Experiencia,Satisfacción del cliente,85.64,Puntos
+2024-05,Oficial 070,Sucursal 24,Experiencia,Tasa de reclamos,64.17,%
+2024-05,Oficial 070,Sucursal 24,Experiencia,Tiempo de espera,75.95,Horas
+2024-05,Oficial 071,Sucursal 24,Eficiencia,Tiempo de procesamiento,62.21,Horas
+2024-05,Oficial 071,Sucursal 24,Eficiencia,Clientes atendidos por hora,97.03,Horas
+2024-05,Oficial 071,Sucursal 24,Eficiencia,Tasa de errores,74.18,%
+2024-05,Oficial 071,Sucursal 24,Calidad,Revisión manual necesaria,68.39,Horas
+2024-05,Oficial 071,Sucursal 24,Calidad,Tasa de rechazo,67.97,%
+2024-05,Oficial 071,Sucursal 24,Calidad,Cumplimiento de normativa,67.31,Horas
+2024-05,Oficial 071,Sucursal 24,Experiencia,Satisfacción del cliente,89.49,Puntos
+2024-05,Oficial 071,Sucursal 24,Experiencia,Tasa de reclamos,72.93,%
+2024-05,Oficial 071,Sucursal 24,Experiencia,Tiempo de espera,76.25,Horas
+2024-05,Oficial 072,Sucursal 24,Eficiencia,Tiempo de procesamiento,89.77,Horas
+2024-05,Oficial 072,Sucursal 24,Eficiencia,Clientes atendidos por hora,97.3,Horas
+2024-05,Oficial 072,Sucursal 24,Eficiencia,Tasa de errores,66.14,%
+2024-05,Oficial 072,Sucursal 24,Calidad,Revisión manual necesaria,70.29,Horas
+2024-05,Oficial 072,Sucursal 24,Calidad,Tasa de rechazo,94.15,%
+2024-05,Oficial 072,Sucursal 24,Calidad,Cumplimiento de normativa,85.49,Horas
+2024-05,Oficial 072,Sucursal 24,Experiencia,Satisfacción del cliente,81.41,Puntos
+2024-05,Oficial 072,Sucursal 24,Experiencia,Tasa de reclamos,96.92,%
+2024-05,Oficial 072,Sucursal 24,Experiencia,Tiempo de espera,98.88,Horas
+2024-05,Procesamiento Comercial,Casa Matriz,Eficiencia,Tiempo de procesamiento,78.46,Horas
+2024-05,Procesamiento Comercial,Casa Matriz,Eficiencia,Clientes atendidos por hora,79.74,Horas
+2024-05,Procesamiento Comercial,Casa Matriz,Eficiencia,Tasa de errores,79.98,%
+2024-05,Procesamiento Comercial,Casa Matriz,Calidad,Revisión manual necesaria,71.18,Horas
+2024-05,Procesamiento Comercial,Casa Matriz,Calidad,Tasa de rechazo,87.39,%
+2024-05,Procesamiento Comercial,Casa Matriz,Calidad,Cumplimiento de normativa,83.66,Horas
+2024-05,Procesamiento Comercial,Casa Matriz,Experiencia,Satisfacción del cliente,74.16,Puntos
+2024-05,Procesamiento Comercial,Casa Matriz,Experiencia,Tasa de reclamos,82.81,%
+2024-05,Procesamiento Comercial,Casa Matriz,Experiencia,Tiempo de espera,91.44,Horas

@@ -2,49 +2,36 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <title>Dashboard KPIs – Banco Ejemplo</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <script src="https://cdn.tailwindcss.com"></script>
-  <script src="https://cdn.jsdelivr.net/npm/lucide@latest"></script>
 </head>
 <body class="bg-gray-100 text-gray-800">
   <div class="flex min-h-screen">
-    <!-- Sidebar -->
-    <aside class="w-64 bg-blue-900 text-white flex flex-col items-start p-4 space-y-6">
+    <aside class="w-64 bg-blue-900 text-white p-6">
       <h1 class="text-xl font-bold mb-6">Banco Ejemplo</h1>
-      <nav class="space-y-4 w-full">
-        <a href="#" class="flex items-center gap-2 hover:bg-blue-800 p-2 rounded"><i data-lucide="layout-dashboard"></i>Dashboard</a>
-        <a href="#" class="flex items-center gap-2 hover:bg-blue-800 p-2 rounded"><i data-lucide="settings"></i>Configuración</a>
+      <nav class="space-y-4">
+        <a href="#" class="block hover:bg-blue-800 p-2 rounded">Dashboard</a>
+        <a href="#" class="block hover:bg-blue-800 p-2 rounded">Configuración</a>
       </nav>
     </aside>
-
-    <!-- Main -->
     <main class="flex-1 p-6 space-y-6">
       <h2 class="text-2xl font-bold text-blue-900">KPIs por Unidad y Perspectiva</h2>
 
-      <!-- Filtros -->
       <div class="flex flex-wrap gap-4 items-center">
-        <select id="filtroUnidad" class="p-2 border border-gray-300 rounded-md">
-          <option value="">Todas las unidades</option>
-        </select>
-        <select id="filtroSucursal" class="p-2 border border-gray-300 rounded-md">
-          <option value="">Todas las sucursales</option>
-        </select>
-        <select id="filtroPerspectiva" class="p-2 border border-gray-300 rounded-md">
+        <select id="filtroUnidad" class="p-2 border rounded-md"><option value="">Todas las unidades</option></select>
+        <select id="filtroSucursal" class="p-2 border rounded-md"><option value="">Todas las sucursales</option></select>
+        <select id="filtroPerspectiva" class="p-2 border rounded-md">
           <option value="">Todas las perspectivas</option>
           <option value="Eficiencia">Eficiencia</option>
           <option value="Calidad">Calidad</option>
           <option value="Experiencia">Experiencia</option>
         </select>
-        <select id="filtroPeriodo" class="p-2 border border-gray-300 rounded-md">
-          <option value="actual">Mes Actual</option>
-          <option value="anterior">Mes Anterior</option>
-        </select>
+        <select id="filtroPeriodo" class="p-2 border rounded-md"><option value="">Todos los meses</option></select>
         <button id="btnExportar" class="ml-auto bg-green-600 text-white px-4 py-2 rounded hover:bg-green-700">Exportar CSV</button>
       </div>
 
-      <!-- Cards -->
       <div class="grid grid-cols-3 gap-6 mt-4">
         <div class="bg-white p-4 rounded-xl shadow-md border-l-8 border-green-500">
           <h3 class="text-lg font-semibold text-gray-600">Eficiencia</h3>
@@ -60,19 +47,6 @@
         </div>
       </div>
 
-      <!-- Charts -->
-      <div class="grid grid-cols-2 gap-6">
-        <div class="bg-white p-6 rounded-xl shadow-md">
-          <h4 class="font-semibold mb-2">Radar por Perspectiva</h4>
-          <canvas id="radarChart"></canvas>
-        </div>
-        <div class="bg-white p-6 rounded-xl shadow-md">
-          <h4 class="font-semibold mb-2">Top Indicadores</h4>
-          <canvas id="barChart"></canvas>
-        </div>
-      </div>
-
-      <!-- Tabla -->
       <div class="bg-white p-6 rounded-xl shadow-md mt-8 overflow-auto">
         <h4 class="font-semibold mb-4">Detalle de Indicadores</h4>
         <table class="min-w-full table-auto border-collapse text-sm">
@@ -93,6 +67,5 @@
     </main>
   </div>
   <script src="app.js"></script>
-  <script>lucide.createIcons();</script>
 </body>
 </html>
