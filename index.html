@@ -3,123 +3,96 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Dashboard Ejecutivo - Banco Ejemplo</title>
+  <title>Dashboard KPIs – Banco Ejemplo</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Segoe UI', sans-serif;
-      background: #f0f2f5;
-      color: #333;
-    }
-    header {
-      background-color: #003366;
-      color: white;
-      padding: 20px;
-      text-align: center;
-      font-size: 24px;
-      font-weight: bold;
-    }
-    .container {
-      padding: 30px;
-      max-width: 1400px;
-      margin: auto;
-    }
-    .filters {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 20px;
-      margin-bottom: 30px;
-    }
-    select, input {
-      padding: 10px;
-      font-size: 16px;
-      border: 1px solid #ccc;
-      border-radius: 8px;
-      min-width: 250px;
-    }
-    .kpi-summary {
-      display: flex;
-      gap: 20px;
-      margin-top: 30px;
-      margin-bottom: 40px;
-    }
-    .kpi-card {
-      background: white;
-      border-left: 6px solid #007bff;
-      padding: 20px;
-      border-radius: 8px;
-      flex: 1;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-    }
-    .kpi-card.green { border-left-color: #28a745; }
-    .kpi-card.orange { border-left-color: #ffc107; }
-    .kpi-card.red { border-left-color: #dc3545; }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      background: white;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-      margin-top: 20px;
-      border-radius: 8px;
-      overflow: hidden;
-    }
-    th, td {
-      padding: 12px;
-      text-align: center;
-      border-bottom: 1px solid #eee;
-    }
-    th {
-      background-color: #003366;
-      color: white;
-      font-weight: bold;
-    }
-    .chart-container {
-      margin-top: 50px;
-      background: white;
-      padding: 30px;
-      border-radius: 12px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-    }
-  </style>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.jsdelivr.net/npm/lucide@latest"></script>
 </head>
-<body>
-  <header>
-    Dashboard Ejecutivo de KPIs – Banco Ejemplo
-  </header>
-  <div class="container">
-    <div class="filters">
-      <input type="text" id="buscarSucursal" placeholder="Buscar Sucursal (nombre o número)">
-      <select id="unidad">
-        <option value="">Seleccionar Unidad</option>
-      </select>
-    </div>
+<body class="bg-gray-100 text-gray-800">
+  <div class="flex min-h-screen">
+    <!-- Sidebar -->
+    <aside class="w-64 bg-blue-900 text-white flex flex-col items-start p-4 space-y-6">
+      <h1 class="text-xl font-bold mb-6">Banco Ejemplo</h1>
+      <nav class="space-y-4 w-full">
+        <a href="#" class="flex items-center gap-2 hover:bg-blue-800 p-2 rounded"><i data-lucide="layout-dashboard"></i>Dashboard</a>
+        <a href="#" class="flex items-center gap-2 hover:bg-blue-800 p-2 rounded"><i data-lucide="settings"></i>Configuración</a>
+      </nav>
+    </aside>
 
-    <div class="kpi-summary" id="resumen-kpis"></div>
+    <!-- Main -->
+    <main class="flex-1 p-6 space-y-6">
+      <h2 class="text-2xl font-bold text-blue-900">KPIs por Unidad y Perspectiva</h2>
 
-    <div class="chart-container">
-      <canvas id="radarChart" height="300"></canvas>
-    </div>
+      <!-- Filtros -->
+      <div class="flex flex-wrap gap-4 items-center">
+        <select id="filtroUnidad" class="p-2 border border-gray-300 rounded-md">
+          <option value="">Todas las unidades</option>
+        </select>
+        <select id="filtroSucursal" class="p-2 border border-gray-300 rounded-md">
+          <option value="">Todas las sucursales</option>
+        </select>
+        <select id="filtroPerspectiva" class="p-2 border border-gray-300 rounded-md">
+          <option value="">Todas las perspectivas</option>
+          <option value="Eficiencia">Eficiencia</option>
+          <option value="Calidad">Calidad</option>
+          <option value="Experiencia">Experiencia</option>
+        </select>
+        <select id="filtroPeriodo" class="p-2 border border-gray-300 rounded-md">
+          <option value="actual">Mes Actual</option>
+          <option value="anterior">Mes Anterior</option>
+        </select>
+        <button id="btnExportar" class="ml-auto bg-green-600 text-white px-4 py-2 rounded hover:bg-green-700">Exportar CSV</button>
+      </div>
 
-    <div class="chart-container">
-      <canvas id="barChart" height="500"></canvas>
-    </div>
+      <!-- Cards -->
+      <div class="grid grid-cols-3 gap-6 mt-4">
+        <div class="bg-white p-4 rounded-xl shadow-md border-l-8 border-green-500">
+          <h3 class="text-lg font-semibold text-gray-600">Eficiencia</h3>
+          <p id="kpi-eficiencia" class="text-3xl font-bold text-green-700">--</p>
+        </div>
+        <div class="bg-white p-4 rounded-xl shadow-md border-l-8 border-yellow-500">
+          <h3 class="text-lg font-semibold text-gray-600">Calidad</h3>
+          <p id="kpi-calidad" class="text-3xl font-bold text-yellow-700">--</p>
+        </div>
+        <div class="bg-white p-4 rounded-xl shadow-md border-l-8 border-red-500">
+          <h3 class="text-lg font-semibold text-gray-600">Experiencia</h3>
+          <p id="kpi-experiencia" class="text-3xl font-bold text-red-700">--</p>
+        </div>
+      </div>
 
-    <table id="tabla-kpis">
-      <thead>
-        <tr>
-          <th>Indicador</th>
-          <th>Perspectiva</th>
-          <th>Valor</th>
-          <th>Unidad de Medida</th>
-          <th>Semáforo</th>
-        </tr>
-      </thead>
-      <tbody></tbody>
-    </table>
+      <!-- Charts -->
+      <div class="grid grid-cols-2 gap-6">
+        <div class="bg-white p-6 rounded-xl shadow-md">
+          <h4 class="font-semibold mb-2">Radar por Perspectiva</h4>
+          <canvas id="radarChart"></canvas>
+        </div>
+        <div class="bg-white p-6 rounded-xl shadow-md">
+          <h4 class="font-semibold mb-2">Top Indicadores</h4>
+          <canvas id="barChart"></canvas>
+        </div>
+      </div>
+
+      <!-- Tabla -->
+      <div class="bg-white p-6 rounded-xl shadow-md mt-8 overflow-auto">
+        <h4 class="font-semibold mb-4">Detalle de Indicadores</h4>
+        <table class="min-w-full table-auto border-collapse text-sm">
+          <thead>
+            <tr class="bg-blue-900 text-white">
+              <th class="px-4 py-2">Unidad</th>
+              <th class="px-4 py-2">Sucursal</th>
+              <th class="px-4 py-2">Indicador</th>
+              <th class="px-4 py-2">Perspectiva</th>
+              <th class="px-4 py-2">Valor</th>
+              <th class="px-4 py-2">Unidad de Medida</th>
+              <th class="px-4 py-2">Semáforo</th>
+            </tr>
+          </thead>
+          <tbody id="tabla-kpis" class="text-center"></tbody>
+        </table>
+      </div>
+    </main>
   </div>
-
   <script src="app.js"></script>
+  <script>lucide.createIcons();</script>
 </body>
 </html>
